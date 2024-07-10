@@ -1,0 +1,2355 @@
+pmid	filename	label	offset1	offset2	span
+24677153	pmid-24677153.ann	Disease	11	29	Síndrome de Gorlin
+24677153	pmid-24677153.ann	Disease	81	99	sindrome de Gorlin
+24677153	pmid-24677153.ann	Disease	101	103	SG
+24677153	pmid-24677153.ann	Gene	186	191	PTCH1
+24677153	pmid-24677153.ann	Disease	242	266	carcinomas basocelulares
+24677153	pmid-24677153.ann	Disease	276	298	anomalias esqueleticas
+24677153	pmid-24677153.ann	Disease	300	328	queratoquistes odontogenicos
+24677153	pmid-24677153.ann	Disease	331	353	tumores intracraneales
+24677153	pmid-24677153.ann	Disease	410	422	ataxia aguda
+24677153	pmid-24677153.ann	Disease	462	480	retraso psicomotor
+24677153	pmid-24677153.ann	Disease	527	529	SG
+24677153	pmid-24677153.ann	Disease	546	560	quiste maxilar
+24677153	pmid-24677153.ann	Disease	592	604	macrocefalia
+24677153	pmid-24677153.ann	Disease	629	634	hiper
+24677153	pmid-24677153.ann	Disease	637	639	or
+24677153	pmid-24677153.ann	Disease	692	694	SG
+24677153	pmid-24677153.ann	DNAMutation	729	738	c.930delC
+24677153	pmid-24677153.ann	Gene	760	765	PTCH1
+24677153	pmid-24677153.ann	Disease	804	806	SG
+24677153	pmid-24677153.ann	Disease	861	885	carcinomas basocelulares
+24677153	pmid-24677153.ann	Disease	1056	1078	tumores intracraneales
+24677153	pmid-24677153.ann	Disease	1100	1114	meduloblastoma
+24677153	pmid-24677153.ann	Disease	1148	1176	queratoquistes odontogenicos
+24677153	pmid-24677153.ann	Disease	1184	1205	alteraciones cutaneas
+24677153	pmid-24677153.ann	Disease	1207	1236	fibromas cardiacos y ovaricos
+24677153	pmid-24677153.ann	Disease	1247	1269	anomalias esqueleticas
+24677153	pmid-24677153.ann	Disease	1404	1406	SG
+25005318	pmid-25005318.ann	Disease	34	54	sindrome cri du chat
+25005318	pmid-25005318.ann	Disease	126	146	sindrome cri du chat
+25005318	pmid-25005318.ann	Disease	148	152	SCDC
+25005318	pmid-25005318.ann	OtherMutation	177	181	dele
+25005318	pmid-25005318.ann	OtherMutation	186	233	parcial o total del brazo corto del cromosoma 5
+25005318	pmid-25005318.ann	Disease	251	254	sin
+25005318	pmid-25005318.ann	Disease	261	279	de delecion cromos
+25005318	pmid-25005318.ann	Disease	443	447	SCDC
+25005318	pmid-25005318.ann	Disease	477	499	ataxia espinocerebelar
+25005318	pmid-25005318.ann	Disease	529	546	trastorno bipolar
+25005318	pmid-25005318.ann	Disease	549	555	ataxia
+25005318	pmid-25005318.ann	Disease	723	742	inteligencia limite
+25005318	pmid-25005318.ann	Disease	773	779	faquec
+25005318	pmid-25005318.ann	Disease	862	872	hipoacusia
+25005318	pmid-25005318.ann	Disease	874	880	ataxia
+25005318	pmid-25005318.ann	Disease	882	891	disartria
+25005318	pmid-25005318.ann	Disease	893	901	disfagia
+25005318	pmid-25005318.ann	Disease	903	909	depres
+25005318	pmid-25005318.ann	Disease	914	933	deterioro cognitivo
+25005318	pmid-25005318.ann	Disease	936	953	trastorno bipolar
+25005318	pmid-25005318.ann	Disease	984	996	microcefalia
+25005318	pmid-25005318.ann	Disease	998	1006	microgna
+25005318	pmid-25005318.ann	Disease	1011	1019	pies equ
+25005318	pmid-25005318.ann	Disease	1026	1032	ataxia
+25005318	pmid-25005318.ann	DNAMutation	1222	1226	5,15
+25005318	pmid-25005318.ann	OtherMutation	1267	1271	dele
+25005318	pmid-25005318.ann	OtherMutation	1276	1297	de 2,91 Mb en 5p15.33
+25005318	pmid-25005318.ann	OtherMutation	1321	1327	p15.33
+25005318	pmid-25005318.ann	Gene	1392	1396	TERT
+25005318	pmid-25005318.ann	Disease	1470	1474	SCDC
+25030070	pmid-25030070.ann	Gene	47	52	PMP22
+25030070	pmid-25030070.ann	Disease	70	91	neuropatía periférica
+25030070	pmid-25030070.ann	Disease	155	188	enfermedad de Charcot-Marie-Tooth
+25030070	pmid-25030070.ann	Disease	190	193	CMT
+25030070	pmid-25030070.ann	Disease	202	212	neuropatia
+25030070	pmid-25030070.ann	Disease	228	256	nervios motores y sensitivos
+25030070	pmid-25030070.ann	Disease	263	268	CMT1A
+25030070	pmid-25030070.ann	Disease	313	318	CMT1A
+25030070	pmid-25030070.ann	OtherMutation	338	344	duplic
+25030070	pmid-25030070.ann	OtherMutation	350	359	de 1,5 Mb
+25030070	pmid-25030070.ann	Gene	410	411	P
+25030070	pmid-25030070.ann	Gene	411	415	MP22
+25030070	pmid-25030070.ann	Disease	440	445	CMT1A
+25030070	pmid-25030070.ann	Gene	625	630	PMP22
+25030070	pmid-25030070.ann	Disease	730	733	CMT
+25030070	pmid-25030070.ann	Disease	838	841	CMT
+25030070	pmid-25030070.ann	Gene	904	909	PMP22
+25030070	pmid-25030070.ann	Gene	1089	1094	PMP22
+25030070	pmid-25030070.ann	Gene	1264	1265	P
+25030070	pmid-25030070.ann	Gene	1265	1269	MP22
+25030070	pmid-25030070.ann	Disease	1594	1599	CMT1A
+25030070	pmid-25030070.ann	Disease	1773	1776	CMT
+25030070	pmid-25030070.ann	Gene	1818	1823	PMP22
+25252662	pmid-25252662.ann	Disease	59	107	trastorno por déficit de atención/hiperactividad
+25252662	pmid-25252662.ann	Disease	230	278	trastorno por deficit de atencion/hiperactividad
+25252662	pmid-25252662.ann	Disease	280	284	TDAH
+25252662	pmid-25252662.ann	Gene	291	296	neuro
+25252662	pmid-25252662.ann	Gene	735	740	neuro
+25252662	pmid-25252662.ann	Disease	755	759	TDAH
+25252662	pmid-25252662.ann	Disease	764	793	trastorno del neurodesarrollo
+25252662	pmid-25252662.ann	Gene	1016	1021	neuro
+25252662	pmid-25252662.ann	Disease	1147	1151	TDAH
+25252662	pmid-25252662.ann	Gene	1193	1232	factor neurotrofico derivado de cerebro
+25252662	pmid-25252662.ann	Gene	1234	1238	BDNF
+25252662	pmid-25252662.ann	Disease	1335	1339	TDAH
+25252662	pmid-25252662.ann	Gene	1392	1394	BD
+25252662	pmid-25252662.ann	Gene	1458	1460	BD
+25252662	pmid-25252662.ann	Disease	1488	1492	TDAH
+25252662	pmid-25252662.ann	Gene	1619	1624	neuro
+25252662	pmid-25252662.ann	Disease	1764	1768	TDAH
+25418145	pmid-25418145.ann	Disease	57	85	enfermedad de Pompe infantil
+25418145	pmid-25418145.ann	Disease	200	219	enfermedad de Pompe
+25418145	pmid-25418145.ann	Disease	222	242	glucogenosis tipo II
+25418145	pmid-25418145.ann	Disease	249	277	error innato del metabolismo
+25418145	pmid-25418145.ann	Disease	327	337	deficit de
+25418145	pmid-25418145.ann	Gene	338	380	la enzima lisosomal alfa-glucosidasa acida
+25418145	pmid-25418145.ann	Gene	382	385	GAA
+25418145	pmid-25418145.ann	Disease	603	614	bradicardia
+25418145	pmid-25418145.ann	Disease	712	737	hipertrofia biventricular
+25418145	pmid-25418145.ann	Disease	797	810	retraso motor
+25418145	pmid-25418145.ann	Disease	813	822	hipotonia
+25418145	pmid-25418145.ann	Disease	827	837	arreflexia
+25418145	pmid-25418145.ann	Disease	1024	1044	afectacion miopatica
+25418145	pmid-25418145.ann	Disease	1073	1116	miopatia vacuolar con deposito de glucogeno
+25418145	pmid-25418145.ann	Gene	1147	1150	GAA
+25418145	pmid-25418145.ann	Gene	1200	1203	GAA
+25418145	pmid-25418145.ann	Disease	1278	1297	enfermedad de Pompe
+25418145	pmid-25418145.ann	Disease	1429	1456	miocardiopatia hipertrofica
+25418145	pmid-25418145.ann	Disease	1614	1628	Motor Function
+25418145	pmid-25418145.ann	Gene	1654	1655	G
+25418145	pmid-25418145.ann	Disease	1854	1881	miocardiopatia hipertrofica
+25617558	pmid-25617558.ann	Gene	58	64	CAPN10
+25617558	pmid-25617558.ann	Disease	86	110	diabetes mellitus tipo 2
+25617558	pmid-25617558.ann	Disease	182	199	diabetes mellitus
+25617558	pmid-25617558.ann	Disease	201	211	DM) tipo 2
+25617558	pmid-25617558.ann	Gene	395	401	CAPN10
+25617558	pmid-25617558.ann	Disease	600	609	DM tipo 2
+25617558	pmid-25617558.ann	Disease	690	707	diabéticos tipo 2
+25617558	pmid-25617558.ann	Disease	773	782	DM tipo 2
+25617558	pmid-25617558.ann	Gene	1099	1105	CAPN10
+25617558	pmid-25617558.ann	Gene	1782	1788	CAPN10
+25617558	pmid-25617558.ann	Disease	1809	1818	DM tipo 2
+25710691	pmid-25710691.ann	Gene	35	40	NRXN1
+25710691	pmid-25710691.ann	OtherMutation	177	206	deleciones de los exones alfa
+25710691	pmid-25710691.ann	Gene	215	220	NRXN1
+25710691	pmid-25710691.ann	Gene	311	316	NRXN1
+25710691	pmid-25710691.ann	Disease	376	395	retraso mental leve
+25710691	pmid-25710691.ann	Disease	406	434	trastornos de comportamiento
+25710691	pmid-25710691.ann	Disease	445	458	rasgos dismor
+25710691	pmid-25710691.ann	Disease	466	480	malformaciones
+25710691	pmid-25710691.ann	OtherMutation	529	558	deleciones de los exones alfa
+25710691	pmid-25710691.ann	Gene	567	572	NRXN1
+25710691	pmid-25710691.ann	OtherMutation	636	665	deleciones de los exones beta
+25710691	pmid-25710691.ann	Disease	671	683	macrocefalia
+25710691	pmid-25710691.ann	Disease	685	694	epilepsia
+25710691	pmid-25710691.ann	Disease	697	711	retraso mental
+25912702	pmid-25912702.ann	Disease	11	14	Mal
+25912702	pmid-25912702.ann	Disease	14	40	formacion de Arnold-Chiari
+25912702	pmid-25912702.ann	Disease	47	65	sindrome de Noonan
+25912702	pmid-25912702.ann	Disease	74	77	sin
+25912702	pmid-25912702.ann	Disease	132	150	sindrome de Noonan
+25912702	pmid-25912702.ann	Disease	152	154	SN
+25912702	pmid-25912702.ann	Disease	201	208	LEOPARD
+25912702	pmid-25912702.ann	Disease	210	228	cardiofaciocutaneo
+25912702	pmid-25912702.ann	Disease	230	238	Costello
+25912702	pmid-25912702.ann	Disease	241	247	Legius
+25912702	pmid-25912702.ann	Disease	497	500	mal
+25912702	pmid-25912702.ann	Disease	500	526	formacion de Arnold-Chiari
+25912702	pmid-25912702.ann	Disease	528	529	M
+25912702	pmid-25912702.ann	Disease	529	531	AC
+25912702	pmid-25912702.ann	Disease	573	575	SN
+25912702	pmid-25912702.ann	Disease	612	615	MAC
+25912702	pmid-25912702.ann	Disease	664	666	SN
+25912702	pmid-25912702.ann	Disease	694	696	SN
+25912702	pmid-25912702.ann	Disease	699	702	MAC
+25912702	pmid-25912702.ann	Disease	763	767	onan
+25912702	pmid-25912702.ann	Disease	801	828	estenosis valvular pulmonar
+25912702	pmid-25912702.ann	Disease	854	857	MAC
+25912702	pmid-25912702.ann	DNAMutation	928	936	c.922A>G
+25912702	pmid-25912702.ann	Gene	955	959	PTPN
+25912702	pmid-25912702.ann	Disease	1033	1039	Noonan
+25912702	pmid-25912702.ann	Disease	1042	1045	MAC
+25912702	pmid-25912702.ann	DNAMutation	1132	1140	c.923A>G
+25912702	pmid-25912702.ann	Gene	1159	1165	PTPN11
+25912702	pmid-25912702.ann	Disease	1290	1297	LEOPARD
+25912702	pmid-25912702.ann	Disease	1379	1382	MAC
+25912702	pmid-25912702.ann	Disease	1426	1428	SN
+25952600	pmid-25952600.ann	OtherMutation	16	30	deleción 12p12
+25952600	pmid-25952600.ann	Gene	50	51	S
+25952600	pmid-25952600.ann	Gene	51	54	OX5
+25952600	pmid-25952600.ann	Disease	78	108	alteracion del neurodesarrollo
+25952600	pmid-25952600.ann	Gene	142	143	S
+25952600	pmid-25952600.ann	Gene	143	146	OX5
+25952600	pmid-25952600.ann	Disease	300	324	discapacidad intelectual
+25952600	pmid-25952600.ann	Disease	326	347	alteracion conductual
+25952600	pmid-25952600.ann	Disease	350	372	malformaciones menores
+25952600	pmid-25952600.ann	Disease	400	432	alteracion en el neurodesarrollo
+25952600	pmid-25952600.ann	OtherMutation	442	456	delecion 12p12
+25952600	pmid-25952600.ann	Gene	476	477	S
+25952600	pmid-25952600.ann	Gene	477	480	OX5
+25952600	pmid-25952600.ann	Gene	564	565	S
+25952600	pmid-25952600.ann	Gene	565	568	OX5
+26774256	pmid-26774256.ann	Disease	49	106	infecciones del tracto urinario de inicio en la comunidad
+26774256	pmid-26774256.ann	Gene	147	186	de betalactamasas de espectro extendido
+26774256	pmid-26774256.ann	Disease	229	260	infecciones del tracto urinario
+26774256	pmid-26774256.ann	Disease	262	265	ITU
+26774256	pmid-26774256.ann	Disease	500	529	ITU de inicio en la comunidad
+26774256	pmid-26774256.ann	Disease	531	537	ITU-IC
+26774256	pmid-26774256.ann	Gene	586	625	de betalactamasas de espectro extendido
+26774256	pmid-26774256.ann	Gene	630	631	E
+26774256	pmid-26774256.ann	Disease	896	902	ITU-IC
+26774256	pmid-26774256.ann	Disease	968	975	E. coli
+26774256	pmid-26774256.ann	Gene	1540	1545	-M-15
+26774256	pmid-26774256.ann	Disease	1672	1686	ITU complicada
+26774256	pmid-26774256.ann	Gene	1833	1841	CTX-M-15
+26774256	pmid-26774256.ann	Gene	2070	2075	CTX-M
+26860721	pmid-26860721.ann	Disease	41	70	síndrome de Aicardi-Goutières
+26860721	pmid-26860721.ann	Gene	104	112	RNASEH2B
+26860721	pmid-26860721.ann	Disease	176	205	sindrome de Aicardi-Goutieres
+26860721	pmid-26860721.ann	Disease	212	233	trastorno inmunitario
+26860721	pmid-26860721.ann	Gene	307	311	TREX
+26860721	pmid-26860721.ann	Gene	326	328	ri
+26860721	pmid-26860721.ann	Gene	335	341	asa H2
+26860721	pmid-26860721.ann	Gene	343	349	SAMHD1
+26860721	pmid-26860721.ann	Gene	351	355	ADAR
+26860721	pmid-26860721.ann	Gene	358	363	IFIH1
+26860721	pmid-26860721.ann	Gene	365	366	M
+26860721	pmid-26860721.ann	Gene	368	369	5
+26860721	pmid-26860721.ann	Gene	511	519	RNASEH2B
+26860721	pmid-26860721.ann	Disease	909	927	retraso psicomotor
+26860721	pmid-26860721.ann	Gene	1150	1158	RNASEH2B
+26860721	pmid-26860721.ann	Disease	1397	1419	encefalopatia subaguda
+26860721	pmid-26860721.ann	Disease	1458	1461	dis
+26860721	pmid-26860721.ann	Disease	1461	1479	tonia/espasticidad
+26916325	pmid-26916325.ann	Disease	11	65	Paraplejía espástica hereditaria ligada al cromosoma X
+26916325	pmid-26916325.ann	Gene	89	94	L1CAM
+26916325	pmid-26916325.ann	Disease	127	141	síndrome CRASH
+26916325	pmid-26916325.ann	Disease	171	203	paraplejia espastica hereditaria
+26916325	pmid-26916325.ann	Disease	205	208	PEH
+26916325	pmid-26916325.ann	Disease	295	350	perdida progresiva de fuerza en los miembros inferiores
+26916325	pmid-26916325.ann	Disease	355	367	espasticidad
+26916325	pmid-26916325.ann	Gene	461	465	SPG1
+26916325	pmid-26916325.ann	Disease	492	495	PEH
+26916325	pmid-26916325.ann	Gene	558	561	gen
+26916325	pmid-26916325.ann	Gene	565	567	la
+26916325	pmid-26916325.ann	Gene	568	599	molecula de adhesion celular L1
+26916325	pmid-26916325.ann	Gene	601	606	L1CAM
+26916325	pmid-26916325.ann	Gene	612	616	SPG1
+26916325	pmid-26916325.ann	Disease	638	652	sindrome CRASH
+26916325	pmid-26916325.ann	Disease	654	680	corpus callosum hypoplasia
+26916325	pmid-26916325.ann	Disease	682	694	retardation,
+26916325	pmid-26916325.ann	Disease	695	711	adducted thumbs,
+26916325	pmid-26916325.ann	Disease	712	740	spasticity and hydrocephalus
+26916325	pmid-26916325.ann	Disease	833	857	discapacidad intelectual
+26916325	pmid-26916325.ann	Disease	859	880	paraparesia espastica
+26916325	pmid-26916325.ann	Disease	882	895	piramidalismo
+26916325	pmid-26916325.ann	Disease	897	916	dismorfias faciales
+26916325	pmid-26916325.ann	Disease	919	935	pulgares en aduc
+26916325	pmid-26916325.ann	Disease	963	990	agenesia del cuerpo calloso
+26916325	pmid-26916325.ann	Disease	993	1010	ventriculomegalia
+26916325	pmid-26916325.ann	Gene	1161	1166	L1CAM
+26916325	pmid-26916325.ann	Disease	1262	1276	sindrome CRASH
+26916325	pmid-26916325.ann	DNAMutation	1290	1297	c.516G>
+26916325	pmid-26916325.ann	Gene	1320	1325	L1CAM
+26916325	pmid-26916325.ann	Disease	1469	1490	paraparesia espastica
+26916325	pmid-26916325.ann	Disease	1492	1516	discapacidad intelectual
+26916325	pmid-26916325.ann	Disease	1519	1535	pulgares aductos
+27149188	pmid-27149188.ann	Disease	11	12	G
+27149188	pmid-27149188.ann	Disease	12	32	anglioglioma atipico
+27149188	pmid-27149188.ann	Gene	49	59	BRAF V600E
+27149188	pmid-27149188.ann	Disease	134	148	gangliogliomas
+27149188	pmid-27149188.ann	Disease	153	160	tumores
+27149188	pmid-27149188.ann	Disease	271	289	crisis epilepticas
+27149188	pmid-27149188.ann	Disease	657	671	gangliogliomas
+27149188	pmid-27149188.ann	Disease	806	820	gangliogliomas
+27149188	pmid-27149188.ann	Gene	839	849	BRAF V600E
+27149188	pmid-27149188.ann	Disease	1066	1079	ganglioglioma
+27149188	pmid-27149188.ann	Gene	1257	1261	BRAF
+27149188	pmid-27149188.ann	Disease	1405	1419	gangliogliomas
+27149188	pmid-27149188.ann	Disease	1547	1565	gangliogliomas ati
+27399022	pmid-27399022.ann	Disease	11	37	Síndrome de Langer-Giedion
+27399022	pmid-27399022.ann	OtherMutation	42	64	deleción 8q23.1-q24.12
+27399022	pmid-27399022.ann	Disease	132	158	síndrome de Langer-Giedion
+27399022	pmid-27399022.ann	Disease	182	218	síndrome tricorrinofalángico tipo II
+27399022	pmid-27399022.ann	Disease	227	264	enfermedad hereditaria multisistémica
+27399022	pmid-27399022.ann	Disease	291	328	síndromes por deleción de genes conti
+27399022	pmid-27399022.ann	Gene	481	486	TRPS1
+27399022	pmid-27399022.ann	Gene	488	493	RAD21
+27399022	pmid-27399022.ann	Gene	496	500	EXT1
+27399022	pmid-27399022.ann	Disease	535	582	osteocondromatosis múltiple en las extremidades
+27399022	pmid-27399022.ann	Disease	584	597	hipertricosis
+27399022	pmid-27399022.ann	OtherMutation	792	839	deleción en la región cromosómica 8q23.1-q24.12
+27658362	pmid-27658362.ann	Disease	11	14	Sin
+27658362	pmid-27658362.ann	Disease	14	40	drome de Aicardi-Goutieres
+27658362	pmid-27658362.ann	Gene	64	69	IFIH1
+27658362	pmid-27658362.ann	Disease	74	78	afec
+27658362	pmid-27658362.ann	Disease	85	92	pontina
+27658362	pmid-27658362.ann	Disease	146	175	sindrome de Aicardi-Goutieres
+27658362	pmid-27658362.ann	Disease	188	221	encefalopatia subaguda progresiva
+27658362	pmid-27658362.ann	Disease	297	315	retraso psicomotor
+27658362	pmid-27658362.ann	Disease	317	329	microcefalia
+27658362	pmid-27658362.ann	Disease	331	375	alteraciones en la sustancia blanca cerebral
+27658362	pmid-27658362.ann	Disease	377	407	calcificaciones intracraneales
+27658362	pmid-27658362.ann	Gene	1103	1108	IFIH1
+27658362	pmid-27658362.ann	Gene	1110	1153	interferon induced with helicase C domain 1
+27658362	pmid-27658362.ann	Gene	1317	1322	IFIH1
+27658362	pmid-27658362.ann	Disease	1511	1540	sindrome de Aicardi-Goutieres
+27658362	pmid-27658362.ann	Gene	1657	1662	IFIH1
+27658362	pmid-27658362.ann	Disease	1769	1793	encefalomalacia quistica
+27658362	pmid-27658362.ann	Disease	1800	1813	protuberancia
+27699752	pmid-27699752.ann	Gene	11	12	R
+27699752	pmid-27699752.ann	Gene	12	15	IT1
+27699752	pmid-27699752.ann	Disease	41	59	sindrome de Noonan
+27699752	pmid-27699752.ann	Disease	89	107	sindrome de Noonan
+27699752	pmid-27699752.ann	Disease	145	148	sin
+27699752	pmid-27699752.ann	Disease	148	179	dromes malformativos congenitos
+27699752	pmid-27699752.ann	Gene	236	239	RAS
+27699752	pmid-27699752.ann	Gene	240	244	MAPK
+27699752	pmid-27699752.ann	Disease	272	275	RAS
+27699752	pmid-27699752.ann	Disease	318	351	alteraciones geneticas congenitas
+27699752	pmid-27699752.ann	Gene	427	428	R
+27699752	pmid-27699752.ann	Gene	428	431	IT1
+27699752	pmid-27699752.ann	Disease	449	467	sindrome de Noonan
+27699752	pmid-27699752.ann	Disease	525	543	sindrome de Noonan
+27699752	pmid-27699752.ann	Disease	592	619	miocardiopatia hipertrofica
+27699752	pmid-27699752.ann	Gene	692	693	R
+27699752	pmid-27699752.ann	Gene	693	696	IT1
+27699752	pmid-27699752.ann	DNAMutation	698	706	c.295T>C
+27699752	pmid-27699752.ann	Gene	782	783	R
+27699752	pmid-27699752.ann	Gene	783	786	IT1
+27699752	pmid-27699752.ann	Disease	937	955	sindrome de Noonan
+27699752	pmid-27699752.ann	Disease	1058	1076	sindrome de Noonan
+27699752	pmid-27699752.ann	Disease	1222	1249	miocardiopatia hipertrofica
+27699752	pmid-27699752.ann	Disease	1272	1282	talla baja
+27699752	pmid-27699752.ann	Disease	1285	1304	deformidad toracica
+27779301	pmid-27779301.ann	Disease	11	12	G
+27779301	pmid-27779301.ann	Disease	12	15	lio
+27779301	pmid-27779301.ann	Disease	15	59	blastoma multiforme congenito infratentorial
+27779301	pmid-27779301.ann	Disease	64	69	tumor
+27779301	pmid-27779301.ann	Disease	144	177	glioblastoma multiforme congenito
+27779301	pmid-27779301.ann	Disease	207	254	tumores congenitos del sistema nervioso central
+27779301	pmid-27779301.ann	Disease	338	371	glioblastoma multiforme congenito
+27779301	pmid-27779301.ann	Gene	395	399	TP53
+27779301	pmid-27779301.ann	Gene	430	433	p53
+27779301	pmid-27779301.ann	Disease	718	751	glioblastoma multiforme congenito
+27779301	pmid-27779301.ann	Disease	790	813	glioblastoma multiforme
+27779301	pmid-27779301.ann	Gene	858	862	TP53
+27779301	pmid-27779301.ann	Disease	970	993	glioblastoma multiforme
+27795219	pmid-27795219.ann	Disease	11	29	Síndrome hiper-IgE
+27795219	pmid-27795219.ann	Gene	69	75	STAT-3
+27795219	pmid-27795219.ann	Gene	78	84	DOCK-8
+27795219	pmid-27795219.ann	Disease	124	152	Inmunodeficiencias Primarias
+27795219	pmid-27795219.ann	Disease	157	175	síndrome hiper-IgE
+27795219	pmid-27795219.ann	Disease	239	267	Mendelian Inheritance in Man
+27795219	pmid-27795219.ann	Disease	295	346	inmunodeficiencias combinadas asociadas a síndromes
+27795219	pmid-27795219.ann	Disease	405	416	eosinofilia
+27795219	pmid-27795219.ann	Disease	418	446	abscesos recurrentes en piel
+27795219	pmid-27795219.ann	Disease	448	457	neumonías
+27795219	pmid-27795219.ann	Disease	459	490	lesiones en parénquima pulmonar
+27795219	pmid-27795219.ann	Disease	492	515	infecciones recurrentes
+27795219	pmid-27795219.ann	Disease	517	547	erupciones en el recién nacido
+27795219	pmid-27795219.ann	Disease	549	555	eccema
+27795219	pmid-27795219.ann	Disease	557	566	sinusitis
+27795219	pmid-27795219.ann	Disease	568	574	otitis
+27795219	pmid-27795219.ann	Disease	577	601	candidiasis mucocutáneas
+27795219	pmid-27795219.ann	Disease	606	624	síndrome hiper-IgE
+27795219	pmid-27795219.ann	Disease	720	738	síndrome hiper-IgE
+27795219	pmid-27795219.ann	Disease	807	828	facies característica
+27795219	pmid-27795219.ann	Disease	830	850	dentición patológica
+27795219	pmid-27795219.ann	Disease	852	862	escoliosis
+27795219	pmid-27795219.ann	Disease	864	882	alteraciones óseas
+27795219	pmid-27795219.ann	Disease	885	914	hiperextensibilidad articular
+27795219	pmid-27795219.ann	Gene	992	1016	transductor de señales y
+27795219	pmid-27795219.ann	Gene	1017	1048	activador de la transcripción 3
+27795219	pmid-27795219.ann	Gene	1050	1056	STAT-3
+27795219	pmid-27795219.ann	Gene	1093	1129	proteína dedicada a la citocinesis 8
+27795219	pmid-27795219.ann	Gene	1131	1132	D
+27795219	pmid-27795219.ann	Gene	1132	1137	OCK-8
+27795219	pmid-27795219.ann	Disease	1212	1230	síndrome hiper-IgE
+27819792	pmid-27819792.ann	Disease	42	62	hemoglobina D Punjab
+27819792	pmid-27819792.ann	Disease	108	128	hemoglobina D Punjab
+27819792	pmid-27819792.ann	Disease	182	195	hemoglobina D
+27819792	pmid-27819792.ann	Disease	315	325	HbD Punjab
+27819792	pmid-27819792.ann	Disease	421	424	HbS
+27819792	pmid-27819792.ann	Disease	551	561	HbD Punjab
+27819792	pmid-27819792.ann	Disease	631	653	hemoglobinas anormales
+27819792	pmid-27819792.ann	Disease	701	711	HbD Punjab
+27819792	pmid-27819792.ann	Gene	730	733	HFE
+27819792	pmid-27819792.ann	Disease	760	779	síndrome de Gilbert
+27819792	pmid-27819792.ann	Gene	816	819	HFE
+27819792	pmid-27819792.ann	Disease	904	914	HbD Punjab
+27819792	pmid-27819792.ann	Disease	916	919	HbS
+27819792	pmid-27819792.ann	Disease	921	935	beta-talasemia
+27819792	pmid-27819792.ann	Disease	937	940	HFE
+27819792	pmid-27819792.ann	Disease	943	962	síndrome de Gilbert
+27819792	pmid-27819792.ann	Disease	1046	1056	HbD Punjab
+27819792	pmid-27819792.ann	Disease	1280	1283	HbS
+27855054	pmid-27855054.ann	Disease	88	116	leucemia linfoblástica aguda
+27855054	pmid-27855054.ann	Disease	158	167	leucemias
+27855054	pmid-27855054.ann	Disease	341	350	leucemias
+27855054	pmid-27855054.ann	Gene	578	586	TEL-AML1
+27855054	pmid-27855054.ann	Gene	588	595	MLL-AF4
+27855054	pmid-27855054.ann	Gene	597	610	BCR-ABL menor
+27855054	pmid-27855054.ann	Disease	655	683	leucemia aguda linfoblástica
+27855054	pmid-27855054.ann	Disease	797	825	leucemia aguda linfoblástica
+27855054	pmid-27855054.ann	Gene	890	898	TEL-AML1
+27855054	pmid-27855054.ann	Gene	900	907	MLL-AF4
+27855054	pmid-27855054.ann	Gene	909	922	BCR-ABL menor
+27855054	pmid-27855054.ann	Gene	1124	1132	TEL-AML1
+27855054	pmid-27855054.ann	Gene	1143	1150	2A-PBX1
+27855054	pmid-27855054.ann	Gene	1180	1187	MLL-AF4
+27855054	pmid-27855054.ann	Gene	1190	1203	BCR-ABL menor
+27855054	pmid-27855054.ann	Gene	1367	1375	TEL-AML1
+28097853	pmid-28097853.ann	Disease	58	114	displasia ectodérmica hipohidrótica autosómica dominante
+28097853	pmid-28097853.ann	Disease	130	165	displasia ectodérmica hipohidrótica
+28097853	pmid-28097853.ann	Disease	167	170	DEH
+28097853	pmid-28097853.ann	Disease	217	284	deficiencia en el desarrollo de estructuras derivadas del ectodermo
+28097853	pmid-28097853.ann	Gene	326	329	EDA
+28097853	pmid-28097853.ann	Gene	331	335	EDAR
+28097853	pmid-28097853.ann	Gene	338	345	EDARADD
+28097853	pmid-28097853.ann	Gene	461	462	E
+28097853	pmid-28097853.ann	Disease	475	490	DEH ligada al X
+28097853	pmid-28097853.ann	Gene	565	569	EDAR
+28097853	pmid-28097853.ann	Gene	572	579	EDARADD
+28097853	pmid-28097853.ann	Disease	590	593	DEH
+28097853	pmid-28097853.ann	Disease	693	703	hipodoncia
+28097853	pmid-28097853.ann	Disease	705	717	hipotricosis
+28097853	pmid-28097853.ann	Disease	720	724	hipo
+28097853	pmid-28097853.ann	Disease	767	778	hipertermia
+28097853	pmid-28097853.ann	Disease	831	834	DEH
+28097853	pmid-28097853.ann	DNAMutation	937	946	c.1072C>T
+28097853	pmid-28097853.ann	Gene	968	972	EDAR
+28497441	pmid-28497441.ann	Disease	11	12	I
+28497441	pmid-28497441.ann	Disease	13	26	tus criptogen
+28497441	pmid-28497441.ann	Disease	55	66	cardiopatia
+28497441	pmid-28497441.ann	Disease	69	80	fallo renal
+28497441	pmid-28497441.ann	Disease	110	129	enfermedad de Fabry
+28497441	pmid-28497441.ann	Disease	137	157	patologia metabolica
+28497441	pmid-28497441.ann	Disease	170	191	ligada al cromosoma X
+28497441	pmid-28497441.ann	Disease	317	322	ictus
+28497441	pmid-28497441.ann	Disease	327	346	hemiparesia derecha
+28497441	pmid-28497441.ann	Disease	357	366	disartria
+28497441	pmid-28497441.ann	Disease	455	465	angioquera
+28497441	pmid-28497441.ann	Disease	542	574	infarto agudo talamico izquierdo
+28497441	pmid-28497441.ann	Disease	760	793	hipertrofia ventricular izquierda
+28497441	pmid-28497441.ann	Disease	796	800	dila
+28497441	pmid-28497441.ann	Disease	807	831	de la auricula izquierda
+28497441	pmid-28497441.ann	Disease	963	996	fibrilacion auricular paroxistica
+28497441	pmid-28497441.ann	Disease	1147	1166	enfermedad de Fabry
+28497441	pmid-28497441.ann	Gene	1194	1214	alfa-galactosidasa-A
+28497441	pmid-28497441.ann	Gene	1292	1293	G
+28497441	pmid-28497441.ann	Disease	1321	1340	insuficiencia renal
+28497441	pmid-28497441.ann	Disease	1343	1364	fibrilacion auricular
+28497441	pmid-28497441.ann	Disease	1478	1497	enfermedad de Fabry
+28497441	pmid-28497441.ann	Disease	1538	1549	cardiopatia
+28497441	pmid-28497441.ann	Disease	1551	1556	ictus
+28497441	pmid-28497441.ann	Disease	1559	1580	neuropatia periferica
+28497441	pmid-28497441.ann	Disease	1582	1599	lesiones cutaneas
+28497441	pmid-28497441.ann	Disease	1601	1612	fallo renal
+28504500	pmid-28504500.ann	Disease	11	66	Síndrome de anemia megaloblástica sensible a la tiamina
+28504500	pmid-28504500.ann	Gene	116	123	SLC19A2
+28504500	pmid-28504500.ann	Disease	168	223	síndrome de anemia megaloblástica sensible a la tiamina
+28504500	pmid-28504500.ann	Disease	225	229	TRMA
+28504500	pmid-28504500.ann	Disease	280	298	síndrome de Rogers
+28504500	pmid-28504500.ann	Disease	329	350	anemia megaloblástica
+28504500	pmid-28504500.ann	Disease	352	377	hipoacusia neurosensorial
+28504500	pmid-28504500.ann	Disease	380	397	diabetes mellitus
+28504500	pmid-28504500.ann	Gene	536	543	SLC19A2
+28504500	pmid-28504500.ann	Disease	618	640	sordera neurosensorial
+28504500	pmid-28504500.ann	Disease	666	674	auditiva
+28504500	pmid-28504500.ann	Disease	676	684	diabetes
+28504500	pmid-28504500.ann	Disease	713	731	anemia macrocítica
+28504500	pmid-28504500.ann	Disease	941	945	TRMA
+28504500	pmid-28504500.ann	Disease	960	981	anemia megaloblástica
+28504500	pmid-28504500.ann	Disease	983	1008	hipoacusia neurosensorial
+28504500	pmid-28504500.ann	Disease	1011	1028	diabetes mellitus
+28504500	pmid-28504500.ann	Disease	1093	1116	enfermedad hematológica
+28504500	pmid-28504500.ann	Disease	1125	1133	diabetes
+28504502	pmid-28504502.ann	Disease	11	13	Hi
+28504502	pmid-28504502.ann	Disease	13	15	po
+28504502	pmid-28504502.ann	Disease	15	47	tiroidismo congénito transitorio
+28504502	pmid-28504502.ann	Gene	80	81	D
+28504502	pmid-28504502.ann	Gene	81	85	UOX2
+28504502	pmid-28504502.ann	Disease	121	145	hipotiroidismo congénito
+28504502	pmid-28504502.ann	Gene	220	230	oxidasas d
+28504502	pmid-28504502.ann	Gene	237	238	D
+28504502	pmid-28504502.ann	Gene	238	242	UOX1
+28504502	pmid-28504502.ann	Gene	370	371	D
+28504502	pmid-28504502.ann	Gene	371	375	UOX2
+28504502	pmid-28504502.ann	Disease	388	424	hipotiroidismo congénito transitorio
+28504502	pmid-28504502.ann	Disease	469	493	hipotiroidismo congénito
+28504502	pmid-28504502.ann	Disease	532	558	glándula tiroides eutópica
+28504502	pmid-28504502.ann	DNAMutation	888	904	c.1057_1058delTT
+28504502	pmid-28504502.ann	DNAMutation	975	984	c.1271T>G
+28504502	pmid-28504502.ann	Gene	1003	1004	D
+28504502	pmid-28504502.ann	Gene	1004	1008	UOX2
+28504502	pmid-28504502.ann	Gene	1067	1068	D
+28504502	pmid-28504502.ann	Gene	1068	1072	UOX2
+28524214	pmid-28524214.ann	Disease	46	70	atrofia espinal infantil
+28524214	pmid-28524214.ann	Disease	124	148	atrofia muscular espinal
+28524214	pmid-28524214.ann	Disease	150	153	AME
+28524214	pmid-28524214.ann	Gene	186	190	SMN1
+28524214	pmid-28524214.ann	Gene	261	264	SMN
+28524214	pmid-28524214.ann	Gene	427	446	histona deacetilasa
+28524214	pmid-28524214.ann	Gene	822	826	SMN2
+28524214	pmid-28524214.ann	Gene	906	907	n
+28524214	pmid-28524214.ann	Disease	1002	1005	AME
+28524214	pmid-28524214.ann	Gene	1339	1343	SMN1
+28591503	pmid-28591503.ann	Disease	34	60	síndromes mielodisplásicos
+28591503	pmid-28591503.ann	Disease	113	139	síndromes mielodisplásicos
+28591503	pmid-28591503.ann	Disease	141	144	SMD
+28591503	pmid-28591503.ann	Disease	246	255	citopenia
+28591503	pmid-28591503.ann	Disease	260	269	displasia
+28591503	pmid-28591503.ann	Disease	301	323	hematopoyesis ineficaz
+28591503	pmid-28591503.ann	Disease	356	384	leucemia aguda mieloblástica
+28591503	pmid-28591503.ann	Disease	1398	1401	SMD
+28622282	pmid-28622282.ann	Disease	54	64	alexitimia
+28622282	pmid-28622282.ann	Disease	138	148	alexitimia
+28622282	pmid-28622282.ann	Disease	365	375	alexitimia
+28622282	pmid-28622282.ann	Disease	502	512	alexitimia
+28622282	pmid-28622282.ann	Disease	1066	1076	alexitimia
+28622282	pmid-28622282.ann	Gene	1468	1470	de
+28622282	pmid-28622282.ann	Gene	1576	1579	del
+28622282	pmid-28622282.ann	Disease	1756	1766	alexitimia
+28737873	pmid-28737873.ann	Gene	49	71	glicina descarboxilasa
+28737873	pmid-28737873.ann	Disease	87	122	hiperglicinemia no cetósica clásica
+28737873	pmid-28737873.ann	Disease	162	189	hiperglicinemia no cetósica
+28737873	pmid-28737873.ann	Disease	197	242	encefalopatía por glicina autosómica recesiva
+28737873	pmid-28737873.ann	Gene	344	351	glicina
+28737873	pmid-28737873.ann	Disease	407	434	hiperglicinemia no cetósica
+28737873	pmid-28737873.ann	Disease	499	508	hipotonía
+28737873	pmid-28737873.ann	Disease	510	522	convulsiones
+28737873	pmid-28737873.ann	Disease	524	543	deterioro cognitivo
+28737873	pmid-28737873.ann	Disease	545	568	retrasos del desarrollo
+28737873	pmid-28737873.ann	Disease	571	591	espasmos mioclónicos
+28737873	pmid-28737873.ann	Disease	611	616	apnea
+28737873	pmid-28737873.ann	Disease	700	724	convulsiones mioclónicas
+28737873	pmid-28737873.ann	Disease	726	735	hipotonía
+28737873	pmid-28737873.ann	Disease	738	742	coma
+28737873	pmid-28737873.ann	Disease	978	1005	hiperglicinemia no cetósica
+28737873	pmid-28737873.ann	DNAMutation	1042	1051	c.2516A>G
+28737873	pmid-28737873.ann	DNAMutation	1123	1134	c.2457+2T>A
+28737873	pmid-28737873.ann	Gene	1146	1150	GLDC
+28857533	pmid-28857533.ann	Disease	41	49	mutación
+28857533	pmid-28857533.ann	Disease	115	119	tiro
+28857533	pmid-28857533.ann	Gene	207	210	RET
+28857533	pmid-28857533.ann	Gene	300	303	RET
+28857533	pmid-28857533.ann	Disease	329	333	tiro
+28857533	pmid-28857533.ann	Disease	669	674	MEN2A
+28857533	pmid-28857533.ann	Disease	769	774	MEN2B
+28857533	pmid-28857533.ann	Disease	841	846	micro
+28857533	pmid-28857533.ann	Disease	857	874	carcinoma in situ
+28857533	pmid-28857533.ann	Disease	877	906	carcinoma medular de tiroides
+28857533	pmid-28857533.ann	Disease	940	951	hiperplasia
+28857533	pmid-28857533.ann	Disease	967	975	fibrosis
+28857533	pmid-28857533.ann	Disease	1168	1177	carcinoma
+28857533	pmid-28857533.ann	Disease	1183	1188	MEN2A
+28857533	pmid-28857533.ann	Disease	1192	1197	MEN2B
+28857533	pmid-28857533.ann	Gene	1578	1581	RET
+28857533	pmid-28857533.ann	Disease	1637	1641	tiro
+28895704	pmid-28895704.ann	Gene	34	38	TSC2
+28895704	pmid-28895704.ann	Disease	92	111	esclerosis tuberosa
+28895704	pmid-28895704.ann	Disease	127	158	complejo de esclerosis tuberosa
+28895704	pmid-28895704.ann	Disease	165	207	desorden neurocutáneo autosómico dominante
+28895704	pmid-28895704.ann	Gene	244	248	TSC1
+28895704	pmid-28895704.ann	Gene	251	255	TSC2
+28895704	pmid-28895704.ann	Disease	537	556	esclerosis tuberosa
+28895704	pmid-28895704.ann	Gene	620	621	T
+28895704	pmid-28895704.ann	Gene	621	624	SC2
+28895704	pmid-28895704.ann	DNAMutation	702	703	c
+28895704	pmid-28895704.ann	DNAMutation	703	718	.583_586dupATCG
+28895704	pmid-28895704.ann	Gene	942	946	TSC2
+28895704	pmid-28895704.ann	Disease	962	993	complejo de esclerosis tuberosa
+28991281	pmid-28991281.ann	Disease	14	16	mb
+28991281	pmid-28991281.ann	Disease	16	38	osis venosa esplácnica
+28991281	pmid-28991281.ann	Disease	69	91	mielofibrosis primaria
+28991281	pmid-28991281.ann	Disease	108	138	neoplasias mieloproliferativas
+28991281	pmid-28991281.ann	Disease	140	141	N
+28991281	pmid-28991281.ann	Disease	141	143	MP
+28991281	pmid-28991281.ann	Disease	174	207	las células madre hematopoyéticas
+28991281	pmid-28991281.ann	Disease	347	348	N
+28991281	pmid-28991281.ann	Disease	348	350	MP
+28991281	pmid-28991281.ann	Disease	370	412	problemas trombóticos venosos y arteriales
+28991281	pmid-28991281.ann	Disease	520	542	mielofibrosis primaria
+28991281	pmid-28991281.ann	Disease	544	546	MP
+28991281	pmid-28991281.ann	Disease	581	608	trombosis venosa esplácnica
+28991281	pmid-28991281.ann	Disease	610	611	T
+28991281	pmid-28991281.ann	Disease	611	613	VE
+28991281	pmid-28991281.ann	Disease	729	732	TVE
+28991281	pmid-28991281.ann	Disease	771	773	MP
+28991281	pmid-28991281.ann	Gene	792	796	JAK2
+29087131	pmid-29087131.ann	Disease	58	81	displasia cleidocraneal
+29087131	pmid-29087131.ann	Disease	97	120	displasia cleidocraneal
+29087131	pmid-29087131.ann	Disease	128	142	displasia ósea
+29087131	pmid-29087131.ann	Disease	233	243	talla baja
+29087131	pmid-29087131.ann	Disease	245	263	fontanelas amplias
+29087131	pmid-29087131.ann	Disease	265	287	hipoplasia mediofacial
+29087131	pmid-29087131.ann	Disease	289	299	ausencia o
+29087131	pmid-29087131.ann	Disease	300	324	hipoplasia de clavículas
+29087131	pmid-29087131.ann	Disease	327	351	alteraciones orodentales
+29087131	pmid-29087131.ann	Gene	391	392	R
+29087131	pmid-29087131.ann	Gene	392	396	UNX2
+29087131	pmid-29087131.ann	Disease	482	505	displasia cleidocraneal
+29087131	pmid-29087131.ann	DNAMutation	570	578	c.674G>A
+29087131	pmid-29087131.ann	Gene	599	600	R
+29087131	pmid-29087131.ann	Gene	600	604	UNX2
+29087131	pmid-29087131.ann	Disease	656	678	ausencia de clavículas
+29087131	pmid-29087131.ann	Disease	705	739	retardo en el cierre de fontanelas
+29087131	pmid-29087131.ann	Disease	795	805	escoliosis
+29190865	pmid-29190865.ann	Gene	29	61	metilentetrahidrofolatoreductasa
+29190865	pmid-29190865.ann	Disease	64	78	cáncer de mama
+29190865	pmid-29190865.ann	Gene	199	237	5,10-metilentetrahidrofolato reductasa
+29190865	pmid-29190865.ann	Gene	239	244	MTHFR
+29190865	pmid-29190865.ann	Disease	283	297	cáncer de mama
+29190865	pmid-29190865.ann	Disease	299	301	CM
+29190865	pmid-29190865.ann	Disease	307	313	cáncer
+29190865	pmid-29190865.ann	Gene	644	649	MTHFR
+29190865	pmid-29190865.ann	Disease	686	688	CM
+29190865	pmid-29190865.ann	Disease	1211	1213	CM
+29190865	pmid-29190865.ann	Gene	1445	1450	MTFHR
+29190865	pmid-29190865.ann	Disease	1472	1474	CM
+29190865	pmid-29190865.ann	Disease	1527	1529	CM
+29333810	pmid-29333810.ann	Gene	59	64	Light
+29333810	pmid-29333810.ann	Disease	103	126	infecciones bacterianas
+29333810	pmid-29333810.ann	Disease	129	136	virales
+29333810	pmid-29333810.ann	Disease	271	282	infecciones
+29333810	pmid-29333810.ann	Gene	393	401	proteína
+29333810	pmid-29333810.ann	Gene	403	406	-re
+29333810	pmid-29333810.ann	Disease	575	598	infecciones bacterianas
+29333810	pmid-29333810.ann	Disease	734	745	infecciones
+29333810	pmid-29333810.ann	Disease	766	777	infecciones
+29333810	pmid-29333810.ann	Disease	823	834	infecciones
+29333810	pmid-29333810.ann	Disease	995	1006	infecciones
+29333810	pmid-29333810.ann	Gene	1089	1108	proteína C-reactiva
+29333810	pmid-29333810.ann	Disease	1190	1201	infecciones
+29333810	pmid-29333810.ann	Gene	1259	1262	pro
+29333810	pmid-29333810.ann	Disease	1323	1334	infecciones
+29333810	pmid-29333810.ann	Gene	1413	1432	proteína C-reactiva
+29333810	pmid-29333810.ann	Gene	1438	1441	pro
+29333810	pmid-29333810.ann	Gene	1566	1585	proteína C-reactiva
+29333810	pmid-29333810.ann	Gene	1591	1594	pro
+29333810	pmid-29333810.ann	Disease	1788	1799	infecciones
+29333829	pmid-29333829.ann	Disease	11	28	Galactosialidosis
+29333829	pmid-29333829.ann	Gene	63	67	CTSA
+29333829	pmid-29333829.ann	Disease	133	150	galactosialidosis
+29333829	pmid-29333829.ann	Disease	173	204	enfermedad metabólica lisosomal
+29333829	pmid-29333829.ann	Gene	238	242	CTSA
+29333829	pmid-29333829.ann	Gene	280	291	catepsina A
+29333829	pmid-29333829.ann	Gene	394	412	beta-galactosidasa
+29333829	pmid-29333829.ann	Gene	415	428	neuraminidasa
+29333829	pmid-29333829.ann	Disease	547	564	galactosialidosis
+29333829	pmid-29333829.ann	DNAMutation	736	745	His475Pro
+29333829	pmid-29333829.ann	DNAMutation	747	757	c.1424 A>C
+29333829	pmid-29333829.ann	DNAMutation	800	809	Arg441Cys
+29333829	pmid-29333829.ann	DNAMutation	811	820	c.1321C>T
+29333833	pmid-29333833.ann	Disease	38	61	síndrome renal-coloboma
+29333833	pmid-29333833.ann	Disease	112	135	síndrome renal-coloboma
+29333833	pmid-29333833.ann	Disease	143	174	enfermedad autosómica dominante
+29333833	pmid-29333833.ann	Disease	193	212	hipodisplasia renal
+29333833	pmid-29333833.ann	Disease	215	223	coloboma
+29333833	pmid-29333833.ann	Disease	278	302	enfermedad renal crónica
+29333833	pmid-29333833.ann	Disease	304	335	colobomas papilares bilaterales
+29333833	pmid-29333833.ann	Gene	367	372	PAX-2
+29333833	pmid-29333833.ann	Disease	402	428	hipoplasia renal bilateral
+29333833	pmid-29333833.ann	Disease	504	528	enfermedad renal crónica
+29333833	pmid-29333833.ann	Disease	571	612	reflujo vesicoureteral grado ii bilateral
+29333833	pmid-29333833.ann	Disease	718	739	colobomas bilaterales
+29333833	pmid-29333833.ann	Disease	744	769	atrofia macular izquierda
+29333833	pmid-29333833.ann	Disease	938	961	síndrome renal-coloboma
+29333833	pmid-29333833.ann	Disease	1075	1094	hipodisplasia renal
+29645070	pmid-29645070.ann	Disease	11	13	De
+29645070	pmid-29645070.ann	Disease	13	40	bilidad aislada de cinturas
+29645070	pmid-29645070.ann	Gene	92	97	MERRF
+29645070	pmid-29645070.ann	DNAMutation	98	102	8344
+29645070	pmid-29645070.ann	Disease	213	234	debilidad de cinturas
+29645070	pmid-29645070.ann	Disease	283	313	enfermedades de neurona motora
+29645070	pmid-29645070.ann	Disease	315	344	union neuromuscular o musculo
+29645070	pmid-29645070.ann	Gene	376	380	MTTK
+29645070	pmid-29645070.ann	Disease	424	428	afec
+29645070	pmid-29645070.ann	Disease	435	437	de
+29645070	pmid-29645070.ann	Disease	448	453	organ
+29645070	pmid-29645070.ann	Disease	476	497	debilidad de cinturas
+29645070	pmid-29645070.ann	Disease	544	565	debilidad de cinturas
+29645070	pmid-29645070.ann	Disease	676	708	debilidad progresiva de cinturas
+29645070	pmid-29645070.ann	Disease	878	899	miopatia mitocondrial
+29645070	pmid-29645070.ann	Gene	961	965	MTTK
+29645070	pmid-29645070.ann	DNAMutation	1014	1018	8344
+29645070	pmid-29645070.ann	Disease	1081	1102	debilidad de cinturas
+29681642	pmid-29681642.ann	Gene	28	32	SDHD
+29681642	pmid-29681642.ann	Disease	59	85	tumor del cuerpo carotídeo
+29681642	pmid-29681642.ann	Gene	137	141	SDHD
+29681642	pmid-29681642.ann	Disease	205	233	tumores del cuerpo carotídeo
+29681642	pmid-29681642.ann	Disease	235	236	T
+29681642	pmid-29681642.ann	Disease	236	238	CC
+29681642	pmid-29681642.ann	Disease	291	294	TCC
+29681642	pmid-29681642.ann	Disease	356	359	TCC
+29681642	pmid-29681642.ann	Disease	434	437	TCC
+29681642	pmid-29681642.ann	Gene	622	626	SDHD
+29681642	pmid-29681642.ann	Disease	847	869	tumor Shamblin tipo II
+29681642	pmid-29681642.ann	Disease	983	988	tumor
+29681642	pmid-29681642.ann	Disease	1023	1028	tumor
+29681642	pmid-29681642.ann	Gene	1082	1086	SDHD
+29681642	pmid-29681642.ann	Gene	1184	1188	SDHD
+29723947	pmid-29723947.ann	Gene	50	56	TCIRG1
+29723947	pmid-29723947.ann	Disease	71	101	osteopetrosis maligna infantil
+29723947	pmid-29723947.ann	Disease	158	171	osteopetrosis
+29723947	pmid-29723947.ann	Disease	250	263	densidad ósea
+29723947	pmid-29723947.ann	Disease	419	432	osteopetrosis
+29723947	pmid-29723947.ann	Disease	505	521	dismorfia facial
+29723947	pmid-29723947.ann	Disease	523	530	ceguera
+29723947	pmid-29723947.ann	Disease	532	539	sordera
+29723947	pmid-29723947.ann	Disease	541	561	hepatoesplenomegalia
+29723947	pmid-29723947.ann	Disease	563	572	hipotonía
+29723947	pmid-29723947.ann	Disease	574	601	retraso del neurodesarrollo
+29723947	pmid-29723947.ann	Disease	604	615	bicitopenia
+29723947	pmid-29723947.ann	Disease	650	665	osteoesclerosis
+29723947	pmid-29723947.ann	Gene	797	803	TCIRG1
+29723947	pmid-29723947.ann	DNAMutation	867	879	Ile720Alafs*
+29723947	pmid-29723947.ann	DNAMutation	990	991	p
+29723947	pmid-29723947.ann	DNAMutation	992	1006	Phe459Leufs*79
+29723947	pmid-29723947.ann	DNAMutation	1020	1021	p
+29723947	pmid-29723947.ann	DNAMutation	1022	1036	Gly159Argfs*68
+29723947	pmid-29723947.ann	Disease	1174	1187	osteopetrosis
+29723947	pmid-29723947.ann	Disease	1351	1367	daño neurológico
+29723947	pmid-29723947.ann	Disease	1395	1408	osteopetrosis
+29756710	pmid-29756710.ann	Gene	32	36	MEFV
+29756710	pmid-29756710.ann	Disease	86	113	púrpura de Schönlein-Henoch
+29756710	pmid-29756710.ann	Gene	183	185	ME
+29756710	pmid-29756710.ann	Disease	216	243	púrpura de Schönlein-Henoch
+29756710	pmid-29756710.ann	Disease	413	440	púrpura de Schönlein-Henoch
+29756710	pmid-29756710.ann	Gene	493	497	MEFV
+29756710	pmid-29756710.ann	Disease	770	793	invaginación intestinal
+29756710	pmid-29756710.ann	Gene	949	953	MEFV
+29756710	pmid-29756710.ann	Gene	1329	1333	MEFV
+29756710	pmid-29756710.ann	Gene	1360	1364	MEFV
+29756710	pmid-29756710.ann	Gene	1556	1560	MEFV
+29756710	pmid-29756710.ann	Disease	1661	1688	púrpura de Schönlein-Henoch
+29756720	pmid-29756720.ann	Disease	36	54	enfermedad de Dent
+29756720	pmid-29756720.ann	Disease	81	94	nefrolitiasis
+29756720	pmid-29756720.ann	Disease	97	112	nefrocalcinosis
+29756720	pmid-29756720.ann	Disease	128	146	enfermedad de Dent
+29756720	pmid-29756720.ann	Disease	154	196	tubulopatía recesiva ligada al cromosoma X
+29756720	pmid-29756720.ann	Disease	215	249	proteinuria de bajo peso molecular
+29756720	pmid-29756720.ann	Disease	257	271	hipercalciuria
+29756720	pmid-29756720.ann	Disease	273	288	nefrocalcinosis
+29756720	pmid-29756720.ann	Disease	291	304	nefrolitiasis
+29756720	pmid-29756720.ann	Disease	306	333	disfunción tubular proximal
+29756720	pmid-29756720.ann	Disease	336	355	insuficiencia renal
+29756720	pmid-29756720.ann	Disease	477	516	insuficiencia renal en estadio terminal
+29756720	pmid-29756720.ann	Disease	690	708	enfermedad de Dent
+29756720	pmid-29756720.ann	Disease	771	784	nefrolitiasis
+29756720	pmid-29756720.ann	Disease	790	805	nefrocalcinosis
+29756720	pmid-29756720.ann	Disease	863	878	nefrocalcinosis
+29756720	pmid-29756720.ann	Disease	881	894	nefrolitiasis
+29756720	pmid-29756720.ann	Gene	945	950	CLCN5
+30016033	pmid-30016033.ann	Disease	81	104	displasia cleidocraneal
+30016033	pmid-30016033.ann	Disease	182	205	displasia cleidocraneal
+30016033	pmid-30016033.ann	Disease	213	255	displasia esquelética autosómica dominante
+30016033	pmid-30016033.ann	Gene	289	290	R
+30016033	pmid-30016033.ann	Gene	290	294	UNX2
+30016033	pmid-30016033.ann	Disease	445	448	dis
+30016033	pmid-30016033.ann	Disease	448	468	plasias esqueléticas
+30016033	pmid-30016033.ann	Disease	1104	1116	macrocefalia
+30016033	pmid-30016033.ann	Disease	1133	1145	macrocefalia
+30016041	pmid-30016041.ann	Disease	11	32	Síndrome de Netherton
+30016041	pmid-30016041.ann	Disease	66	92	insuficiencia respiratoria
+30016041	pmid-30016041.ann	Disease	108	129	síndrome de Netherton
+30016041	pmid-30016041.ann	Disease	131	133	SN
+30016041	pmid-30016041.ann	Disease	153	172	autosómica recesiva
+30016041	pmid-30016041.ann	Disease	233	268	eritrodermia ictiosiforme congénita
+30016041	pmid-30016041.ann	Disease	270	289	anomalías capilares
+30016041	pmid-30016041.ann	Gene	383	389	SPINK5
+30016041	pmid-30016041.ann	Disease	415	429	síndrome de SN
+30016041	pmid-30016041.ann	Disease	549	581	insuficiencia respiratoria grave
+30016041	pmid-30016041.ann	Disease	583	593	hipotermia
+30016041	pmid-30016041.ann	Disease	596	608	eritrodermia
+30016041	pmid-30016041.ann	Disease	635	637	SN
+30052622	pmid-30052622.ann	Disease	23	35	profiláctica
+30052622	pmid-30052622.ann	Disease	74	88	cáncer de mama
+30052622	pmid-30052622.ann	Disease	225	239	cáncer de mama
+30052622	pmid-30052622.ann	Disease	358	370	profiláctica
+30052622	pmid-30052622.ann	Disease	1158	1170	profiláctica
+30052622	pmid-30052622.ann	Disease	1236	1250	cáncer de mama
+30070892	pmid-30070892.ann	Disease	11	12	D
+30070892	pmid-30070892.ann	Disease	12	13	é
+30070892	pmid-30070892.ann	Disease	13	37	ficit de glicerol kinasa
+30070892	pmid-30070892.ann	Disease	52	72	hipertrigliceridemia
+30070892	pmid-30070892.ann	Disease	195	205	polidipsia
+30070892	pmid-30070892.ann	Disease	207	215	poliuria
+30070892	pmid-30070892.ann	Disease	218	238	hipertrigliceridemia
+30070892	pmid-30070892.ann	Disease	275	287	pancreatitis
+30070892	pmid-30070892.ann	Disease	374	395	hiperglicerolemia por
+30070892	pmid-30070892.ann	Disease	396	422	déficit de glicerol kinasa
+30070892	pmid-30070892.ann	Disease	424	427	GKD
+30070892	pmid-30070892.ann	Gene	526	544	glicerol 3 fosfato
+30070892	pmid-30070892.ann	Gene	598	613	glicerol kinasa
+30182558	pmid-30182558.ann	Disease	58	85	osteocondromatosis múltiple
+30182558	pmid-30182558.ann	Disease	155	182	osteocondromatosis múltiple
+30182558	pmid-30182558.ann	Gene	306	310	EXT1
+30182558	pmid-30182558.ann	Disease	358	380	deformidad de Madelung
+30182558	pmid-30182558.ann	Disease	426	429	con
+30182558	pmid-30182558.ann	Disease	429	439	drosarcoma
+30350845	pmid-30350845.ann	Disease	11	13	Le
+30350845	pmid-30350845.ann	Disease	13	52	ucodistrofia hipomielinizante de tipo 6
+30350845	pmid-30350845.ann	Disease	149	190	leucodistrofia hipomielinizante de tipo 6
+30350845	pmid-30350845.ann	Disease	198	226	enfermedad neurodegenerativa
+30350845	pmid-30350845.ann	Disease	291	295	afec
+30350845	pmid-30350845.ann	Disease	302	334	piramidoextrapiramidal y cerebel
+30350845	pmid-30350845.ann	Disease	363	366	hip
+30350845	pmid-30350845.ann	Disease	366	380	omielinizacion
+30350845	pmid-30350845.ann	Disease	382	403	hipoplasia cerebelosa
+30350845	pmid-30350845.ann	Disease	406	412	anomal
+30350845	pmid-30350845.ann	Disease	416	451	especificas en los ganglios basales
+30350845	pmid-30350845.ann	Disease	465	472	atrofia
+30350845	pmid-30350845.ann	Disease	484	504	ausencia del putamen
+30350845	pmid-30350845.ann	Gene	579	587	tubulina
+30350845	pmid-30350845.ann	Gene	649	655	TUBB4A
+30350845	pmid-30350845.ann	Disease	764	784	retraso de la marcha
+30350845	pmid-30350845.ann	Disease	786	793	temblor
+30350845	pmid-30350845.ann	Disease	795	804	disartria
+30350845	pmid-30350845.ann	Disease	806	812	ataxia
+30350845	pmid-30350845.ann	Disease	814	822	nistagmo
+30350845	pmid-30350845.ann	Disease	824	844	afectacion cognitiva
+30350845	pmid-30350845.ann	Disease	847	850	dis
+30350845	pmid-30350845.ann	Disease	874	891	hipomielinizacion
+30350845	pmid-30350845.ann	Disease	893	912	hipoplasia vermiana
+30350845	pmid-30350845.ann	Disease	915	935	ausencia del putamen
+30350845	pmid-30350845.ann	Gene	1119	1125	TUBB4A
+30351161	pmid-30351161.ann	Disease	55	80	intolerancia a la lactosa
+30351161	pmid-30351161.ann	Disease	96	122	malabsorción de la lactosa
+30351161	pmid-30351161.ann	Disease	308	341	hipolactasia primaria tipo adulto
+30351161	pmid-30351161.ann	Disease	586	611	malabsorción a la lactosa
+30351161	pmid-30351161.ann	Disease	684	718	déficit primario tardío de lactasa
+30351161	pmid-30351161.ann	Disease	933	966	hipolactasia primaria tipo adulto
+30351161	pmid-30351161.ann	Disease	1087	1099	malabsorción
+30457731	pmid-30457731.ann	Disease	11	13	Hi
+30457731	pmid-30457731.ann	Disease	13	16	per
+30457731	pmid-30457731.ann	Disease	16	48	calcemia hipocalciúrica familiar
+30457731	pmid-30457731.ann	Disease	101	124	hipercalcemia mantenida
+30457731	pmid-30457731.ann	Gene	272	276	CaSR
+30457731	pmid-30457731.ann	Disease	388	413	hipercalcemia persistente
+30457731	pmid-30457731.ann	Disease	470	483	hipercalcemia
+30457731	pmid-30457731.ann	Disease	651	664	hipercalcemia
+30457731	pmid-30457731.ann	DNAMutation	896	904	c.1651A>
+30457731	pmid-30457731.ann	Gene	915	919	CaSR
+30457735	pmid-30457735.ann	Disease	11	38	Síndrome de Sjögren-Larsson
+30457735	pmid-30457735.ann	Disease	82	109	síndrome de Sjogren-Larsson
+30457735	pmid-30457735.ann	Disease	129	143	retardo mental
+30457735	pmid-30457735.ann	Disease	145	163	ictiosis congènita
+30457735	pmid-30457735.ann	Disease	166	168	di
+30457735	pmid-30457735.ann	Disease	168	176	plejía o
+30457735	pmid-30457735.ann	Disease	177	199	cuadriplejía espástica
+30457735	pmid-30457735.ann	Gene	261	268	ALDH3A2
+30457735	pmid-30457735.ann	Gene	293	322	aldehído deshidrogenasa grasa
+30457735	pmid-30457735.ann	Disease	733	760	síndrome de Sjogren-Larsson
+30457735	pmid-30457735.ann	Disease	1017	1044	síndrome de Sjogren-Larsson
+30570007	pmid-30570007.ann	Disease	35	62	cirugía reductora de riesgo
+30570007	pmid-30570007.ann	Disease	66	83	trompas y ovarios
+30570007	pmid-30570007.ann	Disease	97	113	mutación del gen
+30570007	pmid-30570007.ann	Disease	180	207	cirugía reductora de riesgo
+30570007	pmid-30570007.ann	Disease	211	228	trompas y ovarios
+30570007	pmid-30570007.ann	Disease	242	258	mutación del gen
+30570007	pmid-30570007.ann	Disease	411	434	cáncer de mama y ovario
+30570007	pmid-30570007.ann	Disease	439	466	cirugía reductora de riesgo
+30570007	pmid-30570007.ann	Disease	470	487	trompas y ovarios
+30570007	pmid-30570007.ann	Disease	491	518	cirugía reductora de riesgo
+30570007	pmid-30570007.ann	Disease	522	539	trompas y ovarios
+30570007	pmid-30570007.ann	Disease	556	565	bilateral
+30570007	pmid-30570007.ann	Disease	657	705	cirugía reductora de riesgo en trompas y ovarios
+30570007	pmid-30570007.ann	Disease	720	729	bilateral
+30570007	pmid-30570007.ann	Disease	782	830	cirugía reductora de riesgo en trompas y ovarios
+30570007	pmid-30570007.ann	Disease	1018	1045	cirugía reductora de riesgo
+30570007	pmid-30570007.ann	Disease	1049	1066	trompas y ovarios
+30570007	pmid-30570007.ann	Disease	1083	1092	bilateral
+30653859	pmid-30653859.ann	Disease	11	52	Síndrome epiléptico ligado al cromosoma X
+30653859	pmid-30653859.ann	Gene	72	88	protocaderina 19
+30653859	pmid-30653859.ann	Disease	116	169	leucoencefalopatía y tractopatía posterior reversible
+30653859	pmid-30653859.ann	Disease	185	198	epilepsia con
+30653859	pmid-30653859.ann	Disease	199	235	retardo mental ligado al cromosoma X
+30653859	pmid-30653859.ann	Gene	257	263	PCDH19
+30653859	pmid-30653859.ann	Disease	364	393	retardo global del desarrollo
+30653859	pmid-30653859.ann	Disease	396	405	epilepsia
+30653859	pmid-30653859.ann	Disease	448	472	discapacidad intelectual
+30653859	pmid-30653859.ann	Disease	524	536	convulsiones
+30653859	pmid-30653859.ann	Disease	540	559	retardo intelectual
+30653859	pmid-30653859.ann	Disease	597	606	epilepsia
+30653859	pmid-30653859.ann	Disease	608	630	retardo del desarrollo
+30653859	pmid-30653859.ann	Disease	633	651	conversión autista
+30653859	pmid-30653859.ann	Disease	667	720	leucoencefalopatía y tractopatía posterior reversible
+30653859	pmid-30653859.ann	Gene	738	739	P
+30653859	pmid-30653859.ann	Gene	739	744	CDH19
+30734711	pmid-30734711.ann	Disease	11	12	C
+30734711	pmid-30734711.ann	Disease	12	46	áncer Medular de Tiroides familiar
+30734711	pmid-30734711.ann	Disease	110	136	cáncer medular de tiroides
+30734711	pmid-30734711.ann	Disease	138	141	CMT
+30734711	pmid-30734711.ann	Disease	149	221	tumor maligno de las células C parafoliculares secretoras de calcitonina
+30734711	pmid-30734711.ann	Disease	260	263	CMT
+30734711	pmid-30734711.ann	Gene	344	347	RET
+30734711	pmid-30734711.ann	Disease	405	443	Carcinoma Medular de Tiroides Familiar
+30734711	pmid-30734711.ann	Disease	445	449	CMTF
+30734711	pmid-30734711.ann	Disease	459	494	Neoplasia Endocrina Múltiple tipo 2
+30734711	pmid-30734711.ann	Disease	496	497	N
+30734711	pmid-30734711.ann	Disease	497	500	EM2
+30734711	pmid-30734711.ann	Disease	627	631	CMTF
+30734711	pmid-30734711.ann	Gene	707	710	RET
+30734711	pmid-30734711.ann	Disease	815	846	síndrome hereditario oncológico
+30866635	pmid-30866635.ann	Disease	34	42	obesidad
+30866635	pmid-30866635.ann	Disease	138	146	obesidad
+30866635	pmid-30866635.ann	Disease	149	158	sobrepeso
+30866635	pmid-30866635.ann	Disease	275	283	obesidad
+30866635	pmid-30866635.ann	Gene	502	506	MC4R
+30866635	pmid-30866635.ann	Gene	508	511	FTO
+30866635	pmid-30866635.ann	Gene	514	519	ADRB1
+30866635	pmid-30866635.ann	Disease	536	544	obesidad
+30866635	pmid-30866635.ann	Gene	568	572	PON1
+30866635	pmid-30866635.ann	Disease	609	634	resistencia a la insulina
+30866635	pmid-30866635.ann	Gene	671	673	AD
+30866635	pmid-30866635.ann	Gene	673	678	IPOR2
+30866635	pmid-30866635.ann	Disease	732	740	obesidad
+30866635	pmid-30866635.ann	Gene	790	792	AM
+30866635	pmid-30866635.ann	Disease	1207	1215	obesidad
+30866635	pmid-30866635.ann	Disease	1221	1246	resistencia a la insulina
+30866635	pmid-30866635.ann	Disease	1289	1297	obesidad
+30866635	pmid-30866635.ann	Disease	1419	1427	obesidad
+31021550	pmid-31021550.ann	Gene	48	52	IL6R
+31021550	pmid-31021550.ann	Gene	54	58	TLR3
+31021550	pmid-31021550.ann	Gene	61	68	DC-SIGN
+31021550	pmid-31021550.ann	Disease	83	89	dengue
+31021550	pmid-31021550.ann	Disease	239	245	dengue
+31021550	pmid-31021550.ann	Disease	295	301	dengue
+31021550	pmid-31021550.ann	SNP	324	326	rs
+31021550	pmid-31021550.ann	Gene	342	346	IL6R
+31021550	pmid-31021550.ann	SNP	348	350	rs
+31021550	pmid-31021550.ann	Gene	362	366	TLR3
+31021550	pmid-31021550.ann	SNP	369	371	rs
+31021550	pmid-31021550.ann	Gene	383	390	DC-SIGN
+31021550	pmid-31021550.ann	Disease	481	498	fiebre por dengue
+31021550	pmid-31021550.ann	Disease	748	754	dengue
+31021550	pmid-31021550.ann	SNP	1111	1113	rs
+31021550	pmid-31021550.ann	Disease	1150	1156	dengue
+31021550	pmid-31021550.ann	SNP	1204	1206	rs
+31021550	pmid-31021550.ann	SNP	1218	1220	rs
+31021550	pmid-31021550.ann	Disease	1258	1264	dengue
+31021550	pmid-31021550.ann	SNP	1414	1416	rs
+31021550	pmid-31021550.ann	SNP	1590	1592	rs
+31063313	pmid-31063313.ann	Disease	11	12	F
+31063313	pmid-31063313.ann	Disease	12	27	ragilidad del X
+31063313	pmid-31063313.ann	Gene	63	67	FMR1
+31063313	pmid-31063313.ann	Disease	117	155	síndrome de fragilidad del cromosoma X
+31063313	pmid-31063313.ann	Disease	171	205	discapacidad intelectual heredable
+31063313	pmid-31063313.ann	Disease	232	263	trastornos del espectro autista
+31063313	pmid-31063313.ann	DNAMutation	387	414	(citosina, guanina, guanina
+31063313	pmid-31063313.ann	Gene	470	474	FMR1
+31063313	pmid-31063313.ann	Gene	569	573	FMRP
+31063313	pmid-31063313.ann	OtherMutation	644	666	expansión menor de CGG
+31063313	pmid-31063313.ann	Disease	682	712	insuficiencia ovárica primaria
+31063313	pmid-31063313.ann	Disease	719	765	síndrome de temblor/ataxia asociado a X frágil
+31063313	pmid-31063313.ann	Disease	785	813	ataxia cerebelosa progresiva
+31063313	pmid-31063313.ann	Disease	835	855	temblor de intención
+31063313	pmid-31063313.ann	Gene	947	951	FMR1
+31063316	pmid-31063316.ann	Disease	11	14	Sin
+31063316	pmid-31063316.ann	Disease	14	51	drome de Ehlers-Danlos dfoescoliotico
+31063316	pmid-31063316.ann	Gene	52	53	F
+31063316	pmid-31063316.ann	Gene	53	58	KBP14
+31063316	pmid-31063316.ann	Disease	137	162	síndrome de Ehlers-Danlos
+31063316	pmid-31063316.ann	Disease	181	225	trastornos hereditarios del tejido conectivo
+31063316	pmid-31063316.ann	Disease	284	311	hiperextensibilidad cutánea
+31063316	pmid-31063316.ann	Disease	313	332	pobre cicatrización
+31063316	pmid-31063316.ann	Disease	334	358	hipermovilidad articular
+31063316	pmid-31063316.ann	Disease	361	380	friabilidad tisular
+31063316	pmid-31063316.ann	Disease	485	505	tipo cifoescoliótico
+31063316	pmid-31063316.ann	Gene	540	545	PLOD1
+31063316	pmid-31063316.ann	Disease	565	598	hipotonía muscular grave al nacer
+31063316	pmid-31063316.ann	Disease	600	631	cifoescoliosis grave progresiva
+31063316	pmid-31063316.ann	Disease	633	643	osteopenia
+31063316	pmid-31063316.ann	Disease	645	658	ojos frágiles
+31063316	pmid-31063316.ann	Disease	661	680	fragilidad vascular
+31063316	pmid-31063316.ann	Gene	756	757	F
+31063316	pmid-31063316.ann	Gene	757	762	KBP14
+31063316	pmid-31063316.ann	Disease	813	846	retardo del desarrollo psicomotor
+31063316	pmid-31063316.ann	Disease	848	856	miopatía
+31063316	pmid-31063316.ann	Disease	858	868	hipoacusia
+31063316	pmid-31063316.ann	Gene	1027	1028	F
+31063316	pmid-31063316.ann	Gene	1028	1033	KBP14
+31063316	pmid-31063316.ann	Disease	1063	1085	hipotonía generalizada
+31063316	pmid-31063316.ann	Disease	1087	1140	retardo en el desarrollo de los hitos motores gruesos
+31063316	pmid-31063316.ann	Disease	1142	1152	hipoacusia
+31063316	pmid-31063316.ann	Disease	1154	1188	cifoescoliosis progresiva temprana
+31063316	pmid-31063316.ann	Disease	1190	1214	hipermovilidad articular
+31063316	pmid-31063316.ann	Disease	1217	1241	deformidades en los pies
+31063319	pmid-31063319.ann	Disease	63	82	acidemia propiónica
+31063319	pmid-31063319.ann	Disease	118	137	acidemia propiónica
+31063319	pmid-31063319.ann	Disease	224	267	deficiencia de la enzima mitocondrial propi
+31063319	pmid-31063319.ann	Gene	267	287	onil-CoA carboxilasa
+31063319	pmid-31063319.ann	Gene	306	319	propionil-CoA
+31063319	pmid-31063319.ann	Gene	323	340	-metilmalonil-CoA
+31063319	pmid-31063319.ann	Disease	404	427	dificultad respiratoria
+31063319	pmid-31063319.ann	Disease	483	502	acidosis metabólica
+31063319	pmid-31063319.ann	Disease	556	569	hiperamonemia
+31063319	pmid-31063319.ann	Disease	571	577	anemia
+31063319	pmid-31063319.ann	Disease	579	594	trombocitopenia
+31063319	pmid-31063319.ann	Disease	597	612	hipoproteinemia
+31063319	pmid-31063319.ann	Disease	738	757	acidemia propiónica
+31063319	pmid-31063319.ann	Gene	790	794	PCCA
+31063319	pmid-31063319.ann	DNAMutation	819	827	c.893A>G
+31063319	pmid-31063319.ann	DNAMutation	852	853	c
+31063319	pmid-31063319.ann	DNAMutation	853	860	.937C>T
+31226102	pmid-31226102.ann	Disease	11	67	Síndrome miasténico congénito por deficiencia de rapsina
+31226102	pmid-31226102.ann	Disease	162	194	síndromes miasténicos congénitos
+31226102	pmid-31226102.ann	Disease	393	402	hipotonía
+31226102	pmid-31226102.ann	Disease	404	420	ptosis palpebral
+31226102	pmid-31226102.ann	Disease	423	432	debilidad
+31226102	pmid-31226102.ann	Disease	567	575	neumonía
+31226102	pmid-31226102.ann	Disease	578	604	insuficiencia ventilatoria
+31226102	pmid-31226102.ann	Disease	683	692	debilidad
+31226102	pmid-31226102.ann	Disease	806	822	ptosis palpebral
+31226102	pmid-31226102.ann	Disease	824	833	debilidad
+31226102	pmid-31226102.ann	Disease	848	856	proximal
+31226102	pmid-31226102.ann	Disease	859	879	fatigabilidad con el
+31226102	pmid-31226102.ann	Gene	1106	1113	rapsina
+31226102	pmid-31226102.ann	Disease	1419	1445	insuficiencia ventilatoria
+31226102	pmid-31226102.ann	Disease	1464	1473	debilidad
+31226102	pmid-31226102.ann	Disease	1498	1511	fatigabilidad
+31226102	pmid-31226102.ann	Disease	1530	1532	el
+31226102	pmid-31226102.ann	Disease	1750	1779	síndrome miasténico congénito
+31460640	pmid-31460640.ann	Gene	65	73	ARNr 23S
+31460640	pmid-31460640.ann	Disease	77	96	Helicobacter pylori
+31460640	pmid-31460640.ann	Disease	110	121	dispépticos
+31460640	pmid-31460640.ann	Gene	237	245	ARNr 23S
+31460640	pmid-31460640.ann	Disease	258	277	Helicobacter pylori
+31460640	pmid-31460640.ann	Disease	343	352	dispepsia
+31460640	pmid-31460640.ann	Disease	479	498	Helicobacter pylori
+31460640	pmid-31460640.ann	Disease	704	723	Helicobacter pylori
+31460640	pmid-31460640.ann	DNAMutation	906	907	A
+31460640	pmid-31460640.ann	Disease	1073	1092	Helicobacter pylori
+31487245	pmid-31487245.ann	Gene	32	36	BRAF
+31487245	pmid-31487245.ann	Disease	70	94	melanoma maligno cutáneo
+31487245	pmid-31487245.ann	Disease	110	126	melanoma maligno
+31487245	pmid-31487245.ann	Disease	155	169	cáncer de piel
+31487245	pmid-31487245.ann	Disease	414	423	melanomas
+31487245	pmid-31487245.ann	Gene	565	569	BRAF
+31487245	pmid-31487245.ann	Disease	596	620	melanoma maligno cutáneo
+31529834	pmid-31529834.ann	Disease	11	12	M
+31529834	pmid-31529834.ann	Disease	12	18	ucosal
+31529834	pmid-31529834.ann	Disease	19	32	leishmaniasis
+31529834	pmid-31529834.ann	Disease	148	168	leishmaniasis mucosa
+31529834	pmid-31529834.ann	Disease	414	434	leishmaniasis mucosa
+31529834	pmid-31529834.ann	Disease	553	573	leishmaniasis mucosa
+31529834	pmid-31529834.ann	Gene	950	955	hsp70
+31529834	pmid-31529834.ann	Disease	1131	1150	infiltración mucosa
+31529834	pmid-31529834.ann	Disease	1159	1192	cicatriz de leishmaniasis cutánea
+31529834	pmid-31529834.ann	Disease	1215	1232	del tabique nasal
+31529834	pmid-31529834.ann	Disease	1241	1257	deformidad nasal
+31529834	pmid-31529834.ann	Disease	1422	1427	nasal
+31529834	pmid-31529834.ann	Disease	1486	1499	leishmaniasis
+31529834	pmid-31529834.ann	Disease	1875	1891	enfermedad nasal
+31529834	pmid-31529834.ann	Disease	1916	1938	deformidad del tabique
+31529834	pmid-31529834.ann	Disease	2122	2142	leishmaniasis mucosa
+31529839	pmid-31529839.ann	Gene	30	48	ARN ribosómico 23S
+31529839	pmid-31529839.ann	Disease	52	64	Helicobacter
+31529839	pmid-31529839.ann	Disease	293	326	infección por Helicobacter pylori
+31529839	pmid-31529839.ann	Gene	413	431	ARN ribosómico 23S
+31529839	pmid-31529839.ann	Gene	433	441	ARNr 23S
+31529839	pmid-31529839.ann	Gene	531	539	ARNr 23S
+31529839	pmid-31529839.ann	Disease	572	581	H. pylori
+31529839	pmid-31529839.ann	Disease	631	658	manifestaciones dispépticas
+31529839	pmid-31529839.ann	Disease	811	838	manifestaciones dispépticas
+31529839	pmid-31529839.ann	Gene	997	1001	vacA
+31529839	pmid-31529839.ann	Gene	1023	1031	ARNr 23S
+31529839	pmid-31529839.ann	DNAMutation	1075	1081	A2142G
+31529839	pmid-31529839.ann	DNAMutation	1084	1090	A2143G
+31529839	pmid-31529839.ann	Disease	1661	1669	. pylori
+31559627	pmid-31559627.ann	Disease	24	54	calcificaciones intracraneales
+31559627	pmid-31559627.ann	Disease	57	68	retinopatia
+31559627	pmid-31559627.ann	Disease	99	129	calcificaciones intracraneales
+31559627	pmid-31559627.ann	Disease	341	371	calcificaciones intracraneales
+31559627	pmid-31559627.ann	Disease	447	469	sindrome de Coats plus
+31559627	pmid-31559627.ann	Disease	558	569	retinopatia
+31559627	pmid-31559627.ann	Disease	597	607	estrabismo
+31559627	pmid-31559627.ann	Disease	670	674	hemi
+31559627	pmid-31559627.ann	Disease	749	758	neoplasia
+31559627	pmid-31559627.ann	Disease	849	864	calcificaciones
+31559627	pmid-31559627.ann	Disease	905	918	lesiones quis
+31559627	pmid-31559627.ann	Disease	975	1005	calcificaciones intracraneales
+31559627	pmid-31559627.ann	Disease	1038	1049	retinopatia
+31559627	pmid-31559627.ann	Disease	1092	1114	sindrome de Coats plus
+31559627	pmid-31559627.ann	Gene	1241	1245	CTC1
+31559627	pmid-31559627.ann	Disease	1262	1284	sindrome de Coats plus
+31559627	pmid-31559627.ann	Disease	1292	1322	enfermedad autosomica recesiva
+31559627	pmid-31559627.ann	Gene	1391	1395	CTC1
+31559627	pmid-31559627.ann	Disease	1424	1450	telangiectasias retinianas
+31559627	pmid-31559627.ann	Disease	1452	1470	quistes cerebrales
+31559627	pmid-31559627.ann	Disease	1472	1512	calcificaciones en los nucleos profundos
+31559627	pmid-31559627.ann	Disease	1515	1533	leucoencefalopatia
+31559627	pmid-31559627.ann	Disease	1551	1561	afecciones
+31560489	pmid-31560489.ann	Disease	60	78	síndrome de Noonan
+31560489	pmid-31560489.ann	Disease	87	97	RASopatías
+31560489	pmid-31560489.ann	Disease	141	151	RASopatías
+31560489	pmid-31560489.ann	Gene	264	267	RAS
+31560489	pmid-31560489.ann	Gene	268	272	MAPK
+31560489	pmid-31560489.ann	Disease	360	370	baja talla
+31560489	pmid-31560489.ann	Disease	372	397	dismorfias craneofaciales
+31560489	pmid-31560489.ann	Disease	399	420	cardiopatía congénita
+31560489	pmid-31560489.ann	Disease	422	450	manifestaciones ectodérmicas
+31560489	pmid-31560489.ann	Disease	469	475	cáncer
+31560489	pmid-31560489.ann	Gene	558	562	PTPN
+31560489	pmid-31560489.ann	Gene	566	570	SOS1
+31560489	pmid-31560489.ann	Gene	572	573	R
+31560489	pmid-31560489.ann	Gene	573	576	AF1
+31560489	pmid-31560489.ann	Gene	578	582	BRAF
+31560489	pmid-31560489.ann	Gene	585	586	H
+31560489	pmid-31560489.ann	Disease	752	761	RASopatía
+31560489	pmid-31560489.ann	Disease	967	985	síndrome de Noonan
+31560489	pmid-31560489.ann	DNAMutation	1018	1026	c.922A>G
+31560489	pmid-31560489.ann	DNAMutation	1028	1039	p.Asn308Asp
+31560489	pmid-31560489.ann	Gene	1051	1053	PT
+31560489	pmid-31560489.ann	Gene	1053	1057	PN11
+31560489	pmid-31560489.ann	Gene	1098	1099	R
+31560489	pmid-31560489.ann	Gene	1099	1102	AF1
+31560489	pmid-31560489.ann	DNAMutation	1104	1113	c.1467G>C
+31560489	pmid-31560489.ann	DNAMutation	1117	1126	Leu489Phe
+31560489	pmid-31560489.ann	Disease	1144	1171	síndrome cardiofaciocutáneo
+31560489	pmid-31560489.ann	Gene	1221	1225	BRAF
+31560489	pmid-31560489.ann	Disease	1230	1250	síndrome de Costello
+31560489	pmid-31560489.ann	Disease	1256	1297	síndrome de Noonan con múltiples lentigos
+31560489	pmid-31560489.ann	Gene	1483	1485	PT
+31560489	pmid-31560489.ann	Gene	1487	1489	11
+31560489	pmid-31560489.ann	Gene	1501	1505	SOS1
+31560489	pmid-31560489.ann	Gene	1518	1519	R
+31560489	pmid-31560489.ann	Gene	1519	1522	AF1
+31560489	pmid-31560489.ann	Disease	1545	1563	síndrome de Noonan
+31560489	pmid-31560489.ann	Gene	1568	1574	PTPN11
+31560489	pmid-31560489.ann	Disease	1592	1633	síndrome de Noonan con múltiples lentigos
+31560489	pmid-31560489.ann	Gene	1638	1642	BRAF
+31560489	pmid-31560489.ann	Disease	1659	1686	síndrome cardiofaciocutáneo
+31560489	pmid-31560489.ann	Gene	1692	1693	H
+31560489	pmid-31560489.ann	Disease	1714	1734	síndrome de Costello
+31560501	pmid-31560501.ann	Disease	11	24	Síndrome WAGR
+31560501	pmid-31560501.ann	Gene	63	66	WT1
+31560501	pmid-31560501.ann	Disease	107	120	síndrome WAGR
+31560501	pmid-31560501.ann	Disease	122	136	tumor de Wilms
+31560501	pmid-31560501.ann	Disease	138	146	aniridia
+31560501	pmid-31560501.ann	Disease	148	173	anomalías genitourinarias
+31560501	pmid-31560501.ann	Disease	176	190	retraso mental
+31560501	pmid-31560501.ann	Gene	293	296	WT1
+31560501	pmid-31560501.ann	Gene	299	303	PAX6
+31560501	pmid-31560501.ann	Disease	369	377	aniridia
+31560501	pmid-31560501.ann	Disease	383	397	tumor de Wilms
+31560501	pmid-31560501.ann	Disease	462	474	microcefalia
+31560501	pmid-31560501.ann	Disease	476	497	alteraciones oculares
+31560501	pmid-31560501.ann	Disease	499	508	buftalmos
+31560501	pmid-31560501.ann	Disease	510	520	leucocoria
+31560501	pmid-31560501.ann	Disease	522	540	aniridia bilateral
+31560501	pmid-31560501.ann	Disease	543	562	hipoplasia escrotal
+31560501	pmid-31560501.ann	Disease	564	596	testículos en la región inguinal
+31560501	pmid-31560501.ann	Disease	599	628	retraso en el neurodesarrollo
+31560501	pmid-31560501.ann	Gene	729	730	W
+31560501	pmid-31560501.ann	Gene	730	732	T1
+31560501	pmid-31560501.ann	Disease	895	909	tumor de Wilms
+31584773	pmid-31584773.ann	Gene	45	53	CYP2C9*2
+31584773	pmid-31584773.ann	Gene	56	64	CYP2C9*3
+31584773	pmid-31584773.ann	Gene	135	151	citocromo CYP2C9
+31584773	pmid-31584773.ann	Gene	314	322	CYP2C9*2
+31584773	pmid-31584773.ann	Gene	325	333	CYP2C9*3
+31584773	pmid-31584773.ann	Gene	550	556	CYP2C9
+31584773	pmid-31584773.ann	Gene	1024	1032	CYP2C9*2
+31584773	pmid-31584773.ann	Gene	1035	1043	CYP2C9*3
+31584773	pmid-31584773.ann	Gene	1175	1183	CYP2C9*2
+31584773	pmid-31584773.ann	Gene	1186	1194	CYP2C9*3
+31584773	pmid-31584773.ann	Gene	1439	1441	CY
+31584773	pmid-31584773.ann	Gene	1441	1447	P2C9*1
+31584773	pmid-31584773.ann	Gene	1460	1468	CYP2C9*1
+31584773	pmid-31584773.ann	Gene	1534	1536	CY
+31584773	pmid-31584773.ann	Gene	1537	1542	2C9*2
+31584773	pmid-31584773.ann	Gene	1555	1563	CYP2C9*3
+31584773	pmid-31584773.ann	Gene	1576	1584	CYP2C9*2
+31584773	pmid-31584773.ann	Gene	1709	1715	CYP2C9
+31682461	pmid-31682461.ann	Gene	51	56	APOA1
+31682461	pmid-31682461.ann	Gene	270	275	APOA1
+31682461	pmid-31682461.ann	Gene	410	415	APOA1
+31682461	pmid-31682461.ann	SNP	1879	1881	rs
+31682461	pmid-31682461.ann	Gene	1885	1890	ApoA1
+31682461	pmid-31682461.ann	Disease	1910	1932	resistencia a insulina
+31713226	pmid-31713226.ann	Disease	77	95	gliomas cerebrales
+31713226	pmid-31713226.ann	Disease	322	340	tumores cerebrales
+31713226	pmid-31713226.ann	Disease	417	429	astrocitomas
+31713226	pmid-31713226.ann	Disease	432	450	oligodendrogliomas
+31713226	pmid-31713226.ann	Disease	603	621	gliomas cerebrales
+31713226	pmid-31713226.ann	Gene	699	724	isocitrato deshidrogenasa
+31713226	pmid-31713226.ann	Gene	726	729	IDH
+31713226	pmid-31713226.ann	Disease	804	811	gliomas
+31713226	pmid-31713226.ann	Disease	1037	1055	gliomas cerebrales
+31713226	pmid-31713226.ann	Disease	1064	1076	astrocitomas
+31713226	pmid-31713226.ann	Disease	1079	1097	oligodendrogliomas
+31713226	pmid-31713226.ann	Disease	1203	1210	gliomas
+31713226	pmid-31713226.ann	Disease	1241	1259	oligodendrogliomas
+31713226	pmid-31713226.ann	Disease	1274	1286	astrocitomas
+31713226	pmid-31713226.ann	Disease	1380	1387	gliomas
+31713226	pmid-31713226.ann	Disease	1605	1608	foc
+31713226	pmid-31713226.ann	Gene	1756	1759	IDH
+31793325	pmid-31793325.ann	Disease	11	13	Hi
+31793325	pmid-31793325.ann	Disease	13	30	pocupremia severa
+31793325	pmid-31793325.ann	Disease	33	87	polineuropatía amiloidótica familiar por transtiretina
+31793325	pmid-31793325.ann	Disease	169	223	polineuropatía amiloidótica familiar por transtiretina
+31793325	pmid-31793325.ann	Disease	225	232	TTR-FAP
+31793325	pmid-31793325.ann	Disease	251	270	hipocupremia severa
+31793325	pmid-31793325.ann	Disease	313	320	TTR-FAP
+31793325	pmid-31793325.ann	Disease	357	369	desnutrición
+31793325	pmid-31793325.ann	Disease	1054	1056	an
+31793325	pmid-31793325.ann	Disease	1090	1092	mi
+31793325	pmid-31793325.ann	Disease	1092	1100	elopatía
+31793325	pmid-31793325.ann	Disease	1102	1123	neuropatía periférica
+31820818	pmid-31820818.ann	Gene	55	59	MBD5
+31820818	pmid-31820818.ann	Disease	104	109	polim
+31820818	pmid-31820818.ann	Disease	162	199	retraso mental autosómico dominante 1
+31820818	pmid-31820818.ann	Disease	223	238	pseudo-Angelman
+31820818	pmid-31820818.ann	Disease	240	280	trastorno del neurodesarrollo asociado a
+31820818	pmid-31820818.ann	Gene	281	285	MBD5
+31820818	pmid-31820818.ann	Gene	307	311	MBD5
+31820818	pmid-31820818.ann	Gene	401	405	MBD5
+31820818	pmid-31820818.ann	Gene	566	570	MBD5
+31820818	pmid-31820818.ann	Disease	615	620	polim
+31820818	pmid-31820818.ann	Disease	734	758	discapacidad intelectual
+31820818	pmid-31820818.ann	Disease	761	774	retraso motor
+31820818	pmid-31820818.ann	Disease	783	818	ausencia de desarrollo del lenguaje
+31820818	pmid-31820818.ann	Disease	820	841	hipotonía segmentaria
+31820818	pmid-31820818.ann	Disease	850	855	ancha
+31820818	pmid-31820818.ann	Disease	858	872	cifoescoliosis
+31820818	pmid-31820818.ann	Disease	974	979	polim
+31820818	pmid-31820818.ann	Disease	979	1005	icrogiria parietooccipital
+31820818	pmid-31820818.ann	DNAMutation	1074	1084	c.397+1G>C
+31820818	pmid-31820818.ann	Gene	1112	1116	MBD5
+31820818	pmid-31820818.ann	Gene	1204	1208	MBD5
+31820818	pmid-31820818.ann	Disease	1223	1257	trastorno en la migración neuronal
+31823853	pmid-31823853.ann	Disease	11	14	Aus
+31823853	pmid-31823853.ann	Disease	14	62	encia congénita bilateral del conducto deferente
+31823853	pmid-31823853.ann	Gene	226	230	CFTR
+31823853	pmid-31823853.ann	Gene	241	273	de la conductancia transmembrana
+31823853	pmid-31823853.ann	Disease	280	297	fibrosis quística
+31823853	pmid-31823853.ann	Disease	338	355	fibrosis quística
+31823853	pmid-31823853.ann	Disease	357	358	F
+31823853	pmid-31823853.ann	Disease	358	366	Q) grave
+31823853	pmid-31823853.ann	Disease	467	519	ausencia bilateral congénita de conductos deferentes
+31823853	pmid-31823853.ann	Disease	646	698	ausencia bilateral congénita de conductos deferentes
+31823853	pmid-31823853.ann	Gene	749	753	CFTR
+31823853	pmid-31823853.ann	Disease	760	777	fibrosis quística
+31823853	pmid-31823853.ann	Gene	858	862	CFTR
+31823853	pmid-31823853.ann	Disease	1420	1422	FQ
+31823853	pmid-31823853.ann	Gene	1458	1462	CFTR
+31823853	pmid-31823853.ann	Disease	1588	1640	ausencia bilateral congénita de conductos deferentes
+31845753	pmid-31845753.ann	Disease	33	46	resistencia a
+31845753	pmid-31845753.ann	Disease	62	71	epilepsia
+31845753	pmid-31845753.ann	Disease	242	251	epilepsia
+31845753	pmid-31845753.ann	Disease	839	848	epilepsia
+31845753	pmid-31845753.ann	Gene	972	976	ABCB
+31845753	pmid-31845753.ann	Gene	980	985	ABCC2
+31845753	pmid-31845753.ann	Disease	1070	1079	epilepsia
+31845753	pmid-31845753.ann	Disease	1528	1537	epilepsia
+31860174	pmid-31860174.ann	Gene	71	74	SRY
+31860174	pmid-31860174.ann	Disease	81	99	ambigüedad genital
+31860174	pmid-31860174.ann	Disease	163	194	diferenciación sexual masculina
+31860174	pmid-31860174.ann	Gene	231	234	SRY
+31860174	pmid-31860174.ann	Gene	546	557	amelogenina
+31860174	pmid-31860174.ann	Gene	644	647	SRY
+31860174	pmid-31860174.ann	Gene	777	780	SRY
+31860174	pmid-31860174.ann	Disease	980	998	ambigüedad genital
+31860174	pmid-31860174.ann	Gene	1071	1074	SRY
+31860174	pmid-31860174.ann	Gene	1094	1095	Z
+31860174	pmid-31860174.ann	Disease	1120	1185	trastorno de diferenciación sexual 46 XX testicular no sindrómico
+31860174	pmid-31860174.ann	Gene	1286	1288	SR
+31860174	pmid-31860174.ann	Gene	1379	1380	Z
+31860174	pmid-31860174.ann	Disease	1380	1382	FY
+31860174	pmid-31860174.ann	Disease	1422	1428	sexual
+31860174	pmid-31860174.ann	Gene	1464	1467	SRY
+31864230	pmid-31864230.ann	Disease	51	75	atrofia muscular espinal
+31864230	pmid-31864230.ann	Disease	770	794	atrofia muscular espinal
+31864230	pmid-31864230.ann	Disease	808	850	enfermedad hereditaria autosómica recesiva
+31864230	pmid-31864230.ann	Gene	865	869	SMN1
+31864230	pmid-31864230.ann	Gene	1025	1029	SMN1
+31864230	pmid-31864230.ann	Gene	1042	1046	SMN2
+31864230	pmid-31864230.ann	Gene	1134	1138	SMN2
+31864230	pmid-31864230.ann	Gene	1196	1199	SMN
+31864230	pmid-31864230.ann	Disease	1258	1286	enfermedad neurodegenerativa
+31967259	pmid-31967259.ann	Disease	49	76	agammaglobulinemia primaria
+31967259	pmid-31967259.ann	Disease	139	168	agammaglobulinemias primarias
+31967259	pmid-31967259.ann	Disease	170	172	AP
+31967259	pmid-31967259.ann	Disease	339	352	infecciones a
+31967259	pmid-31967259.ann	Disease	603	605	AP
+31967259	pmid-31967259.ann	Disease	669	671	AP
+31967259	pmid-31967259.ann	Disease	771	773	AP
+31967259	pmid-31967259.ann	Gene	828	831	BTK
+31967259	pmid-31967259.ann	Disease	960	962	AP
+31967259	pmid-31967259.ann	Gene	1004	1007	BTK
+31967259	pmid-31967259.ann	Disease	1029	1031	AP
+32090581	pmid-32090581.ann	SNP	23	25	rs
+32090581	pmid-32090581.ann	Gene	48	57	resistina
+32090581	pmid-32090581.ann	Gene	90	99	resistina
+32090581	pmid-32090581.ann	Disease	115	140	resistencia a la insulina
+32090581	pmid-32090581.ann	Disease	159	186	diabetes mellitus de tipo 2
+32090581	pmid-32090581.ann	Disease	204	210	obesos
+32090581	pmid-32090581.ann	OtherMutation	240	253	SNP 3´UTR C/T
+32090581	pmid-32090581.ann	SNP	255	257	rs
+32090581	pmid-32090581.ann	Gene	275	279	RETN
+32090581	pmid-32090581.ann	Disease	338	365	diabetes mellitus de tipo 2
+32090581	pmid-32090581.ann	SNP	484	486	rs
+32090581	pmid-32090581.ann	Gene	509	518	resistina
+32090581	pmid-32090581.ann	Gene	548	557	resistina
+32090581	pmid-32090581.ann	Disease	590	617	diabetes mellitus de tipo 2
+32090581	pmid-32090581.ann	Disease	633	641	obesidad
+32090581	pmid-32090581.ann	Disease	647	672	resistencia a la insulina
+32090581	pmid-32090581.ann	Disease	756	764	obesidad
+32090581	pmid-32090581.ann	SNP	1034	1036	rs
+32090581	pmid-32090581.ann	Disease	1074	1101	diabetes mellitus de tipo 2
+32090581	pmid-32090581.ann	Disease	1103	1106	DM2
+32090581	pmid-32090581.ann	Disease	1236	1238	DM
+32090581	pmid-32090581.ann	Gene	1606	1615	resistina
+32090581	pmid-32090581.ann	Disease	1840	1867	diabetes mellitus de tipo 2
+32090581	pmid-32090581.ann	Disease	1869	1872	DM2
+32090581	pmid-32090581.ann	SNP	1923	1925	rs
+32090581	pmid-32090581.ann	Disease	1976	1979	DM2
+32090581	pmid-32090581.ann	Disease	2032	2035	DM2
+32220173	pmid-32220173.ann	Disease	11	12	C
+32220173	pmid-32220173.ann	Disease	12	25	áncer de mama
+32220173	pmid-32220173.ann	Gene	75	80	BRCA1
+32220173	pmid-32220173.ann	Disease	119	133	cáncer de mama
+32220173	pmid-32220173.ann	Gene	324	328	BRCA
+32220173	pmid-32220173.ann	Gene	335	340	BRCA2
+32220173	pmid-32220173.ann	Gene	376	381	BRCA1
+32220173	pmid-32220173.ann	Gene	521	526	BRCA1
+32220173	pmid-32220173.ann	Disease	585	599	cáncer de mama
+32220173	pmid-32220173.ann	Disease	718	732	cáncer de mama
+32220173	pmid-32220173.ann	Gene	748	753	BRCA1
+32220173	pmid-32220173.ann	DNAMutation	754	761	3450del
+32220173	pmid-32220173.ann	Gene	1137	1142	BRCA1
+32220173	pmid-32220173.ann	Disease	1175	1189	cáncer de mama
+32220173	pmid-32220173.ann	Disease	1196	1212	cáncer de ovario
+32220173	pmid-32220173.ann	Disease	1219	1242	cáncer de mama y ovario
+32220173	pmid-32220173.ann	Disease	1252	1270	cáncer de próstata
+32220173	pmid-32220173.ann	Disease	1290	1300	neoplasias
+32220173	pmid-32220173.ann	Gene	1496	1501	BRCA1
+32220173	pmid-32220173.ann	DNAMutation	1502	1509	3450del
+32220173	pmid-32220173.ann	Disease	1518	1532	cáncer de mama
+32282328	pmid-32282328.ann	Disease	87	108	adenomas hipofisarios
+32282328	pmid-32282328.ann	Disease	122	135	prolactinomas
+32282328	pmid-32282328.ann	Disease	177	198	adenomas hipofisarios
+32282328	pmid-32282328.ann	Disease	304	342	neoplasia endocrina múltiple de tipo 1
+32282328	pmid-32282328.ann	Disease	344	345	N
+32282328	pmid-32282328.ann	Disease	345	348	EM1
+32282328	pmid-32282328.ann	Disease	351	369	complejo de Carney
+32282328	pmid-32282328.ann	Disease	371	374	CNC
+32282328	pmid-32282328.ann	Disease	378	419	adenomas hipofisarios aislados familiares
+32282328	pmid-32282328.ann	Disease	421	422	F
+32282328	pmid-32282328.ann	Disease	422	425	IPA
+32282328	pmid-32282328.ann	Disease	431	435	FIPA
+32282328	pmid-32282328.ann	Gene	516	517	N
+32282328	pmid-32282328.ann	Disease	530	533	CNC
+32282328	pmid-32282328.ann	Disease	539	543	FIPA
+32282328	pmid-32282328.ann	Disease	577	585	adenomas
+32282328	pmid-32282328.ann	Disease	796	808	prolactinoma
+32282328	pmid-32282328.ann	Disease	810	811	F
+32282328	pmid-32282328.ann	Disease	811	814	IPA
+32282328	pmid-32282328.ann	Disease	853	858	macro
+32282328	pmid-32282328.ann	Disease	858	866	adenomas
+32282328	pmid-32282328.ann	Gene	967	970	cab
+32282328	pmid-32282328.ann	Disease	1193	1197	NEM1
+32282328	pmid-32282328.ann	Disease	1200	1203	CNC
+32282328	pmid-32282328.ann	Gene	1359	1404	aryl hydrocarbon receptor interacting protein
+32282328	pmid-32282328.ann	Gene	1406	1409	AIP
+32282328	pmid-32282328.ann	Disease	1457	1461	FIPA
+32282328	pmid-32282328.ann	Gene	1492	1495	AIP
+32463610	pmid-32463610.ann	Gene	58	79	virus de Epstein-Barr
+32463610	pmid-32463610.ann	Disease	285	309	mononucleosis infecciosa
+32463610	pmid-32463610.ann	Disease	314	332	linfoma de Burkitt
+32463610	pmid-32463610.ann	Disease	337	359	carcinoma nasofaríngeo
+32463610	pmid-32463610.ann	Disease	368	378	neoplasias
+32463610	pmid-32463610.ann	Gene	420	423	EBV
+32463610	pmid-32463610.ann	Gene	428	434	EBV- 2
+32463610	pmid-32463610.ann	Gene	498	527	Epstein-Barr Nuclear Antigens
+32463610	pmid-32463610.ann	Gene	529	533	EBNA
+32463610	pmid-32463610.ann	Gene	601	609	proteína
+32463610	pmid-32463610.ann	Gene	610	614	LMP1
+32463610	pmid-32463610.ann	Gene	797	799	EB
+32463610	pmid-32463610.ann	Gene	1055	1061	EBNA3C
+32463610	pmid-32463610.ann	Gene	1135	1139	LMP1
+32463610	pmid-32463610.ann	Gene	1454	1457	EBV
+32463610	pmid-32463610.ann	Disease	1565	1583	linfoma de Burkitt
+32463610	pmid-32463610.ann	Gene	1804	1808	LMP1
+32463610	pmid-32463610.ann	Gene	1809	1812	EBV
+32470267	pmid-32470267.ann	Disease	46	65	síndrome de Pierson
+32470267	pmid-32470267.ann	Disease	81	100	síndrome de Pierson
+32470267	pmid-32470267.ann	Disease	136	164	síndrome nefrótico congénito
+32470267	pmid-32470267.ann	Disease	167	187	microcoria bilateral
+32470267	pmid-32470267.ann	Gene	260	265	LAMB2
+32470267	pmid-32470267.ann	Gene	283	298	cadena β2 de la
+32470267	pmid-32470267.ann	Gene	299	307	laminina
+32470267	pmid-32470267.ann	Disease	435	454	síndrome de Pierson
+32470267	pmid-32470267.ann	Disease	521	548	disfunción renal progresiva
+32470267	pmid-32470267.ann	Disease	576	595	insuficiencia renal
+32470267	pmid-32470267.ann	Gene	697	702	LAMB2
+32470267	pmid-32470267.ann	Disease	723	742	síndrome de Pierson
+32470267	pmid-32470267.ann	Disease	779	785	epider
+32470267	pmid-32470267.ann	Disease	785	802	mólisis ampollosa
+32470270	pmid-32470270.ann	Disease	11	22	Síndrome de
+32470270	pmid-32470270.ann	Disease	23	48	osteoporosis-pseudoglioma
+32470270	pmid-32470270.ann	Disease	87	108	osteoporosis primaria
+32470270	pmid-32470270.ann	Disease	124	136	osteoporosis
+32470270	pmid-32470270.ann	Disease	287	302	fragilidad ósea
+32470270	pmid-32470270.ann	Disease	307	328	osteoporosis primaria
+32470270	pmid-32470270.ann	Disease	425	455	pliegues retinianos congénitos
+32470270	pmid-32470270.ann	Disease	488	513	osteoporosis-pseudoglioma
+32470270	pmid-32470270.ann	Gene	639	643	LRP5
+32470270	pmid-32470270.ann	Gene	645	695	low-density lipoprotein receptor-related protein 5
+32470270	pmid-32470270.ann	Gene	736	739	Wnt
+32470270	pmid-32470270.ann	Gene	740	750	β-catenina
+32470270	pmid-32470270.ann	Disease	787	817	pliegues retinianos congénitos
+32470270	pmid-32470270.ann	Disease	819	837	ceguera progresiva
+32470270	pmid-32470270.ann	Disease	931	952	osteoporosis primaria
+32470270	pmid-32470270.ann	Gene	1003	1004	L
+32470270	pmid-32470270.ann	Gene	1004	1007	RP5
+32568493	pmid-32568493.ann	Disease	27	44	micosis fungoides
+32568493	pmid-32568493.ann	Disease	47	69	trombocitemia esencial
+32568493	pmid-32568493.ann	Gene	83	87	JAK2
+32568493	pmid-32568493.ann	Disease	138	168	neoplasias mieloproliferativas
+32568493	pmid-32568493.ann	Disease	170	171	N
+32568493	pmid-32568493.ann	Disease	171	174	MPs
+32568493	pmid-32568493.ann	Disease	196	218	trombocitemia esencial
+32568493	pmid-32568493.ann	Disease	225	255	neoplasias linfoproliferativas
+32568493	pmid-32568493.ann	Disease	381	398	micosis fungoides
+32568493	pmid-32568493.ann	Disease	546	570	trombocitemia importante
+32568493	pmid-32568493.ann	Disease	698	735	enfermedad mieloproliferativa crónica
+32568493	pmid-32568493.ann	Gene	1039	1044	JAK 2
+32568493	pmid-32568493.ann	Disease	1086	1108	trombocitemia esencial
+32568493	pmid-32568493.ann	Disease	1207	1239	neoplasias mieloides y linfoides
+32627162	pmid-32627162.ann	Disease	11	14	Dis
+32627162	pmid-32627162.ann	Disease	14	32	cinesia asociada a
+32627162	pmid-32627162.ann	Gene	33	35	AD
+32627162	pmid-32627162.ann	Gene	35	38	CY5
+32627162	pmid-32627162.ann	Disease	134	144	discinesia
+32627162	pmid-32627162.ann	Gene	160	162	AD
+32627162	pmid-32627162.ann	Gene	162	165	CY5
+32627162	pmid-32627162.ann	Disease	177	201	trastorno del movimiento
+32627162	pmid-32627162.ann	Disease	247	267	movimientos coreicos
+32627162	pmid-32627162.ann	Disease	291	301	mioclonías
+32627162	pmid-32627162.ann	Disease	304	313	distonías
+32627162	pmid-32627162.ann	Disease	508	533	trastornos del movimiento
+32627162	pmid-32627162.ann	Disease	752	772	retraso del lenguaje
+32627162	pmid-32627162.ann	Disease	775	789	hiperactividad
+32627162	pmid-32627162.ann	Disease	843	863	movimientos coreicos
+32627162	pmid-32627162.ann	Disease	878	884	facial
+32627162	pmid-32627162.ann	Disease	979	982	cor
+32627162	pmid-32627162.ann	Disease	982	1007	ea generalizado en reposo
+32627162	pmid-32627162.ann	Disease	1023	1032	orofacial
+32627162	pmid-32627162.ann	Disease	1035	1055	torpeza en la marcha
+32627162	pmid-32627162.ann	Disease	1166	1183	síndrome de Meige
+32627162	pmid-32627162.ann	Disease	1185	1188	dis
+32627162	pmid-32627162.ann	Disease	1188	1233	tonía oromandibular y músculos periorbitarios
+32627162	pmid-32627162.ann	Disease	1239	1283	trastornos del movimiento de tipo coreiforme
+32627162	pmid-32627162.ann	Disease	1424	1449	trastornos del movimiento
+32627162	pmid-32627162.ann	Gene	1495	1497	AD
+32627162	pmid-32627162.ann	Gene	1497	1500	CY5
+32627162	pmid-32627162.ann	Disease	1516	1546	discinesia familiar autosómica
+32673457	pmid-32673457.ann	Gene	67	71	CFTR
+32673457	pmid-32673457.ann	Disease	158	175	fibrosis quística
+32673457	pmid-32673457.ann	Disease	183	234	enfermedad genética de carácter autosómico recesivo
+32673457	pmid-32673457.ann	Disease	252	271	enfermedad huérfana
+32673457	pmid-32673457.ann	Gene	388	392	CFTR
+32673457	pmid-32673457.ann	Disease	1290	1307	fibrosis quística
+32673457	pmid-32673457.ann	Gene	1680	1684	CFTR
+32686440	pmid-32686440.ann	Disease	97	112	pérdida de peso
+32686440	pmid-32686440.ann	SNP	161	163	rs
+32686440	pmid-32686440.ann	Gene	182	196	neuropéptido Y
+32686440	pmid-32686440.ann	SNP	290	292	rs
+32686440	pmid-32686440.ann	Disease	333	347	cambio de peso
+32686440	pmid-32686440.ann	SNP	442	444	rs
+32686440	pmid-32686440.ann	SNP	952	954	rs
+32686440	pmid-32686440.ann	SNP	1781	1783	rs
+32686440	pmid-32686440.ann	Disease	1861	1871	a insulina
+32686440	pmid-32686440.ann	Disease	1910	1917	de peso
+32876216	pmid-32876216.ann	Disease	60	83	Vibrio parahaemolyticus
+32876216	pmid-32876216.ann	Disease	179	202	Vibrio parahaemolyticus
+32876216	pmid-32876216.ann	Gene	739	740	V
+32876216	pmid-32876216.ann	Gene	742	743	I
+32876216	pmid-32876216.ann	Gene	790	791	t
+32876216	pmid-32876216.ann	Gene	791	793	dh
+32876216	pmid-32876216.ann	Gene	811	814	trh
+32895905	pmid-32895905.ann	Disease	81	125	síndrome miasténico congénito de canal lento
+32895905	pmid-32895905.ann	Disease	155	199	síndrome miasténico congénito de canal lento
+32895905	pmid-32895905.ann	Disease	203	229	síndrome de canales lentos
+32895905	pmid-32895905.ann	Disease	237	283	trastorno neuromuscular progresivo hereditario
+32895905	pmid-32895905.ann	Disease	748	792	síndrome miasténico congénito de canal lento
+32895905	pmid-32895905.ann	Disease	806	815	debilidad
+32895905	pmid-32895905.ann	Disease	818	824	fatiga
+32895905	pmid-32895905.ann	Gene	1178	1184	CHRNB1
+32895905	pmid-32895905.ann	DNAMutation	1186	1194	c.865G>A
+32895905	pmid-32895905.ann	Disease	1781	1825	síndrome miasténico congénito de canal lento
+33030834	pmid-33030834.ann	Disease	45	63	Giardia duodenalis
+33030834	pmid-33030834.ann	Disease	135	153	Giardia duodenalis
+33030834	pmid-33030834.ann	Disease	315	328	G. duodenalis
+33030834	pmid-33030834.ann	Disease	478	488	giardiasis
+33030834	pmid-33030834.ann	Disease	578	591	G. duodenalis
+33030834	pmid-33030834.ann	Disease	706	719	G. duodenalis
+33030834	pmid-33030834.ann	Gene	879	882	gdh
+33030834	pmid-33030834.ann	Gene	885	890	beta-
+33030834	pmid-33030834.ann	Gene	890	897	giardin
+33030834	pmid-33030834.ann	Gene	918	923	beta-
+33030834	pmid-33030834.ann	Gene	923	930	giardin
+33030834	pmid-33030834.ann	Disease	967	980	G. duodenalis
+33145748	pmid-33145748.ann	Disease	11	13	Le
+33145748	pmid-33145748.ann	Disease	13	57	ucoencefalopatía megalencefálica con quistes
+33145748	pmid-33145748.ann	Disease	145	191	leucoencefalopatía megalencefálica con quistes
+33145748	pmid-33145748.ann	Disease	199	213	leucodistrofia
+33145748	pmid-33145748.ann	Disease	217	232	origen genético
+33145748	pmid-33145748.ann	Disease	340	356	edema crónico en
+33145748	pmid-33145748.ann	Disease	360	376	sustancia blanca
+33145748	pmid-33145748.ann	Disease	381	413	deterioro neurológico progresivo
+33145748	pmid-33145748.ann	Disease	463	486	macrocefalia progresiva
+33145748	pmid-33145748.ann	Disease	518	531	retraso motor
+33145748	pmid-33145748.ann	Disease	653	676	macrocefalia progresiva
+33145748	pmid-33145748.ann	Disease	679	712	retraso del desarrollo psicomotor
+33145748	pmid-33145748.ann	Disease	792	838	leucoencefalopatía megalencefálica con quistes
+33145748	pmid-33145748.ann	Disease	855	864	epilepsia
+33145748	pmid-33145748.ann	Gene	1147	1149	ML
+33145748	pmid-33145748.ann	Disease	1170	1216	leucoencefalopatía megalencefálica con quistes
+33145748	pmid-33145748.ann	Disease	1266	1289	macrocefalia progresiva
+33145748	pmid-33145748.ann	Disease	1331	1340	deterioro
+33145748	pmid-33145748.ann	Disease	1392	1401	epilepsia
+33145748	pmid-33145748.ann	Disease	1403	1415	espasticidad
+33145748	pmid-33145748.ann	Disease	1418	1424	ataxia
+33145748	pmid-33145748.ann	Disease	1625	1640	leucodistrofias
+33342995	pmid-33342995.ann	Disease	27	54	síndrome de Phelan-McDermid
+33342995	pmid-33342995.ann	Disease	90	117	Síndrome de Phelan-McDermid
+33342995	pmid-33342995.ann	OtherMutation	185	242	deleción del extremo terminal del cromosoma 22 región q13
+33342995	pmid-33342995.ann	OtherMutation	243	244	3
+33342995	pmid-33342995.ann	Gene	291	293	SH
+33342995	pmid-33342995.ann	Gene	293	297	ANK3
+34042169	pmid-34042169.ann	Disease	11	40	Síndrome de Aicardi-Goutières
+34042169	pmid-34042169.ann	Gene	82	90	RNASEH2B
+34042169	pmid-34042169.ann	Disease	120	149	síndrome de Aicardi-Goutières
+34042169	pmid-34042169.ann	Disease	157	181	encefalopatía progresiva
+34042169	pmid-34042169.ann	Disease	232	250	retraso psicomotor
+34042169	pmid-34042169.ann	Disease	252	264	microcefalia
+34042169	pmid-34042169.ann	Disease	267	287	disfunción piramidal
+34042169	pmid-34042169.ann	Disease	602	616	leucodistrofia
+34042169	pmid-34042169.ann	Disease	618	644	atrofia corticosubcortical
+34042169	pmid-34042169.ann	Disease	646	684	calcificaciones en los núcleos basales
+34042169	pmid-34042169.ann	DNAMutation	787	788	p
+34042169	pmid-34042169.ann	DNAMutation	789	790	A
+34042169	pmid-34042169.ann	DNAMutation	790	798	la177Thr
+34042169	pmid-34042169.ann	Gene	824	826	RN
+34042169	pmid-34042169.ann	Gene	826	832	ASEH2B
+34042169	pmid-34042169.ann	Disease	930	945	hipotonía axial
+34042169	pmid-34042169.ann	Disease	947	977	hipertonía de las extremidades
+34042169	pmid-34042169.ann	Disease	979	1000	regresión psicomotriz
+34042169	pmid-34042169.ann	Disease	1003	1025	movimientos distónicos
+34042169	pmid-34042169.ann	Disease	1075	1090	tono axial bajo
+34042169	pmid-34042169.ann	Disease	1095	1125	hipertonía de las extremidades
+34042169	pmid-34042169.ann	Disease	1153	1168	calcificaciones
+34042169	pmid-34042169.ann	Disease	1259	1281	movimientos distónicos
+34042169	pmid-34042169.ann	Disease	1284	1305	nistagmo intermitente
+34042169	pmid-34042169.ann	Disease	1330	1352	tetraparesia espástica
+34042169	pmid-34042169.ann	Disease	1457	1486	síndrome de Aicardi-Goutières
+34042169	pmid-34042169.ann	Disease	1565	1601	alteración del desarrollo psicomotor
+34042169	pmid-34042169.ann	Disease	1604	1634	calcificaciones intracraneales
+34525787	pmid-34525787.ann	Disease	11	16	Candi
+34525787	pmid-34525787.ann	Disease	16	69	diasis mucocutánea crónica asociada con autoinmunidad
+34525787	pmid-34525787.ann	Disease	72	93	displasia ectodérmica
+34525787	pmid-34525787.ann	Disease	141	183	candidiasis mucocutánea crónica asociada a
+34525787	pmid-34525787.ann	Disease	184	197	autoinmunidad
+34525787	pmid-34525787.ann	Disease	200	221	displasia ectodérmica
+34525787	pmid-34525787.ann	Disease	228	256	error innato de la inmunidad
+34525787	pmid-34525787.ann	Disease	296	301	candi
+34525787	pmid-34525787.ann	Disease	301	327	diasis mucocutánea crónica
+34525787	pmid-34525787.ann	Disease	329	347	hipoparatiroidismo
+34525787	pmid-34525787.ann	Disease	350	375	insuficiencia suprarrenal
+34525787	pmid-34525787.ann	Disease	623	662	infecciones respiratorias de repetición
+34525787	pmid-34525787.ann	Disease	664	683	candidiasis crónica
+34525787	pmid-34525787.ann	Disease	685	709	colitis pseudomembranosa
+34525787	pmid-34525787.ann	Disease	712	724	pancitopenia
+34525787	pmid-34525787.ann	Disease	774	802	error innato de la inmunidad
+34525787	pmid-34525787.ann	Disease	831	833	AP
+34525787	pmid-34525787.ann	Disease	839	901	autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy
+34525787	pmid-34525787.ann	Gene	960	964	AIRE
+34525787	pmid-34525787.ann	Disease	1158	1189	errores innatos de la inmunidad
+34606700	pmid-34606700.ann	Disease	11	13	Hi
+34606700	pmid-34606700.ann	Disease	13	52	perplasia muscular aberrante de la mano
+34606700	pmid-34606700.ann	Disease	55	97	síndromes de sobrecrecimiento relacionados
+34606700	pmid-34606700.ann	Gene	105	111	PIK3CA
+34606700	pmid-34606700.ann	Disease	157	198	hiperplasia muscular congénita de la mano
+34606700	pmid-34606700.ann	Disease	474	504	hiperplasia muscular aberrante
+34606700	pmid-34606700.ann	Gene	531	537	PIK3CA
+34606700	pmid-34606700.ann	Gene	694	700	PIK3CA
+34606700	pmid-34606700.ann	Disease	785	836	ensanchamiento de la eminencia hipotenar de la mano
+34606700	pmid-34606700.ann	Disease	897	916	desviación ulnar de
+34606700	pmid-34606700.ann	Disease	921	950	articulaciones metacarpofalán
+34606700	pmid-34606700.ann	Disease	1010	1060	sobrecrecimiento congénito del miembro ipsilateral
+34606700	pmid-34606700.ann	Disease	1161	1181	hiperplasia muscular
+34606700	pmid-34606700.ann	Gene	1295	1301	PIK3CA
+34606700	pmid-34606700.ann	DNAMutation	1410	1420	His1047Arg
+34606700	pmid-34606700.ann	DNAMutation	1422	1431	Glu542Lys
+34606700	pmid-34606700.ann	DNAMutation	1434	1443	Cys420Arg
+34606700	pmid-34606700.ann	Disease	1477	1518	hiperplasia muscular aberrante de la mano
+34606700	pmid-34606700.ann	Gene	1619	1625	PIK3CA
+34606700	pmid-34606700.ann	Gene	1702	1708	PIK3CA
+34606700	pmid-34606700.ann	Disease	1715	1740	sobrecrecimiento muscular
+34633954	pmid-34633954.ann	Disease	58	98	gliomas pediátricos de alto y bajo grado
+34633954	pmid-34633954.ann	Gene	115	124	BRAFV600E
+34633954	pmid-34633954.ann	Disease	262	275	tumorigénesis
+34633954	pmid-34633954.ann	Disease	286	293	gliomas
+34633954	pmid-34633954.ann	Disease	537	561	gliomas BRAFV600E mutado
+34633954	pmid-34633954.ann	Disease	689	713	gliomas BRAFV600E mutado
+34633954	pmid-34633954.ann	Gene	729	730	v
+34633954	pmid-34633954.ann	Gene	743	744	d
+34633954	pmid-34633954.ann	Disease	846	867	gliomas de bajo grado
+34633954	pmid-34633954.ann	Disease	880	885	grado
+34633954	pmid-34633954.ann	Disease	1681	1702	gliomas de bajo grado
+34633954	pmid-34633954.ann	Gene	1745	1754	BRAFV600E
+34633954	pmid-34633954.ann	Disease	1800	1821	gliomas de alto grado
+34755890	pmid-34755890.ann	Disease	11	13	Li
+34755890	pmid-34755890.ann	Disease	13	43	pofuscinosis ceroidea neuronal
+34755890	pmid-34755890.ann	Disease	78	79	6
+34755890	pmid-34755890.ann	Disease	190	204	lipofuscinosis
+34755890	pmid-34755890.ann	Disease	283	303	alteraciones motoras
+34755890	pmid-34755890.ann	Disease	305	314	mioclonos
+34755890	pmid-34755890.ann	Disease	316	325	disartria
+34755890	pmid-34755890.ann	Disease	327	333	ataxia
+34755890	pmid-34755890.ann	Disease	335	381	pérdida de la visión y las habilidades motoras
+34755890	pmid-34755890.ann	Gene	434	438	CLN6
+34755890	pmid-34755890.ann	Disease	683	699	marcha inestable
+34755890	pmid-34755890.ann	Disease	701	707	caídas
+34755890	pmid-34755890.ann	Disease	735	755	pérdida de la marcha
+34755890	pmid-34755890.ann	Disease	757	767	mioclonías
+34755890	pmid-34755890.ann	Disease	769	777	disfagia
+34755890	pmid-34755890.ann	Disease	780	802	alucinaciones visuales
+34755890	pmid-34755890.ann	Disease	836	861	atrofia del nervio óptico
+34755890	pmid-34755890.ann	Disease	863	871	Babinski
+34755890	pmid-34755890.ann	Disease	874	891	ataxia del tronco
+34755890	pmid-34755890.ann	Disease	1090	1119	atrofia cerebelosa y cortical
+34755890	pmid-34755890.ann	Disease	1133	1147	lipofuscinosis
+34755890	pmid-34755890.ann	Gene	1187	1191	CLN6
+34755890	pmid-34755890.ann	DNAMutation	1193	1201	c.552del
+34755890	pmid-34755890.ann	DNAMutation	1204	1212	c.244G>C
+34755890	pmid-34755890.ann	DNAMutation	1216	1224	Gly82Arg
+34755890	pmid-34755890.ann	Disease	1414	1428	trastornos con
+34755890	pmid-34755890.ann	Disease	1429	1444	neurorregresión
+34755890	pmid-34755890.ann	Disease	1528	1562	epilepsias mioclónicas progresivas
+34755890	pmid-34755890.ann	Gene	1660	1664	CLN6
+34877642	pmid-34877642.ann	Disease	54	73	encefalopatía KCNB1
+34877642	pmid-34877642.ann	Gene	107	112	KCNB1
+34877642	pmid-34877642.ann	Disease	292	299	encefal
+34877642	pmid-34877642.ann	Disease	299	335	opatías epilépticas de inicio precoz
+34877642	pmid-34877642.ann	Disease	338	362	discapacidad intelectual
+34877642	pmid-34877642.ann	Gene	494	499	KCNB1
+34877642	pmid-34877642.ann	Disease	622	641	encefalopatía KCNB1
+34877642	pmid-34877642.ann	Disease	711	720	epilepsia
+34877642	pmid-34877642.ann	Gene	825	830	KCNB1
+34877642	pmid-34877642.ann	Disease	951	975	discapacidad intelectual
+34877642	pmid-34877642.ann	Disease	1006	1036	trastorno del espectro autista
+34877642	pmid-34877642.ann	Disease	1051	1099	trastorno por déficit de atención/hiperactividad
+34877642	pmid-34877642.ann	Disease	1174	1190	atrofia cortical
+34877642	pmid-34877642.ann	Disease	1221	1230	epilepsia
+34877642	pmid-34877642.ann	Disease	1279	1295	síndrome de West
+34877642	pmid-34877642.ann	Disease	1376	1392	síndrome de West
+34877642	pmid-34877642.ann	Disease	1418	1432	crisis polimor
+34877642	pmid-34877642.ann	Disease	1437	1445	atónicas
+34877642	pmid-34877642.ann	Disease	1447	1459	hipermotoras
+34877642	pmid-34877642.ann	Disease	1461	1475	disautonómicas
+34877642	pmid-34877642.ann	Disease	1478	1485	tónicas
+34877642	pmid-34877642.ann	Disease	1553	1577	trastorno del movimiento
+34877642	pmid-34877642.ann	Disease	1596	1602	ataxia
+34877642	pmid-34877642.ann	Disease	1604	1615	discinesias
+34877642	pmid-34877642.ann	Disease	1618	1625	temblor
+34877642	pmid-34877642.ann	Disease	1662	1677	crisis atónicas
+34877642	pmid-34877642.ann	Disease	1779	1798	encefalopatía KCNB1
+34877642	pmid-34877642.ann	Disease	1872	1881	epilepsia
+34877642	pmid-34877642.ann	Disease	1917	1926	epilepsia
+34877642	pmid-34877642.ann	Disease	1959	1977	crisis epilépticas
+34877642	pmid-34877642.ann	Disease	1998	2030	alteraciones del neurodesarrollo
+34877642	pmid-34877642.ann	Disease	2037	2061	discapacidad intelectual
+34877642	pmid-34877642.ann	Disease	2064	2094	trastorno del espectro autista
+34877642	pmid-34877642.ann	Disease	2124	2133	epilepsia
+34936247	pmid-34936247.ann	Disease	11	40	Enfermedad de Erdheim-Chester
+34936247	pmid-34936247.ann	Disease	102	131	enfermedad de Erdheim-Chester
+34936247	pmid-34936247.ann	Disease	280	324	enfermedad de Erdheim-Chester multisistémica
+34936247	pmid-34936247.ann	Gene	381	382	d
+34936247	pmid-34936247.ann	Disease	546	568	signo oscuro paraselar
+34936247	pmid-34936247.ann	Disease	608	635	hipofisitis autoinmunitaria
+34936247	pmid-34936247.ann	Disease	672	693	adenomas hipofisarios
+34936260	pmid-34936260.ann	Gene	1459	1463	BRCA
+34936260	pmid-34936260.ann	Gene	1465	1470	BRCA2
+34962740	pmid-34962740.ann	Disease	11	40	Enfermedad de Erdheim-Chester
+34962740	pmid-34962740.ann	Disease	51	64	histiocitosis
+34962740	pmid-34962740.ann	Gene	91	95	cobi
+34962740	pmid-34962740.ann	Disease	132	161	Enfermedad de Erdheim-Chester
+34962740	pmid-34962740.ann	Disease	163	166	ECD
+34962740	pmid-34962740.ann	Disease	189	202	histiocitosis
+34962740	pmid-34962740.ann	Disease	225	259	infiltración xantogranulomatosa de
+34962740	pmid-34962740.ann	Disease	270	277	órganos
+34962740	pmid-34962740.ann	Disease	334	372	trastorno clonal inflamatorio mieloide
+34962740	pmid-34962740.ann	Disease	547	555	poliuria
+34962740	pmid-34962740.ann	Disease	558	568	polidipsia
+34962740	pmid-34962740.ann	Disease	610	635	diabetes insípida central
+34962740	pmid-34962740.ann	Disease	647	671	infiltración hipofisaria
+34962740	pmid-34962740.ann	Disease	742	743	x
+34962740	pmid-34962740.ann	Disease	743	760	antelasma-símiles
+34962740	pmid-34962740.ann	Disease	834	861	histiocitosis no-Langerhans
+34962740	pmid-34962740.ann	Gene	925	931	MAP2K1
+34962740	pmid-34962740.ann	Disease	947	950	ECD
+34962740	pmid-34962740.ann	Gene	1132	1135	MEK
+34962740	pmid-34962740.ann	Gene	1140	1144	cobi
+34962740	pmid-34962740.ann	Disease	1232	1256	infiltración hipofisaria
+34962740	pmid-34962740.ann	Disease	1376	1389	histiocitosis
+34962740	pmid-34962740.ann	Disease	1391	1394	ECD
+34962740	pmid-34962740.ann	Disease	1439	1442	ECD
+34962740	pmid-34962740.ann	Gene	1548	1552	cobi
+35037439	pmid-35037439.ann	Disease	11	12	D
+35037439	pmid-35037439.ann	Disease	12	13	u
+35037439	pmid-35037439.ann	Disease	13	50	plicación intestinal aislada respecto
+35037439	pmid-35037439.ann	Disease	54	70	tracto digestivo
+35037439	pmid-35037439.ann	Disease	141	143	du
+35037439	pmid-35037439.ann	Disease	143	167	plicaciones intestinales
+35037439	pmid-35037439.ann	Disease	205	214	digestivo
+35037439	pmid-35037439.ann	Disease	265	287	duplicación intestinal
+35037439	pmid-35037439.ann	Disease	369	371	du
+35037439	pmid-35037439.ann	Disease	371	395	plicaciones intestinales
+35037439	pmid-35037439.ann	Disease	473	485	malformación
+35068125	pmid-35068125.ann	Disease	22	46	hipofosfatasia perinatal
+35068125	pmid-35068125.ann	Disease	94	108	hipofosfatasia
+35068125	pmid-35068125.ann	Disease	125	136	hereditario
+35068125	pmid-35068125.ann	Gene	175	179	ALPL
+35068125	pmid-35068125.ann	Disease	187	230	defectos en la mineralización ósea y dental
+35068125	pmid-35068125.ann	Disease	232	260	función respiratoria anormal
+35068125	pmid-35068125.ann	Disease	262	274	convulsiones
+35068125	pmid-35068125.ann	Disease	276	285	hipotonía
+35068125	pmid-35068125.ann	Disease	287	297	dolor óseo
+35068125	pmid-35068125.ann	Disease	300	315	nefrocalcinosis
+35068125	pmid-35068125.ann	Disease	434	462	fontanela anterior agrandada
+35068125	pmid-35068125.ann	Disease	464	485	bóveda craneal blanda
+35068125	pmid-35068125.ann	Disease	498	521	dificultad respiratoria
+35068125	pmid-35068125.ann	Disease	524	536	convulsiones
+35068125	pmid-35068125.ann	Disease	568	581	hipercalcemia
+35068125	pmid-35068125.ann	Disease	661	664	hip
+35068125	pmid-35068125.ann	Gene	732	735	pir
+35068125	pmid-35068125.ann	Gene	816	821	fosfo
+35068125	pmid-35068125.ann	Gene	909	913	ALPL
+35068125	pmid-35068125.ann	Disease	1038	1062	hipofosfatasia perinatal
+35068129	pmid-35068129.ann	Gene	62	67	RARS2
+35068129	pmid-35068129.ann	Gene	355	360	RARS2
+35068129	pmid-35068129.ann	Gene	384	404	arginino-ARNt ligasa
+35068129	pmid-35068129.ann	Disease	482	515	hipoplasia pontocerebelosa tipo 6
+35068129	pmid-35068129.ann	Disease	627	662	retraso grave en el neurodesarrollo
+35385010	pmid-35385010.ann	Disease	43	49	gorres
+35385010	pmid-35385010.ann	Disease	61	87	Mycobacterium tuberculosis
+35385010	pmid-35385010.ann	Disease	233	239	gorres
+35385010	pmid-35385010.ann	Disease	251	277	Mycobacterium tuberculosis
+35385010	pmid-35385010.ann	Gene	911	915	rpoB
+35385010	pmid-35385010.ann	Gene	932	936	rpoB
+35385010	pmid-35385010.ann	Gene	1009	1013	inhA
+35385010	pmid-35385010.ann	DNAMutation	1014	1019	c-15t
+35385010	pmid-35385010.ann	Disease	1610	1636	Mycobacterium tuberculosis
+35385010	pmid-35385010.ann	Disease	1643	1646	res
+35385010	pmid-35385010.ann	Disease	1712	1738	Mycobacterium tuberculosis
+35385010	pmid-35385010.ann	Disease	1753	1759	gorres
+35503298	pmid-35503298.ann	Gene	34	39	STAG3
+35503298	pmid-35503298.ann	Disease	52	83	insuficiencia ovárica prematura
+35503298	pmid-35503298.ann	Disease	128	141	falla ovárica
+35503298	pmid-35503298.ann	Gene	200	201	S
+35503298	pmid-35503298.ann	Gene	201	205	TAG3
+35503298	pmid-35503298.ann	Disease	278	296	amenorrea primaria
+35503298	pmid-35503298.ann	Disease	311	335	características sexuales
+35503298	pmid-35503298.ann	Disease	371	396	hipotiroidismo autoinmune
+35503298	pmid-35503298.ann	Disease	398	422	pobre desarrollo genital
+35503298	pmid-35503298.ann	Disease	425	441	cintilla gonadal
+35503298	pmid-35503298.ann	Gene	582	583	S
+35503298	pmid-35503298.ann	Gene	583	587	TAG3
+35503298	pmid-35503298.ann	Disease	621	652	insuficiencia ovárica prematura
+35503298	pmid-35503298.ann	Disease	654	657	IOP
+35503298	pmid-35503298.ann	Gene	777	778	S
+35503298	pmid-35503298.ann	Disease	811	814	IOP
+35503298	pmid-35503298.ann	DNAMutation	904	905	c
+35503298	pmid-35503298.ann	Gene	940	941	S
+35503298	pmid-35503298.ann	Gene	941	945	TAG3
+35503298	pmid-35503298.ann	Disease	960	963	IOP
+35602577	pmid-35602577.ann	Disease	85	95	SARS-CoV-2
+35602577	pmid-35602577.ann	Gene	127	133	espiga
+35602577	pmid-35602577.ann	Disease	211	221	SARS-CoV-2
+35602577	pmid-35602577.ann	Disease	245	253	COVID-19
+35602577	pmid-35602577.ann	Gene	866	874	proteína
+35602577	pmid-35602577.ann	Gene	875	881	espiga
+35602577	pmid-35602577.ann	Disease	935	945	SARS-CoV-2
+35602577	pmid-35602577.ann	Disease	1600	1610	SARS-CoV-2
+35793259	pmid-35793259.ann	DNAMutation	20	29	c.3037G>A
+35793259	pmid-35793259.ann	Gene	40	44	FBN1
+35793259	pmid-35793259.ann	Disease	56	92	síndrome de Marfan variante neonatal
+35793259	pmid-35793259.ann	Disease	108	126	síndrome de Marfan
+35793259	pmid-35793259.ann	Disease	129	131	SM
+35793259	pmid-35793259.ann	Gene	134	136	OM
+35793259	pmid-35793259.ann	Disease	153	183	trastorno del tejido conectivo
+35793259	pmid-35793259.ann	Gene	369	373	FBN1
+35793259	pmid-35793259.ann	Gene	375	377	OM
+35793259	pmid-35793259.ann	Disease	414	425	SM neonatal
+35793259	pmid-35793259.ann	OtherMutation	492	515	en el cambio de sentido
+35793259	pmid-35793259.ann	Disease	704	715	SM neonatal
+35793259	pmid-35793259.ann	DNAMutation	754	763	c.3037G>A
+35793259	pmid-35793259.ann	DNAMutation	765	766	p
+35793259	pmid-35793259.ann	DNAMutation	767	776	Gly225Arg
+35793259	pmid-35793259.ann	Gene	800	804	FBN1
+35866738	pmid-35866738.ann	Disease	54	72	cáncer colorrectal
+35866738	pmid-35866738.ann	Disease	102	120	cáncer colorrectal
+35866738	pmid-35866738.ann	Disease	295	309	microsatelital
+35866738	pmid-35866738.ann	Disease	394	423	cáncer colorrectal esporádico
+35866738	pmid-35866738.ann	Gene	486	489	APC
+35866738	pmid-35866738.ann	Gene	491	495	KRAS
+35866738	pmid-35866738.ann	Gene	497	501	TP53
+35866738	pmid-35866738.ann	Gene	504	508	BRAF
+35866738	pmid-35866738.ann	Disease	554	582	inestabilidad microsatelital
+35866738	pmid-35866738.ann	Gene	755	759	MLH1
+35866738	pmid-35866738.ann	Gene	869	872	APC
+35866738	pmid-35866738.ann	Gene	874	878	KRAS
+35866738	pmid-35866738.ann	Gene	881	885	TP53
+35866738	pmid-35866738.ann	Gene	1125	1129	MHL1
+35866738	pmid-35866738.ann	Disease	1150	1157	tumores
+35866738	pmid-35866738.ann	Gene	1223	1227	MLH1
+35866738	pmid-35866738.ann	Disease	1244	1251	tumores
+35866738	pmid-35866738.ann	Disease	1268	1274	micros
+35866738	pmid-35866738.ann	Gene	1312	1315	APC
+35866738	pmid-35866738.ann	Gene	1317	1321	KRAS
+35866738	pmid-35866738.ann	Gene	1324	1328	TP53
+35866738	pmid-35866738.ann	Disease	1370	1377	tumores
+35866738	pmid-35866738.ann	Gene	1434	1438	MLH1
+35866738	pmid-35866738.ann	Disease	1510	1528	cáncer colorrectal
+35866738	pmid-35866738.ann	Disease	1864	1882	cáncer colorrectal
+35880963	pmid-35880963.ann	Disease	11	47	Enfermedad de Pompe de inicio tardío
+35880963	pmid-35880963.ann	Disease	131	150	enfermedad de Pompe
+35880963	pmid-35880963.ann	Disease	158	177	miopatía metabólica
+35880963	pmid-35880963.ann	Disease	428	450	Pompe de inicio tardío
+35880963	pmid-35880963.ann	Disease	452	453	L
+35880963	pmid-35880963.ann	Disease	453	456	OPD
+35880963	pmid-35880963.ann	Disease	519	523	LOPD
+35880963	pmid-35880963.ann	Gene	593	596	GAA
+35880963	pmid-35880963.ann	Disease	869	895	debilidad axial y proximal
+35880963	pmid-35880963.ann	Disease	913	930	marcha basculante
+35880963	pmid-35880963.ann	Disease	949	962	hiperlordosis
+35880963	pmid-35880963.ann	DNAMutation	1234	1245	c.-32-13T>G
+35880963	pmid-35880963.ann	DNAMutation	1247	1256	c.1799G>A
+35880963	pmid-35880963.ann	DNAMutation	1259	1268	c.1082C>T
+35880963	pmid-35880963.ann	Disease	1346	1350	LOPD
+35880963	pmid-35880963.ann	Disease	1452	1487	debilidad muscular axial y proximal
+35880963	pmid-35880963.ann	Disease	1742	1761	enfermedad de Pompe
+36049072	pmid-36049072.ann	Disease	52	83	atrofia muscular espinal tipo 2
+36049072	pmid-36049072.ann	Disease	113	137	atrofia muscular espinal
+36049072	pmid-36049072.ann	Disease	139	142	AME
+36049072	pmid-36049072.ann	Disease	150	193	trastorno neuromuscular autosómico recesivo
+36049072	pmid-36049072.ann	Disease	214	234	hipotonía periférica
+36049072	pmid-36049072.ann	Disease	236	245	atrofia y
+36049072	pmid-36049072.ann	Disease	246	295	debilidad en las extremidades y músculos bulbares
+36049072	pmid-36049072.ann	Gene	353	357	SMN1
+36049072	pmid-36049072.ann	Gene	474	475	n
+36049072	pmid-36049072.ann	Gene	584	588	SMN2
+36049072	pmid-36049072.ann	Gene	621	664	proteína de supervivencia de la motoneurona
+36049072	pmid-36049072.ann	Gene	666	669	SMN
+36049072	pmid-36049072.ann	Gene	693	695	on
+36049072	pmid-36049072.ann	Gene	906	910	SMN1
+36049072	pmid-36049072.ann	Gene	1005	1008	SMN
+36049072	pmid-36049072.ann	Disease	1300	1303	AME
+36049072	pmid-36049072.ann	Gene	1357	1358	n
+36049072	pmid-36049072.ann	Disease	1453	1455	HF
+36049072	pmid-36049072.ann	Gene	1557	1558	n
+36049072	pmid-36049072.ann	Disease	1619	1622	AME
+36122281	pmid-36122281.ann	Gene	36	41	KMT2B
+36122281	pmid-36122281.ann	Disease	56	77	distonía generalizada
+36122281	pmid-36122281.ann	Disease	129	137	distonía
+36122281	pmid-36122281.ann	Gene	161	166	KMT2B
+36122281	pmid-36122281.ann	Disease	227	237	enfermedad
+36122281	pmid-36122281.ann	Disease	241	264	los miembros inferiores
+36122281	pmid-36122281.ann	Disease	337	359	cervical y orofaríngeo
+36122281	pmid-36122281.ann	Disease	361	370	disartria
+36122281	pmid-36122281.ann	Disease	372	408	trastorno secundario de la deglución
+36122281	pmid-36122281.ann	Disease	411	435	discapacidad intelectual
+36122281	pmid-36122281.ann	Disease	551	573	enfermedad neurológica
+36122281	pmid-36122281.ann	Disease	588	611	alteración de la marcha
+36122281	pmid-36122281.ann	Disease	614	622	distonía
+36122281	pmid-36122281.ann	Disease	736	746	alteración
+36122281	pmid-36122281.ann	Disease	761	788	del lenguaje y la deglución
+36122281	pmid-36122281.ann	Gene	1018	1023	KMT2B
+36122281	pmid-36122281.ann	DNAMutation	1028	1038	c.1205delC
+36122281	pmid-36122281.ann	DNAMutation	1043	1056	Pro402Hisfs*5
+36122281	pmid-36122281.ann	Disease	1162	1180	distonía de inicio
+36122281	pmid-36122281.ann	Gene	1263	1268	KMT2B
+36122281	pmid-36122281.ann	Disease	1283	1304	distonía generalizada
+36134597	pmid-36134597.ann	Gene	46	51	CLOCK
+36134597	pmid-36134597.ann	SNP	52	54	rs
+36134597	pmid-36134597.ann	Disease	120	128	obesidad
+36134597	pmid-36134597.ann	Disease	137	147	circadiano
+36134597	pmid-36134597.ann	Gene	248	253	CLOCK
+36134597	pmid-36134597.ann	SNP	297	299	rs
+36134597	pmid-36134597.ann	Gene	318	323	CLOCK
+36134597	pmid-36134597.ann	Disease	362	370	obesidad
+36134597	pmid-36134597.ann	Disease	427	434	de peso
+36134597	pmid-36134597.ann	SNP	636	638	rs
+36134597	pmid-36134597.ann	Gene	1504	1509	CLOCK
+36134597	pmid-36134597.ann	SNP	1510	1512	rs
+36134597	pmid-36134597.ann	Disease	1820	1828	obesidad
+36149077	pmid-36149077.ann	Disease	53	67	Cáncer de Mama
+36149077	pmid-36149077.ann	Disease	74	90	Cáncer de Ovario
+36149077	pmid-36149077.ann	Gene	119	123	BRCA
+36149077	pmid-36149077.ann	Gene	127	132	BRCA2
+36149077	pmid-36149077.ann	Disease	185	234	síndromes de predisposición hereditaria al cáncer
+36149077	pmid-36149077.ann	Disease	272	278	cáncer
+36149077	pmid-36149077.ann	Disease	300	304	HBOC
+36149077	pmid-36149077.ann	Gene	343	347	BRCA
+36149077	pmid-36149077.ann	Disease	418	420	VP
+36149077	pmid-36149077.ann	Disease	438	442	HBOC
+36149077	pmid-36149077.ann	Gene	509	516	BRCA1/2
+36149077	pmid-36149077.ann	Disease	776	778	CM
+36149077	pmid-36149077.ann	Disease	780	782	CO
+36149077	pmid-36149077.ann	Disease	785	790	CM/CO
+36149077	pmid-36149077.ann	Gene	826	831	BRCA1
+36149077	pmid-36149077.ann	Gene	928	933	BRCA1
+36149077	pmid-36149077.ann	Gene	986	990	BRCA
+36149077	pmid-36149077.ann	Disease	1007	1013	cáncer
+36149077	pmid-36149077.ann	Disease	1045	1050	CM/CO
+36149077	pmid-36149077.ann	Gene	1077	1081	BRCA
+36149077	pmid-36149077.ann	Disease	1153	1155	AP
+36149077	pmid-36149077.ann	Disease	1157	1159	AF
+36149077	pmid-36149077.ann	Disease	1206	1208	CM
+36149077	pmid-36149077.ann	Disease	1216	1218	TN
+36149077	pmid-36149077.ann	Gene	1243	1247	BRCA
+36149077	pmid-36149077.ann	Disease	1384	1386	CM
+36149077	pmid-36149077.ann	Disease	1387	1389	VP
+36149077	pmid-36149077.ann	Disease	1549	1551	CM
+36149077	pmid-36149077.ann	Gene	1583	1587	BRCA
+36149077	pmid-36149077.ann	Gene	1591	1595	BRCA
+36149077	pmid-36149077.ann	Disease	1630	1632	CM
+36149077	pmid-36149077.ann	Gene	1720	1725	BRCA1
+36149077	pmid-36149077.ann	Disease	1774	1778	HBOC
+36190223	pmid-36190223.ann	Disease	11	12	N
+36190223	pmid-36190223.ann	Disease	12	14	eu
+36190223	pmid-36190223.ann	Disease	14	43	tropenia congénita de tipo IV
+36190223	pmid-36190223.ann	Disease	79	106	neutropenia congénita grave
+36190223	pmid-36190223.ann	Disease	108	111	NCG
+36190223	pmid-36190223.ann	Gene	310	319	gen de la
+36190223	pmid-36190223.ann	Gene	320	330	elastasa 2
+36190223	pmid-36190223.ann	Gene	332	337	ELA 2
+36190223	pmid-36190223.ann	Gene	399	445	factor estimulador de colonias de granulocitos
+36190223	pmid-36190223.ann	Disease	465	468	NCG
+36190223	pmid-36190223.ann	Disease	559	562	NCG
+36190223	pmid-36190223.ann	Disease	596	613	facies triangular
+36190223	pmid-36190223.ann	Disease	620	631	micrognatia
+36190223	pmid-36190223.ann	Disease	682	709	comunicación interauricular
+36190223	pmid-36190223.ann	Disease	712	733	mal progreso ponderal
+36190223	pmid-36190223.ann	Gene	770	836	la enzima glucosa 6 fosfato deshidrogenasa, subunidad catalítica 3
+36190223	pmid-36190223.ann	Gene	838	843	G6PC3
+36190223	pmid-36190223.ann	Disease	903	906	NCG
+36190223	pmid-36190223.ann	Disease	1007	1010	NCG
+36315449	pmid-36315449.ann	Gene	20	25	DGAT1
+36315449	pmid-36315449.ann	Disease	46	60	falla de medro
+36315449	pmid-36315449.ann	Disease	94	104	diarreas y
+36315449	pmid-36315449.ann	Disease	105	128	enteropatías congénitas
+36315449	pmid-36315449.ann	Disease	130	131	C
+36315449	pmid-36315449.ann	Disease	131	134	ODE
+36315449	pmid-36315449.ann	Disease	175	197	trastornos monogénicos
+36315449	pmid-36315449.ann	Disease	253	257	CODE
+36315449	pmid-36315449.ann	Gene	285	319	diacilglicerol o-aciltransferasa 1
+36315449	pmid-36315449.ann	Gene	321	326	DGAT1
+36315449	pmid-36315449.ann	Disease	334	354	trastorno enzimático
+36315449	pmid-36315449.ann	Disease	379	400	diarrea crónica grave
+36315449	pmid-36315449.ann	Disease	484	499	diarrea crónica
+36315449	pmid-36315449.ann	Disease	501	526	retraso en el crecimiento
+36315449	pmid-36315449.ann	Disease	528	535	vómitos
+36315449	pmid-36315449.ann	Disease	538	553	hipoalbuminemia
+36315449	pmid-36315449.ann	Gene	654	659	DGAT1
+36315449	pmid-36315449.ann	Disease	894	913	diarreas congénitas
+36315449	pmid-36315449.ann	Gene	991	996	DGAT1
+36315575	pmid-36315575.ann	Disease	11	13	De
+36315575	pmid-36315575.ann	Disease	13	58	ficiencia del transportador de glucosa tipo 1
+36315575	pmid-36315575.ann	Disease	120	179	síndrome de deficiencia del transportador de glucosa tipo 1
+36315575	pmid-36315575.ann	Gene	238	244	SLC2A1
+36315575	pmid-36315575.ann	Disease	308	355	retraso en la adquisición de pautas madurativas
+36315575	pmid-36315575.ann	Disease	357	385	epilepsia farmacorresistente
+36315575	pmid-36315575.ann	Disease	388	413	desórdenes del movimiento
+36315575	pmid-36315575.ann	Gene	582	588	SLC2A1
+36315575	pmid-36315575.ann	Disease	943	986	déficit del transportador de glucosa tipo 1
+36315908	pmid-36315908.ann	Gene	63	67	DMP1
+36315908	pmid-36315908.ann	Disease	79	125	raquitismo hipofosfatémico autosómico recesivo
+36315908	pmid-36315908.ann	Disease	141	179	raquitismo hipofosfatémico hereditario
+36315908	pmid-36315908.ann	Disease	223	251	mineralización ósea alterada
+36315908	pmid-36315908.ann	Disease	267	289	deficiencia de fosfato
+36315908	pmid-36315908.ann	Disease	299	321	deformidad esquelética
+36315908	pmid-36315908.ann	Disease	324	362	retraso del crecimiento en la infancia
+36315908	pmid-36315908.ann	Disease	656	682	raquitismo hipofosfatémico
+36315908	pmid-36315908.ann	Disease	684	686	AR
+36315908	pmid-36315908.ann	Disease	686	688	HR
+36315908	pmid-36315908.ann	Gene	857	861	DMP1
+36315908	pmid-36315908.ann	Gene	863	900	dentin matrix acidic phosphoprotein 1
+36315908	pmid-36315908.ann	Disease	916	961	raquitismo hipofosfatémico hereditario tipo 1
+36315908	pmid-36315908.ann	Disease	1039	1077	raquitismo hipofosfatémico hereditario
+36315908	pmid-36315908.ann	Gene	1094	1098	DMP1
+36511679	pmid-36511679.ann	Gene	60	113	promotor de la transcriptasa inversa de la telomerasa
+36511679	pmid-36511679.ann	Disease	121	146	meningiomas de alto grado
+36511679	pmid-36511679.ann	Disease	180	191	meningiomas
+36511679	pmid-36511679.ann	Gene	233	294	región promotora de la transcriptasa inversa de la telomerasa
+36511679	pmid-36511679.ann	Gene	364	402	transcriptasa inversa de la telomerasa
+36511679	pmid-36511679.ann	Disease	432	443	meningiomas
+36511679	pmid-36511679.ann	Disease	584	594	meningioma
+36511679	pmid-36511679.ann	Gene	827	884	del promotor de la transcriptasa inversa de la telomerasa
+36511679	pmid-36511679.ann	Gene	1017	1058	la transcriptasa inversa de la telomerasa
+36511679	pmid-36511679.ann	Disease	1187	1210	meningiomas anaplásicos
+36511679	pmid-36511679.ann	Gene	1875	1919	de la transcriptasa inversa de la telomerasa
+36511679	pmid-36511679.ann	Gene	2029	2082	promotor de la transcriptasa inversa de la telomerasa
+36511680	pmid-36511680.ann	Gene	47	51	SOD1
+36511680	pmid-36511680.ann	Disease	79	109	esclerosis lateral amiotrófica
+36511680	pmid-36511680.ann	Disease	160	190	esclerosis lateral amiotrófica
+36511680	pmid-36511680.ann	Disease	198	226	enfermedad neurodegenerativa
+36511680	pmid-36511680.ann	Disease	287	334	degeneración progresiva de las neuronas motoras
+36511680	pmid-36511680.ann	Gene	677	681	SOD1
+36511680	pmid-36511680.ann	OtherMutation	688	714	repetición corta en tándem
+36511680	pmid-36511680.ann	OtherMutation	716	735	Short Tandem Repeat
+36511680	pmid-36511680.ann	OtherMutation	755	761	9orf72
+36511680	pmid-36511680.ann	Disease	795	825	esclerosis lateral amiotrófica
+36511680	pmid-36511680.ann	Gene	1088	1092	SOD1
+36511680	pmid-36511680.ann	OtherMutation	1302	1325	repetición en tándem en
+36511680	pmid-36511680.ann	OtherMutation	1327	1333	9orf72
+36511680	pmid-36511680.ann	Disease	1355	1385	esclerosis lateral amiotrófica
+36511680	pmid-36511680.ann	OtherMutation	1646	1652	9orf72
+36637387	pmid-36637387.ann	Disease	11	12	T
+36637387	pmid-36637387.ann	Disease	12	14	ro
+36637387	pmid-36637387.ann	Disease	14	16	mb
+36637387	pmid-36637387.ann	Disease	16	38	osis mesentérica aguda
+36637387	pmid-36637387.ann	Disease	55	66	mutación de
+36637387	pmid-36637387.ann	Disease	115	117	in
+36637387	pmid-36637387.ann	Disease	242	258	necrosis uterina
+36637387	pmid-36637387.ann	Disease	298	317	hemorragia posparto
+36637387	pmid-36637387.ann	Disease	594	609	dolor abdominal
+36637387	pmid-36637387.ann	Disease	641	656	placenta previa
+36637387	pmid-36637387.ann	Disease	692	693	a
+36637387	pmid-36637387.ann	Disease	693	706	tonía uterina
+36637387	pmid-36637387.ann	Disease	730	746	necrosis uterina
+36637387	pmid-36637387.ann	Disease	1014	1030	necrosis uterina
+36637387	pmid-36637387.ann	Disease	1097	1116	hemorragia posparto
+36637387	pmid-36637387.ann	Disease	1459	1474	dolor abdominal
+36637387	pmid-36637387.ann	Disease	1634	1662	necrosis de la pared uterina
+36703500	pmid-36703500.ann	Disease	11	12	A
+36703500	pmid-36703500.ann	Disease	12	14	ta
+36703500	pmid-36703500.ann	Disease	14	17	xia
+36703500	pmid-36703500.ann	Disease	20	40	neuropatía sensitiva
+36703500	pmid-36703500.ann	Gene	120	124	POLG
+36703500	pmid-36703500.ann	Disease	154	170	ataxia sensitiva
+36703500	pmid-36703500.ann	Disease	208	231	patologías neurológicas
+36703500	pmid-36703500.ann	Gene	383	387	POLG
+36703500	pmid-36703500.ann	Gene	523	527	POLG
+36703500	pmid-36703500.ann	Disease	566	572	ataxia
+36703500	pmid-36703500.ann	Disease	575	595	neuropatía sensitiva
+36703500	pmid-36703500.ann	Gene	763	767	POLG
+36703500	pmid-36703500.ann	Disease	787	815	enfermedades neuromusculares
+36703500	pmid-36703500.ann	Disease	1080	1103	alteración de la marcha
+36703500	pmid-36703500.ann	Disease	1120	1136	ataxia sensitiva
+36703500	pmid-36703500.ann	Disease	1170	1192	anomalías oculomotoras
+36703500	pmid-36703500.ann	Disease	1236	1256	neuropatía sensitiva
+36703500	pmid-36703500.ann	Disease	1271	1277	axonal
+36703500	pmid-36703500.ann	Disease	1329	1341	lesión de la
+36703500	pmid-36703500.ann	Disease	1352	1358	blanca
+36703500	pmid-36703500.ann	Gene	1591	1595	POLG
+36703500	pmid-36703500.ann	Gene	1641	1645	POLG
+36703500	pmid-36703500.ann	Disease	1724	1740	ataxia sensitiva
+36703500	pmid-36703500.ann	Disease	1799	1819	neuropatía sensitiva
+36703500	pmid-36703500.ann	Disease	1822	1836	oftalmoparesia
+36782350	pmid-36782350.ann	Disease	11	12	M
+36782350	pmid-36782350.ann	Disease	12	29	iotonía congénita
+36782350	pmid-36782350.ann	Disease	108	126	miotonía congénita
+36782350	pmid-36782350.ann	Disease	152	160	miotonía
+36782350	pmid-36782350.ann	Gene	217	222	CLCN1
+36782350	pmid-36782350.ann	Disease	619	637	miotonía congénita
+36782350	pmid-36782350.ann	Disease	1058	1076	miotonía congénita
+36782350	pmid-36782350.ann	Disease	1087	1107	enfermedad de Becker
+36782350	pmid-36782350.ann	Disease	1118	1139	enfermedad de Thomsen
+36782350	pmid-36782350.ann	Disease	1265	1271	Becker
+36782350	pmid-36782350.ann	Disease	1320	1327	Thomsen
+36782350	pmid-36782350.ann	Gene	1401	1406	CLCN1
+36782350	pmid-36782350.ann	DNAMutation	1408	1416	c.824T>C
+36782350	pmid-36782350.ann	DNAMutation	1560	1568	c.824T>C
+36782350	pmid-36782350.ann	Disease	1646	1652	Becker
+36789957	pmid-36789957.ann	SNP	71	73	rs
+36789957	pmid-36789957.ann	SNP	83	85	rs
+36789957	pmid-36789957.ann	Gene	101	106	CLOCK
+36789957	pmid-36789957.ann	Disease	122	130	obesidad
+36789957	pmid-36789957.ann	Disease	136	145	sobrepeso
+36789957	pmid-36789957.ann	SNP	227	229	rs
+36789957	pmid-36789957.ann	SNP	239	241	rs
+36789957	pmid-36789957.ann	Disease	284	303	síndrome metabólico
+36789957	pmid-36789957.ann	Disease	312	333	hipertensión arterial
+36789957	pmid-36789957.ann	Disease	404	412	obesidad
+36789957	pmid-36789957.ann	SNP	494	496	rs
+36789957	pmid-36789957.ann	SNP	506	508	rs
+36789957	pmid-36789957.ann	SNP	1520	1522	rs
+36789957	pmid-36789957.ann	SNP	1531	1533	rs
+36789957	pmid-36789957.ann	SNP	1544	1546	rs
+36789957	pmid-36789957.ann	Disease	1600	1608	obesidad
+36789957	pmid-36789957.ann	Disease	1633	1652	síndrome metabólico
+36843178	pmid-36843178.ann	Gene	28	34	RNF213
+36843178	pmid-36843178.ann	Disease	54	76	enfermedad de moyamoya
+36843178	pmid-36843178.ann	Disease	106	128	enfermedad de moyamoya
+36843178	pmid-36843178.ann	Disease	136	215	enfermedad estenooclusiva progresiva de las principales arterias intracraneales
+36843178	pmid-36843178.ann	Disease	272	334	accidente cerebrovascular hemorrágico o isquémico intracraneal
+36843178	pmid-36843178.ann	Disease	336	355	deterioro cognitivo
+36843178	pmid-36843178.ann	Disease	358	383	retrasos en el desarrollo
+36843178	pmid-36843178.ann	Gene	469	470	R
+36843178	pmid-36843178.ann	Gene	470	475	NF213
+36843178	pmid-36843178.ann	Disease	526	557	enfermedad de moyamoya familiar
+36843178	pmid-36843178.ann	Disease	665	674	disgrafía
+36843178	pmid-36843178.ann	Disease	677	717	falta de coordinación en la mano derecha
+36843178	pmid-36843178.ann	Disease	910	915	oclus
+36843178	pmid-36843178.ann	Gene	1040	1041	R
+36843178	pmid-36843178.ann	Gene	1041	1046	NF213
+36843178	pmid-36843178.ann	DNAMutation	1071	1081	c.12185G>A
+36843178	pmid-36843178.ann	DNAMutation	1086	1096	Arg4062Gln
+36843178	pmid-36843178.ann	Gene	1127	1128	R
+36843178	pmid-36843178.ann	Gene	1128	1133	NF213
+36843178	pmid-36843178.ann	DNAMutation	1221	1231	Arg4062Gln
+36843178	pmid-36843178.ann	Gene	1243	1244	R
+36843178	pmid-36843178.ann	Gene	1244	1249	NF213
+36843178	pmid-36843178.ann	Disease	1377	1397	síndrome de moyamoya
+36843178	pmid-36843178.ann	DNAMutation	1624	1634	Arg4062Gln
+36843178	pmid-36843178.ann	Disease	1685	1707	enfermedad de moyamoya
+36843178	pmid-36843178.ann	Disease	1784	1806	enfermedad de moyamoya
+36856762	pmid-36856762.ann	Disease	11	30	Enfermedad hepática
+36856762	pmid-36856762.ann	Disease	37	54	fibrosis quística
+36856762	pmid-36856762.ann	Disease	125	142	fibrosis quística
+36856762	pmid-36856762.ann	Disease	155	165	enfermedad
+36856762	pmid-36856762.ann	Gene	242	246	CFTR
+36856762	pmid-36856762.ann	Disease	431	455	complicaciones hepáticas
+36856762	pmid-36856762.ann	Disease	564	582	obstrucción biliar
+36856762	pmid-36856762.ann	Disease	645	653	cirrosis
+36856762	pmid-36856762.ann	Disease	756	775	hipertensión portal
+36856762	pmid-36856762.ann	Disease	791	799	cirrosis
+36856762	pmid-36856762.ann	Gene	853	857	CFTR
+36856762	pmid-36856762.ann	Disease	927	945	inflamación portal
+36856762	pmid-36856762.ann	Disease	973	981	fibrosis
+36883844	pmid-36883844.ann	Disease	56	73	fibrosis quística
+36883844	pmid-36883844.ann	Gene	87	90	lum
+36883844	pmid-36883844.ann	Gene	98	103	ivaca
+36883844	pmid-36883844.ann	Gene	182	236	proteína reguladora transmembrana de fibrosis quística
+36883844	pmid-36883844.ann	Gene	238	242	CFTR
+36883844	pmid-36883844.ann	Disease	331	348	fibrosis quística
+36883844	pmid-36883844.ann	Gene	362	365	lum
+36883844	pmid-36883844.ann	Gene	373	378	ivaca
+37149902	pmid-37149902.ann	Disease	74	95	Mycoplasma genitalium
+37149902	pmid-37149902.ann	Disease	152	173	Mycoplasma genitalium
+37149902	pmid-37149902.ann	Disease	179	181	MG
+37149902	pmid-37149902.ann	Disease	209	230	de transmisión sexual
+37149902	pmid-37149902.ann	Disease	542	544	MG
+37149902	pmid-37149902.ann	Disease	640	642	MG
+37149902	pmid-37149902.ann	DNAMutation	675	681	<i>23S
+37149902	pmid-37149902.ann	DNAMutation	703	706	<i>
+37149902	pmid-37149902.ann	Gene	706	708	gy
+37149902	pmid-37149902.ann	DNAMutation	717	720	<i>
+37149902	pmid-37149902.ann	Gene	720	723	par
+37149902	pmid-37149902.ann	DNAMutation	723	728	C</i>
+37149902	pmid-37149902.ann	DNAMutation	1079	1084	A2059
+37149902	pmid-37149902.ann	DNAMutation	1194	1205	<i>parC</i>
+37149902	pmid-37149902.ann	DNAMutation	1243	1247	G295
+37149902	pmid-37149902.ann	DNAMutation	1251	1262	<i>gyrA</i>
+37149902	pmid-37149902.ann	DNAMutation	1274	1279	G248T
+37149902	pmid-37149902.ann	DNAMutation	1283	1294	<i>parC</i>
+37149902	pmid-37149902.ann	DNAMutation	1669	1672	<i>
+37149902	pmid-37149902.ann	DNAMutation	1675	1680	C</i>
+37149902	pmid-37149902.ann	DNAMutation	1683	1686	<i>
+37149902	pmid-37149902.ann	DNAMutation	1688	1694	rA</i>
+37165528	pmid-37165528.ann	Disease	11	12	A
+37165528	pmid-37165528.ann	Disease	12	14	ta
+37165528	pmid-37165528.ann	Disease	14	34	xia episódica tipo 2
+37165528	pmid-37165528.ann	Disease	151	174	ataxia episódica tipo 2
+37165528	pmid-37165528.ann	Disease	176	179	AE2
+37165528	pmid-37165528.ann	Disease	338	341	AE2
+37165528	pmid-37165528.ann	Gene	355	356	C
+37165528	pmid-37165528.ann	Gene	356	362	ACNA1A
+37165528	pmid-37165528.ann	Disease	440	465	Trastornos del Movimiento
+37165528	pmid-37165528.ann	Disease	721	730	epilepsia
+37165528	pmid-37165528.ann	Disease	732	739	migraña
+37165528	pmid-37165528.ann	Disease	741	749	distonía
+37165528	pmid-37165528.ann	Disease	752	783	alteraciones neuropsiquiátricas
+37165528	pmid-37165528.ann	Gene	844	845	C
+37165528	pmid-37165528.ann	Gene	845	851	ACNA1A
+37165528	pmid-37165528.ann	Disease	956	1008	encefalopatía epiléptica de inicio precoz de tipo 42
+37165528	pmid-37165528.ann	Gene	1054	1055	C
+37165528	pmid-37165528.ann	Gene	1055	1061	ACNA1A
+37165528	pmid-37165528.ann	Disease	1212	1233	ataxia interepisódica
+37165528	pmid-37165528.ann	Disease	1328	1346	atrofia cerebelosa
+37165528	pmid-37165528.ann	Disease	1557	1560	AE2
+37165528	pmid-37165528.ann	Disease	1753	1771	ataxia persistente
+37165528	pmid-37165528.ann	Disease	1774	1804	nistagmo evocado por la mirada
+37218049	pmid-37218049.ann	Disease	13	50	fección por bacilo de Calmette-Guérin
+37218049	pmid-37218049.ann	Disease	53	85	enfermedad granulomatosa crónica
+37218049	pmid-37218049.ann	Gene	127	131	NCF2
+37218049	pmid-37218049.ann	Disease	200	232	enfermedad granulomatosa crónica
+37218049	pmid-37218049.ann	Disease	234	236	EG
+37218049	pmid-37218049.ann	Disease	236	237	C
+37218049	pmid-37218049.ann	Disease	245	273	error innato de la inmunidad
+37218049	pmid-37218049.ann	Disease	324	358	infecciones bacterianas y fúngicas
+37218049	pmid-37218049.ann	Gene	447	451	CYBB
+37218049	pmid-37218049.ann	Gene	566	570	EROS
+37218049	pmid-37218049.ann	Gene	572	576	NCF1
+37218049	pmid-37218049.ann	Gene	578	582	NCF2
+37218049	pmid-37218049.ann	Gene	584	588	NCF4
+37218049	pmid-37218049.ann	Gene	591	595	CYBA
+37218049	pmid-37218049.ann	Disease	754	757	EGC
+37218049	pmid-37218049.ann	Disease	760	777	infección por BCG
+37218049	pmid-37218049.ann	DNAMutation	851	875	<sub>2</sub>O<sub>2</sub
+37218049	pmid-37218049.ann	Gene	917	930	NADPH oxidasa
+37218049	pmid-37218049.ann	Gene	1011	1015	NCF2
+37218049	pmid-37218049.ann	Disease	1204	1207	EGC
+37218049	pmid-37218049.ann	Disease	1210	1240	infección por la vacuna de BCG
+37218049	pmid-37218049.ann	Gene	1307	1311	NCF2
+37218049	pmid-37218049.ann	DNAMutation	1326	1335	c.304 C>T
+37218049	pmid-37218049.ann	DNAMutation	1339	1346	Arg102*
+37218049	pmid-37218049.ann	DNAMutation	1377	1387	c.1369 A>T
+37218049	pmid-37218049.ann	DNAMutation	1402	1411	c.979 G>T
+37218049	pmid-37218049.ann	DNAMutation	1415	1422	Gly327*
+37218049	pmid-37218049.ann	Disease	1470	1502	infección micobacteriana por BCG
+37218049	pmid-37218049.ann	Disease	1527	1555	error innato de la inmunidad
+37218049	pmid-37218049.ann	Disease	1565	1568	EGC
+37218049	pmid-37218049.ann	Disease	1588	1591	EGC
+37218049	pmid-37218049.ann	Gene	1761	1765	NCF2
+37218050	pmid-37218050.ann	Disease	11	38	Síndrome de Wiskott-Aldrich
+37218050	pmid-37218050.ann	DNAMutation	81	89	c.295C>T
+37218050	pmid-37218050.ann	Gene	100	101	W
+37218050	pmid-37218050.ann	Disease	150	177	síndrome de Wiskott-Aldrich
+37218050	pmid-37218050.ann	Disease	184	212	error innato de la inmunidad
+37218050	pmid-37218050.ann	Disease	230	245	trombocitopenia
+37218050	pmid-37218050.ann	Disease	247	265	plaquetas pequeñas
+37218050	pmid-37218050.ann	Disease	267	280	eccema severo
+37218050	pmid-37218050.ann	Disease	282	305	infecciones recurrentes
+37218050	pmid-37218050.ann	Disease	327	351	enfermedades autoinmunes
+37218050	pmid-37218050.ann	Disease	354	364	neoplasias
+37218050	pmid-37218050.ann	Disease	585	603	otitis media aguda
+37218050	pmid-37218050.ann	Disease	621	631	sepsis por
+37218050	pmid-37218050.ann	Disease	632	654	Haemophilus influenzae
+37218050	pmid-37218050.ann	Disease	693	719	trombocitopenia autoinmune
+37218050	pmid-37218050.ann	Disease	831	844	infección por
+37218050	pmid-37218050.ann	Disease	859	869	pneumoniae
+37218050	pmid-37218050.ann	Disease	888	894	sepsis
+37218050	pmid-37218050.ann	Disease	921	927	eccema
+37218050	pmid-37218050.ann	Disease	941	954	. epidermidis
+37218050	pmid-37218050.ann	Disease	972	1002	fiebre de origen indeterminado
+37218050	pmid-37218050.ann	Gene	1311	1314	TCD
+37218050	pmid-37218050.ann	Gene	1344	1348	TCD8
+37218050	pmid-37218050.ann	Disease	1393	1420	síndrome de Wiskott-Aldrich
+37218050	pmid-37218050.ann	DNAMutation	1478	1486	c.295C>T
+37218050	pmid-37218050.ann	Gene	1497	1500	WAS
+37218050	pmid-37218050.ann	Gene	1575	1578	SWA
+37218050	pmid-37218050.ann	Disease	1644	1671	síndrome de Wiskott-Aldrich
+37218050	pmid-37218050.ann	Disease	1677	1692	trombocitopenia
+37466134	pmid-37466134.ann	Disease	11	13	Ar
+37466134	pmid-37466134.ann	Disease	13	20	ritmias
+37466134	pmid-37466134.ann	Disease	38	79	miopatía miotubular ligada al cromosoma X
+37466134	pmid-37466134.ann	Disease	109	128	miopatía miotubular
+37466134	pmid-37466134.ann	Disease	136	165	enfermedad muscular congénita
+37466134	pmid-37466134.ann	Gene	201	206	de la
+37466134	pmid-37466134.ann	Gene	207	220	miotubularina
+37466134	pmid-37466134.ann	Gene	222	226	MTM1
+37466134	pmid-37466134.ann	Disease	232	273	miopatía miotubular ligada al cromosoma X
+37466134	pmid-37466134.ann	Disease	275	280	XLMTM
+37466134	pmid-37466134.ann	Disease	343	361	debilidad muscular
+37466134	pmid-37466134.ann	Disease	363	372	hipotonía
+37466134	pmid-37466134.ann	Disease	375	398	dificultad respiratoria
+37466134	pmid-37466134.ann	Disease	525	545	miopatías congénitas
+37466134	pmid-37466134.ann	Disease	555	574	miopatía nemalínica
+37466134	pmid-37466134.ann	Disease	580	598	miopatía con cores
+37466134	pmid-37466134.ann	Disease	650	655	XLMTM
+37466134	pmid-37466134.ann	Disease	675	694	bradicardia sinusal
+37466134	pmid-37466134.ann	Disease	703	730	bloqueo auriculoventricular
+37466134	pmid-37466134.ann	Disease	818	837	afectación cardíaca
+37466134	pmid-37466134.ann	Disease	987	998	bradicardia
+37466134	pmid-37466134.ann	Disease	1045	1050	XLMTM
+37466134	pmid-37466134.ann	Disease	1115	1135	miopatías congénitas
+37471470	pmid-37471470.ann	Disease	93	143	síndromes de sobrecrecimiento corporal segmentario
+37471470	pmid-37471470.ann	Disease	193	243	síndromes de sobrecrecimiento corporal segmentario
+37471470	pmid-37471470.ann	Disease	308	360	exceso de crecimiento en una o más partes del cuerpo
+37471470	pmid-37471470.ann	Gene	442	445	AKT
+37471470	pmid-37471470.ann	Gene	446	455	PI3K/mTOR
+37471470	pmid-37471470.ann	Gene	458	466	RAS-MAPK
+37471470	pmid-37471470.ann	Disease	1172	1221	síndrome de sobrecrecimiento relacionado a PIK3CA
+37471470	pmid-37471470.ann	Disease	1223	1227	PROS
+37471470	pmid-37471470.ann	Disease	1327	1348	malformación vascular
+37471470	pmid-37471470.ann	Disease	1629	1659	malformación vascular compleja
+37471470	pmid-37471470.ann	Disease	1662	1695	necesidades básicas insatisfechas
+37471470	pmid-37471470.ann	Disease	1697	1700	NBI
+37471470	pmid-37471470.ann	Disease	1717	1721	PROS
+37471470	pmid-37471470.ann	Disease	1841	1872	malformación vascular combinada
+37471470	pmid-37471470.ann	Disease	1875	1878	NBI
+37582124	pmid-37582124.ann	Gene	34	38	BRAF
+37582124	pmid-37582124.ann	Gene	41	45	NRAS
+37582124	pmid-37582124.ann	Disease	49	66	tumores tiroideos
+37582124	pmid-37582124.ann	Disease	178	199	foliculares tiroideas
+37582124	pmid-37582124.ann	Gene	210	214	BRAF
+37582124	pmid-37582124.ann	Gene	220	224	NRAS
+37582124	pmid-37582124.ann	Disease	259	265	carcin
+37582124	pmid-37582124.ann	Gene	332	336	BRAF
+37582124	pmid-37582124.ann	Gene	339	343	NRAS
+37582124	pmid-37582124.ann	Gene	484	488	BRAF
+37582124	pmid-37582124.ann	Gene	503	507	NRAS
+37582124	pmid-37582124.ann	Disease	557	564	nódulos
+37582124	pmid-37582124.ann	Disease	815	844	carcinoma papilar de tiroides
+37582124	pmid-37582124.ann	Disease	846	849	CPT
+37582124	pmid-37582124.ann	Disease	1013	1029	lesión folicular
+37582124	pmid-37582124.ann	Disease	1054	1076	carcinomas foliculares
+37582124	pmid-37582124.ann	Gene	1103	1104	N
+37582124	pmid-37582124.ann	Disease	1133	1141	adenomas
+37582124	pmid-37582124.ann	Disease	1202	1205	CPT
+37582124	pmid-37582124.ann	Disease	1223	1240	metástasis en los
+37582124	pmid-37582124.ann	Disease	1483	1486	CPT
+37582124	pmid-37582124.ann	Gene	1515	1519	BRAF
+37582124	pmid-37582124.ann	Gene	1522	1526	NRAS
+37582124	pmid-37582124.ann	Disease	1568	1571	CPT
+37582124	pmid-37582124.ann	Disease	1574	1593	carcinoma folicular
+37582124	pmid-37582124.ann	Disease	1690	1707	metástasis en los
+37668235	pmid-37668235.ann	Disease	11	42	Enfermedad neurológica asociada
+37668235	pmid-37668235.ann	Gene	50	55	KIF1A
+37668235	pmid-37668235.ann	Disease	116	129	encefalopatía
+37668235	pmid-37668235.ann	Gene	130	134	KIF1
+37668235	pmid-37668235.ann	Disease	134	168	A-associated-neurological-disorder
+37668235	pmid-37668235.ann	Disease	170	171	K
+37668235	pmid-37668235.ann	Disease	191	232	patologías neurodegenerativas progresivas
+37668235	pmid-37668235.ann	Gene	290	295	KIF1A
+37668235	pmid-37668235.ann	Gene	297	321	kinesin family member 1A
+37668235	pmid-37668235.ann	Gene	408	419	cinesinas 3
+37668235	pmid-37668235.ann	Gene	522	524	de
+37668235	pmid-37668235.ann	Disease	879	903	discapacidad intelectual
+37668235	pmid-37668235.ann	Disease	905	920	hipotonía axial
+37668235	pmid-37668235.ann	Disease	923	944	paraparesia espástica
+37668235	pmid-37668235.ann	Disease	964	971	cerebel
+37668235	pmid-37668235.ann	Disease	1013	1035	incontinencia urinaria
+37668235	pmid-37668235.ann	Disease	1037	1067	polineuropatía sensitivomotora
+37668235	pmid-37668235.ann	Disease	1070	1091	alteración conductual
+37668235	pmid-37668235.ann	Disease	1176	1221	epilepsia focal con generalización secundaria
+37668235	pmid-37668235.ann	Disease	1224	1272	focalidad paroxística occipitoparietal posterior
+37668235	pmid-37668235.ann	Disease	1329	1349	crisis oculógiras en
+37668235	pmid-37668235.ann	Disease	1465	1483	encefalopatía KAND
+37668235	pmid-37668235.ann	Disease	1494	1525	trastorno neurodegenerativo con
+37668235	pmid-37668235.ann	Disease	1526	1569	retraso global del desarrollo, de la marcha
+37668235	pmid-37668235.ann	Disease	1572	1622	espasticidad progresiva de los miembros inferiores
+37668235	pmid-37668235.ann	Disease	1624	1642	atrofia cerebelosa
+37668235	pmid-37668235.ann	Disease	1647	1678	afectación de la corteza visual
+37668235	pmid-37668235.ann	Disease	1727	1757	polineuropatía sensitivomotora
+37668235	pmid-37668235.ann	Disease	1875	1890	epilepsia focal
+37668235	pmid-37668235.ann	Disease	1893	1925	crisis oculógiras no epilépticas
+38502166	pmid-38502166.ann	Disease	11	12	M
+38502166	pmid-38502166.ann	Disease	12	14	io
+38502166	pmid-38502166.ann	Disease	14	25	patías RYR1
+38502166	pmid-38502166.ann	Disease	115	118	mio
+38502166	pmid-38502166.ann	Disease	118	176	patías relacionadas con el receptor de rianodina de tipo 1
+38502166	pmid-38502166.ann	Disease	178	179	R
+38502166	pmid-38502166.ann	Disease	179	185	YR1-RM
+38502166	pmid-38502166.ann	Disease	229	249	miopatías congénitas
+38502166	pmid-38502166.ann	Gene	495	496	R
+38502166	pmid-38502166.ann	Gene	496	499	YR1
+38502166	pmid-38502166.ann	Disease	627	634	RYR1-RM
+38502166	pmid-38502166.ann	Disease	743	762	síntomas miopáticos
+38502166	pmid-38502166.ann	Gene	808	809	R
+38502166	pmid-38502166.ann	Gene	809	812	YR1
+38502166	pmid-38502166.ann	Disease	1301	1310	debilidad
+38502166	pmid-38502166.ann	Disease	1313	1341	retraso del desarrollo motor
+38502166	pmid-38502166.ann	Gene	1384	1385	R
+38502166	pmid-38502166.ann	Gene	1385	1388	YR1
+38502166	pmid-38502166.ann	Disease	1532	1553	miopatía central core
+38502166	pmid-38502166.ann	Disease	1586	1619	desproporción congénita de fibras
+38502166	pmid-38502166.ann	Gene	1674	1675	R
+38502166	pmid-38502166.ann	Disease	1676	1678	R1
