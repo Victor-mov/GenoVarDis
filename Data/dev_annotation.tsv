@@ -1,0 +1,1334 @@
+pmid	filename	mark	label	offset1	offset2	span
+12626442	pmid-12626442.ann	T1	Disease	11	35	Deficiencia total de C4B
+12626442	pmid-12626442.ann	T5	Disease	99	110	infecciones
+12626442	pmid-12626442.ann	T6	Disease	134	175	deficiencias de los componentes tempranos
+12626442	pmid-12626442.ann	T10	Disease	307	318	infecciones
+12626442	pmid-12626442.ann	T14	Disease	413	423	meningitis
+12626442	pmid-12626442.ann	T15	Disease	436	444	fístulas
+12626442	pmid-12626442.ann	T16	Disease	456	464	abscesos
+12626442	pmid-12626442.ann	T18	Gene	599	602	C4A
+12626442	pmid-12626442.ann	T19	Gene	689	692	C4A
+12626442	pmid-12626442.ann	T20	Gene	954	957	MBL
+12626442	pmid-12626442.ann	T21	Gene	999	1002	MBL
+12626442	pmid-12626442.ann	T22	Gene	1112	1114	C4
+12626442	pmid-12626442.ann	T23	Gene	1199	1202	MBL
+12626442	pmid-12626442.ann	T24	Disease	1235	1246	infecciones
+12626442	pmid-12626442.ann	T3	Gene	546	549	C4B
+12626442	pmid-12626442.ann	T7	Gene	588	591	C4B
+12626442	pmid-12626442.ann	T8	Disease	650	677	deficiencia completa de C4B
+12626442	pmid-12626442.ann	T9	Disease	359	383	deficiencia total de C4B
+12626442	pmid-12626442.ann	T11	Gene	1169	1172	C4B
+12626442	pmid-12626442.ann	T12	Gene	927	952	lectina de unión a manano
+12631337	pmid-12631337.ann	T1	Gene	63	68	IL-1A
+12631337	pmid-12631337.ann	T2	Disease	73	98	enfermedad renal terminal
+12631337	pmid-12631337.ann	T3	Gene	216	235	interleucina-1 alfa
+12631337	pmid-12631337.ann	T4	Gene	237	242	IL-1A
+12631337	pmid-12631337.ann	T5	Disease	273	298	enfermedad renal terminal
+12631337	pmid-12631337.ann	T6	Disease	300	303	ERT
+12631337	pmid-12631337.ann	T7	Disease	316	331	diabetes tipo 2
+12631337	pmid-12631337.ann	T8	Disease	333	335	DM
+12631337	pmid-12631337.ann	T9	Disease	366	368	DM
+12631337	pmid-12631337.ann	T10	Gene	423	428	IL-1A
+12631337	pmid-12631337.ann	T11	Disease	679	682	ERT
+12631337	pmid-12631337.ann	T12	Disease	720	723	ERT
+12631337	pmid-12631337.ann	T13	Disease	836	839	ERT
+12631337	pmid-12631337.ann	T14	Gene	973	978	IL-1A
+12631337	pmid-12631337.ann	T15	Gene	1257	1262	IL-1A
+12631337	pmid-12631337.ann	T20	Disease	2245	2255	nefropatía
+12631337	pmid-12631337.ann	T21	Gene	114	123	IL-1 alfa
+12631337	pmid-12631337.ann	T22	Disease	727	729	DM
+12631337	pmid-12631337.ann	T23	Disease	843	852	DM tipo 2
+12631337	pmid-12631337.ann	T24	Disease	892	895	ERT
+12631337	pmid-12631337.ann	T25	Disease	1277	1280	ERT
+12631337	pmid-12631337.ann	T26	OtherMutation	1460	1468	TN7TTCAA
+12631337	pmid-12631337.ann	T27	OtherMutation	1470	1478	AN7TTCAA
+12631337	pmid-12631337.ann	T28	OtherMutation	1480	1488	TN7TTCAG
+12631337	pmid-12631337.ann	T16	OtherMutation	1536	1549	TN7(delTTCA)A
+12631337	pmid-12631337.ann	T17	OtherMutation	1581	1594	TN7(delTTCA)A
+12631337	pmid-12631337.ann	T29	Disease	1666	1669	ERT
+12631337	pmid-12631337.ann	T30	Disease	1673	1675	DM
+12631337	pmid-12631337.ann	T31	Disease	1711	1714	ERT
+12631337	pmid-12631337.ann	T18	OtherMutation	1971	1984	TN7(delTTCA)A
+12631337	pmid-12631337.ann	T19	OtherMutation	2081	2094	TN7(delTTCA)A
+12631337	pmid-12631337.ann	T32	Disease	2164	2167	ERT
+12636044	pmid-12636044.ann	T1	Gene	60	67	CACNA1S
+12636044	pmid-12636044.ann	T2	Gene	132	139	CACNA1S
+12636044	pmid-12636044.ann	T3	Gene	156	203	subunidad alfa1 del receptor de dihidropiridina
+12636044	pmid-12636044.ann	T4	Disease	256	278	enfermedades genéticas
+12636044	pmid-12636044.ann	T5	Disease	280	299	hipertermia maligna
+12636044	pmid-12636044.ann	T6	Disease	302	336	parálisis periódica hipopotasémica
+12636044	pmid-12636044.ann	T7	DNAMutation	370	382	c2403T --> C
+12636044	pmid-12636044.ann	T8	DNAMutation	385	397	c5398T --> C
+12636044	pmid-12636044.ann	T9	DNAMutation	474	486	c4475C --> A
+12650796	pmid-12650796.ann	T1	Gene	11	17	Card15
+12650796	pmid-12650796.ann	T3	Disease	23	42	enfermedad de Crohn
+12650796	pmid-12650796.ann	T4	DNAMutation	107	115	3020insC
+12650796	pmid-12650796.ann	T5	Gene	189	195	CARD15
+12650796	pmid-12650796.ann	T6	Disease	236	255	enfermedad de Crohn
+12650796	pmid-12650796.ann	T7	DNAMutation	289	330	inserción de citosina en la posición 3020
+12650796	pmid-12650796.ann	T8	DNAMutation	344	352	3020insC
+12650796	pmid-12650796.ann	T9	Gene	415	421	CARD15
+12650796	pmid-12650796.ann	T10	Gene	448	454	CARD15
+12650796	pmid-12650796.ann	T11	Disease	552	586	enfermedad inflamatoria intestinal
+12650796	pmid-12650796.ann	T12	Disease	588	591	EII
+12650796	pmid-12650796.ann	T13	Disease	806	822	colitis ulcerosa
+12650796	pmid-12650796.ann	T14	DNAMutation	1092	1100	3020insC
+12650796	pmid-12650796.ann	T15	DNAMutation	1276	1284	3020insC
+12650796	pmid-12650796.ann	T16	DNAMutation	1493	1501	3020insC
+12650796	pmid-12650796.ann	T17	Disease	824	826	CU
+12650796	pmid-12650796.ann	T18	Disease	257	259	EC
+12650796	pmid-12650796.ann	T19	Disease	684	687	EII
+12650796	pmid-12650796.ann	T20	Gene	1085	1091	CARD15
+12650796	pmid-12650796.ann	T21	Disease	1325	1327	EC
+12650796	pmid-12650796.ann	T22	Disease	1342	1344	CU
+12650796	pmid-12650796.ann	T23	Gene	1269	1275	CARD15
+12650796	pmid-12650796.ann	T24	Gene	1486	1492	CARD15
+12650796	pmid-12650796.ann	T25	Disease	1543	1545	EC
+12650796	pmid-12650796.ann	T26	Disease	1591	1594	EII
+12650796	pmid-12650796.ann	T27	Disease	1461	1463	EC
+12650796	pmid-12650796.ann	T28	Disease	788	790	EC
+12653841	pmid-12653841.ann	T2	Disease	11	29	Defectos genéticos
+12653841	pmid-12653841.ann	T4	Disease	110	151	deficiencia homocigota del complemento C6
+12653841	pmid-12653841.ann	T6	Disease	153	156	C6D
+12653841	pmid-12653841.ann	T7	Disease	304	307	C6D
+12653841	pmid-12653841.ann	T8	Disease	490	544	glomeruloesclerosis focal y segmentaria con hialinosis
+12653841	pmid-12653841.ann	T9	Disease	556	583	lupus eritematoso sistémico
+12653841	pmid-12653841.ann	T10	Disease	596	615	enfermedad de Still
+12653841	pmid-12653841.ann	T11	OtherMutation	1230	1260	deleción de un solo nucleótido
+12653841	pmid-12653841.ann	T12	DNAMutation	1273	1281	1936delG
+12653841	pmid-12653841.ann	T13	DNAMutation	1393	1401	1195delC
+12653841	pmid-12653841.ann	T14	DNAMutation	1419	1426	878delA
+12653841	pmid-12653841.ann	T15	DNAMutation	1475	1483	1936delG
+12653841	pmid-12653841.ann	T17	Disease	451	473	Neisseria meningitidis
+12653841	pmid-12653841.ann	T5	Disease	57	94	deficiencia humana del complemento C6
+12653841	pmid-12653841.ann	T3	Gene	671	673	C6
+12653841	pmid-12653841.ann	T18	Gene	795	797	C6
+12653841	pmid-12653841.ann	T19	Gene	960	962	C6
+12653841	pmid-12653841.ann	T20	Gene	1628	1630	C6
+12661032	pmid-12661032.ann	T1	Gene	11	15	KLF5
+12661032	pmid-12661032.ann	T2	Disease	91	109	cáncer de próstata
+12661032	pmid-12661032.ann	T3	Disease	260	268	cánceres
+12661032	pmid-12661032.ann	T4	Disease	292	310	cáncer de próstata
+12661032	pmid-12661032.ann	T5	Disease	434	452	cáncer de próstata
+12661032	pmid-12661032.ann	T6	Gene	849	853	KLF5
+12661032	pmid-12661032.ann	T7	Gene	1210	1214	KLF5
+12661032	pmid-12661032.ann	T8	Disease	1238	1256	cáncer de próstata
+12661032	pmid-12661032.ann	T9	Gene	1290	1294	KLF5
+12661032	pmid-12661032.ann	T10	Disease	1471	1489	cáncer de próstata
+12661032	pmid-12661032.ann	T11	Gene	1608	1612	KLF5
+12661032	pmid-12661032.ann	T12	Gene	1740	1744	KLF5
+12661032	pmid-12661032.ann	T13	Disease	1810	1828	cáncer de próstata
+12661032	pmid-12661032.ann	T14	Gene	1917	1921	KLF5
+12661032	pmid-12661032.ann	T15	Gene	2019	2023	KLF5
+12661032	pmid-12661032.ann	T16	Gene	2094	2098	KLF5
+12661032	pmid-12661032.ann	T17	Gene	2255	2259	KLF5
+12661032	pmid-12661032.ann	T18	Gene	2485	2489	KLF5
+12661032	pmid-12661032.ann	T19	Disease	2563	2581	cáncer de próstata
+12661032	pmid-12661032.ann	T20	Gene	2674	2678	KLF5
+12661032	pmid-12661032.ann	T21	Disease	2685	2703	cáncer de próstata
+12661032	pmid-12661032.ann	T22	Disease	363	370	tumores
+12661032	pmid-12661032.ann	T25	OtherMutation	1392	1441	región de eliminación homocigota de 2 Mb en 13q21
+12668354	pmid-12668354.ann	T1	Disease	29	36	timidez
+12668354	pmid-12668354.ann	T3	Disease	290	297	timidez
+12668354	pmid-12668354.ann	T4	Disease	303	315	fobia social
+12668354	pmid-12668354.ann	T5	Disease	377	384	timidez
+12668354	pmid-12668354.ann	T6	OtherMutation	519	558	inserción/deleción de 44 pares de bases
+12668354	pmid-12668354.ann	T7	Gene	586	613	transportador de serotonina
+12668354	pmid-12668354.ann	T9	Gene	681	685	DRD4
+12668354	pmid-12668354.ann	T10	Gene	688	714	catecol O-metiltransferasa
+12668354	pmid-12668354.ann	T11	Gene	716	720	COMT
+12668354	pmid-12668354.ann	T12	Gene	764	783	monoamina oxidasa A
+12668354	pmid-12668354.ann	T13	Disease	827	834	timidez
+12668354	pmid-12668354.ann	T14	OtherMutation	1190	1198	5-HTTLPR
+12668354	pmid-12668354.ann	T15	Gene	1200	1204	DRD4
+12668354	pmid-12668354.ann	T16	Gene	1206	1210	COMT
+12668354	pmid-12668354.ann	T17	Disease	1347	1354	timidez
+12668354	pmid-12668354.ann	T18	OtherMutation	1489	1497	5-HTTLPR
+12668354	pmid-12668354.ann	T19	Disease	1503	1510	timidez
+12668354	pmid-12668354.ann	T20	Gene	1673	1677	DRD4
+12668354	pmid-12668354.ann	T21	Gene	1679	1683	COMT
+12668354	pmid-12668354.ann	T22	OtherMutation	1781	1789	5-HTTLPR
+12668354	pmid-12668354.ann	T23	Disease	2074	2103	trastorno obsesivo-compulsivo
+12668354	pmid-12668354.ann	T24	Disease	2109	2116	autismo
+12668354	pmid-12668354.ann	T25	Gene	785	791	MAO(A)
+12668354	pmid-12668354.ann	T26	Gene	1213	1219	MAO(A)
+12668354	pmid-12668354.ann	T27	Gene	1686	1692	MAO(A)
+12668354	pmid-12668354.ann	T28	OtherMutation	2060	2068	5-HTTLPR
+12668354	pmid-12668354.ann	T2	Gene	126	153	transportador de serotonina
+12668354	pmid-12668354.ann	T29	Gene	654	679	receptor de dopamina D(4)
+12668354	pmid-12668354.ann	T30	OtherMutation	615	623	5-HTTLPR
+12668354	pmid-12668354.ann	T31	OtherMutation	724	757	repetición de la región promotora
+12668354	pmid-12668354.ann	T32	Disease	1868	1875	timidez
+12668354	pmid-12668354.ann	T8	OtherMutation	626	649	repetición del exón III
+12668609	pmid-12668609.ann	T1	Gene	51	54	ACE
+12668609	pmid-12668609.ann	T2	Disease	78	101	enfermedad de Alzheimer
+12668609	pmid-12668609.ann	T3	Disease	156	179	enfermedad de Alzheimer
+12668609	pmid-12668609.ann	T4	Disease	181	183	EA
+12668609	pmid-12668609.ann	T5	Gene	259	263	APOE
+12668609	pmid-12668609.ann	T6	Gene	396	433	enzima convertidora de angiotensina I
+12668609	pmid-12668609.ann	T7	Gene	435	438	ACE
+12668609	pmid-12668609.ann	T8	Gene	545	548	ACE
+12668609	pmid-12668609.ann	T9	Gene	716	719	ACE
+12668609	pmid-12668609.ann	T10	Gene	1067	1070	ACE
+12668609	pmid-12668609.ann	T13	DNAMutation	1235	1241	A-262T
+12668609	pmid-12668609.ann	T14	Gene	1269	1272	ACE
+12668609	pmid-12668609.ann	T15	Gene	1623	1626	ACE
+12668609	pmid-12668609.ann	T16	Disease	723	725	EA
+12668609	pmid-12668609.ann	T17	Disease	627	629	EA
+12668609	pmid-12668609.ann	T18	Disease	1207	1209	EA
+12668609	pmid-12668609.ann	T19	Disease	1516	1518	EA
+12668609	pmid-12668609.ann	T20	Disease	1668	1670	EA
+14510916	pmid-14510916.ann	T1	Gene	49	60	vasopresina
+14510916	pmid-14510916.ann	T2	Disease	67	131	diabetes insípida neurohipofisaria autosómica dominante familiar
+14510916	pmid-14510916.ann	T3	Gene	180	206	vasopresina-neurofisina II
+14510916	pmid-14510916.ann	T4	Disease	298	302	FNDI
+14510916	pmid-14510916.ann	T5	Disease	352	354	DI
+14510916	pmid-14510916.ann	T6	Gene	396	422	vasopresina-neurofisina II
+14510916	pmid-14510916.ann	T8	Gene	424	432	AVP-NPII
+14510916	pmid-14510916.ann	T9	Gene	478	481	AVP
+14510916	pmid-14510916.ann	T11	Gene	536	544	AVP-NPII
+14510916	pmid-14510916.ann	T12	Disease	574	578	FNDI
+14510916	pmid-14510916.ann	T13	Disease	692	696	FNDI
+14510916	pmid-14510916.ann	T14	Disease	716	726	DI central
+14510916	pmid-14510916.ann	T15	Gene	982	990	AVP-NPII
+14510916	pmid-14510916.ann	T16	Disease	1094	1098	FNDI
+14510916	pmid-14510916.ann	T17	Disease	1234	1244	DI central
+14510916	pmid-14510916.ann	T18	Disease	1291	1301	DI central
+14510916	pmid-14510916.ann	T19	Gene	1441	1455	neurofisina-II
+14510916	pmid-14510916.ann	T20	Gene	1464	1472	AVP-NPII
+14510916	pmid-14510916.ann	T21	DNAMutation	1474	1481	1892G>C
+14510916	pmid-14510916.ann	T22	Gene	1687	1695	AVP-NPII
+14510916	pmid-14510916.ann	T23	Disease	1725	1729	FNDI
+14510916	pmid-14510916.ann	T25	Disease	232	296	diabetes insípida neurohipofisaria autosómica dominante familiar
+14510916	pmid-14510916.ann	T7	Gene	1172	1175	AVP
+14510916	pmid-14510916.ann	T10	Gene	1914	1917	AVP
+14510916	pmid-14510916.ann	T27	Disease	1612	1648	deficiencia gradual vasopresinérgica
+14510916	pmid-14510916.ann	T26	Disease	1787	1804	efecto citotóxico
+14510916	pmid-14510916.ann	T24	Disease	325	342	diabetes insípida
+14722925	pmid-14722925.ann	T1	Gene	50	100	inhibidor de la tripsina secretada por el páncreas
+14722925	pmid-14722925.ann	T2	Gene	102	108	SPINK1
+14722925	pmid-14722925.ann	T4	Disease	117	138	pancreatitis familiar
+14722925	pmid-14722925.ann	T6	Gene	228	272	inhibidor de la proteasa serina tipo Kazal 1
+14722925	pmid-14722925.ann	T7	Gene	274	280	SPINK1
+14722925	pmid-14722925.ann	T8	Gene	299	349	inhibidor de la tripsina secretada por el páncreas
+14722925	pmid-14722925.ann	T9	Gene	351	355	PSTI
+14722925	pmid-14722925.ann	T11	Disease	381	401	pancreatitis crónica
+14722925	pmid-14722925.ann	T12	Gene	769	791	tripsinógeno catiónico
+14722925	pmid-14722925.ann	T13	Gene	793	798	PRSS1
+14722925	pmid-14722925.ann	T14	Gene	825	831	SPINK1
+14722925	pmid-14722925.ann	T15	Gene	906	912	SPINK1
+14722925	pmid-14722925.ann	T16	DNAMutation	1109	1117	c.27delC
+14722925	pmid-14722925.ann	T17	DNAMutation	1197	1205	c.27delC
+14722925	pmid-14722925.ann	T18	DNAMutation	1505	1514	c.87+1G>A
+14722925	pmid-14722925.ann	T19	DNAMutation	1516	1564	sustitución G>A en el nucleótido +1 del intrón 2
+14722925	pmid-14722925.ann	T20	Gene	1704	1708	PSTI
+14722925	pmid-14722925.ann	T3	Disease	1586	1607	pancreatitis familiar
+14722925	pmid-14722925.ann	T5	Disease	1715	1727	pancreatitis
+14734447	pmid-14734447.ann	T1	Gene	84	87	CBP
+14734447	pmid-14734447.ann	T2	Disease	117	159	carcinoma de células escamosas del esófago
+14734447	pmid-14734447.ann	T3	Gene	196	199	CBP
+14734447	pmid-14734447.ann	T4	Gene	508	511	CBP
+14734447	pmid-14734447.ann	T5	Disease	527	569	carcinoma de células escamosas del esófago
+14734447	pmid-14734447.ann	T6	Disease	571	575	ESCC
+14734447	pmid-14734447.ann	T7	Gene	737	740	CBP
+14734447	pmid-14734447.ann	T8	Disease	871	875	ESCC
+14734447	pmid-14734447.ann	T9	Disease	915	919	ESCC
+14734447	pmid-14734447.ann	T10	Gene	982	985	CS1
+14734447	pmid-14734447.ann	T11	Gene	986	989	CS5
+14734447	pmid-14734447.ann	T12	Gene	1061	1064	CBP
+14734447	pmid-14734447.ann	T13	Gene	1123	1126	CBP
+14734447	pmid-14734447.ann	T14	Disease	1158	1162	ESCC
+14734447	pmid-14734447.ann	T15	Gene	1216	1219	CBP
+14734447	pmid-14734447.ann	T16	Gene	1298	1301	CBP
+14734447	pmid-14734447.ann	T17	Disease	1343	1347	ESCC
+14734447	pmid-14734447.ann	T18	Gene	1373	1376	CBP
+14734447	pmid-14734447.ann	T19	Gene	1707	1710	CBP
+14734447	pmid-14734447.ann	T20	Gene	1747	1750	CBP
+14734447	pmid-14734447.ann	T21	Gene	1894	1897	CBP
+14734447	pmid-14734447.ann	T22	Disease	1937	1941	ESCC
+14734447	pmid-14734447.ann	T23	Disease	2025	2029	ESCC
+14734447	pmid-14734447.ann	T24	Gene	201	299	proteína coactivadora de la respuesta del elemento de unión a proteína de respuesta cíclica de AMP
+14742428	pmid-14742428.ann	T1	Disease	101	138	enfermedad de orina de jarabe de arce
+14742428	pmid-14742428.ann	T3	Gene	543	549	E1alfa
+14742428	pmid-14742428.ann	T4	DNAMutation	617	629	1109 ins 8bp
+14742428	pmid-14742428.ann	T5	Gene	732	734	E2
+14742428	pmid-14742428.ann	T7	Gene	835	837	E1
+14742428	pmid-14742428.ann	T8	Gene	1038	1040	E1
+14742428	pmid-14742428.ann	T9	Gene	1194	1196	E1
+14742428	pmid-14742428.ann	T10	Gene	1327	1329	E2
+14742428	pmid-14742428.ann	T11	Gene	1470	1472	E2
+14742428	pmid-14742428.ann	T12	Gene	1526	1528	E1
+14742428	pmid-14742428.ann	T13	Gene	1576	1578	E1
+14742428	pmid-14742428.ann	T14	Gene	1586	1588	E2
+14742428	pmid-14742428.ann	T15	Gene	1669	1671	E1
+14742428	pmid-14742428.ann	T16	Gene	1772	1774	E2
+14742428	pmid-14742428.ann	T17	Gene	1807	1809	E2
+14742428	pmid-14742428.ann	T18	Disease	171	198	fenotipo sensible a tiamina
+14742428	pmid-14742428.ann	T19	Disease	211	251	La enfermedad de orina de jarabe de arce
+14742428	pmid-14742428.ann	T20	Disease	253	257	EOJA
+14742428	pmid-14742428.ann	T21	Disease	473	477	EOJA
+14742428	pmid-14742428.ann	T22	DNAMutation	598	614	IVS 9 del[-7:-4]
+14742428	pmid-14742428.ann	T2	Disease	1693	1723	respuesta robusta a la tiamina
+14742428	pmid-14742428.ann	T6	Disease	1874	1878	EOJA
+14742428	pmid-14742428.ann	T23	Disease	2024	2028	EOJA
+14749703	pmid-14749703.ann	T1	Gene	56	61	FANCA
+14749703	pmid-14749703.ann	T2	Disease	68	85	anemia de Fanconi
+14749703	pmid-14749703.ann	T4	Disease	142	159	anemia de Fanconi
+14749703	pmid-14749703.ann	T5	Disease	171	229	trastorno de inestabilidad cromosómica autosómico recesivo
+14749703	pmid-14749703.ann	T6	Gene	290	295	FANCA
+14749703	pmid-14749703.ann	T7	Gene	314	319	BRCA2
+14749703	pmid-14749703.ann	T8	Gene	347	352	FANCA
+14749703	pmid-14749703.ann	T9	Disease	493	516	leucemia mieloide aguda
+14749703	pmid-14749703.ann	T10	Gene	806	811	FANCA
+14749703	pmid-14749703.ann	T11	Gene	857	862	FANCA
+14749703	pmid-14749703.ann	T12	Gene	1054	1059	FANCA
+14749703	pmid-14749703.ann	T13	Gene	1092	1097	FANCA
+14749703	pmid-14749703.ann	T14	Gene	1139	1144	FANCA
+14749703	pmid-14749703.ann	T15	Disease	92	126	leucemia mieloide aguda esporádica
+14749703	pmid-14749703.ann	T3	Disease	161	163	AF
+14749703	pmid-14749703.ann	T16	Gene	297	298	C
+14749703	pmid-14749703.ann	T17	Gene	300	302	D2
+14749703	pmid-14749703.ann	T18	Gene	304	305	E
+14749703	pmid-14749703.ann	T19	Disease	420	422	AF
+14749703	pmid-14749703.ann	T20	Gene	307	308	F
+14749703	pmid-14749703.ann	T21	Gene	310	311	G
+14749703	pmid-14749703.ann	T22	Disease	612	614	AF
+14749703	pmid-14749703.ann	T23	Disease	518	521	LMA
+14749703	pmid-14749703.ann	T24	Disease	665	679	LMA esporádica
+14749703	pmid-14749703.ann	T25	Disease	765	779	LMA esporádica
+14749703	pmid-14749703.ann	T26	Disease	881	883	AF
+14749703	pmid-14749703.ann	T27	Disease	1117	1120	LMA
+14749703	pmid-14749703.ann	T28	Gene	1376	1381	FANCA
+14749703	pmid-14749703.ann	T29	Disease	1417	1420	LMA
+14749703	pmid-14749703.ann	T30	Gene	1536	1541	FANCA
+14749703	pmid-14749703.ann	T31	Disease	1643	1657	LMA esporádica
+14751036	pmid-14751036.ann	T2	Gene	36	50	tiroperoxidasa
+14751036	pmid-14751036.ann	T3	Disease	54	87	hipotiroidismo congénito bocioide
+14751036	pmid-14751036.ann	T4	Gene	203	206	TPO
+14751036	pmid-14751036.ann	T5	Disease	273	310	defecto de la organificación del yodo
+14751036	pmid-14751036.ann	T6	Disease	312	315	IOD
+14751036	pmid-14751036.ann	T7	Disease	336	369	hipotiroidismo congénito bocioide
+14751036	pmid-14751036.ann	T8	Gene	443	446	TPO
+14751036	pmid-14751036.ann	T9	Disease	551	555	TIOD
+14751036	pmid-14751036.ann	T10	Disease	559	604	defectos parciales de organificación del yodo
+14751036	pmid-14751036.ann	T11	Disease	606	610	PIOD
+14751036	pmid-14751036.ann	T12	Disease	701	709	bociosos
+14751036	pmid-14751036.ann	T13	Disease	714	718	TIOD
+14751036	pmid-14751036.ann	T14	Disease	741	745	PIOD
+14751036	pmid-14751036.ann	T15	Gene	850	853	TPO
+14751036	pmid-14751036.ann	T16	Disease	871	875	TIOD
+14751036	pmid-14751036.ann	T17	Disease	878	882	PIOD
+14751036	pmid-14751036.ann	T18	Disease	904	908	TIOD
+14751036	pmid-14751036.ann	T19	DNAMutation	956	1009	inserción homocigota GGCC en el exón 8, posición 1277
+14751036	pmid-14751036.ann	T20	DNAMutation	1144	1151	2068G>C
+14751036	pmid-14751036.ann	T21	DNAMutation	1212	1219	2068G>C
+14751036	pmid-14751036.ann	T22	DNAMutation	1240	1299	inserción de C en el exón 14 entre las posiciones 2505-2511
+14751036	pmid-14751036.ann	T23	Disease	1330	1334	PIOD
+14751036	pmid-14751036.ann	T24	DNAMutation	1433	1440	2084G>A
+14751036	pmid-14751036.ann	T25	DNAMutation	1443	1450	1780C>A
+14751036	pmid-14751036.ann	T26	DNAMutation	1577	1584	1242G>T
+14751036	pmid-14751036.ann	T27	DNAMutation	1587	1594	1780C>A
+14751036	pmid-14751036.ann	T28	DNAMutation	1707	1714	9 +1G>T
+14751036	pmid-14751036.ann	T29	Gene	1807	1812	THOX2
+14751036	pmid-14751036.ann	T30	Disease	1944	1948	TIOD
+14751036	pmid-14751036.ann	T31	Disease	2112	2116	PIOD
+14751036	pmid-14751036.ann	T32	Gene	2273	2276	TPO
+14751036	pmid-14751036.ann	T33	Disease	464	488	hipotiroidismo congénito
+14751036	pmid-14751036.ann	T34	DNAMutation	1027	1088	heterocigosidad compuesta con una inserción GGCC en el exón 8
+14751036	pmid-14751036.ann	T35	Gene	187	201	tiroperoxidasa
+14751036	pmid-14751036.ann	T36	Disease	92	145	defecto total y parcial de la organificación del yodo
+14751036	pmid-14751036.ann	T37	Disease	506	549	defectos totales de organificación del yodo
+15069170	pmid-15069170.ann	T1	Gene	50	71	cotransportador Na-Cl
+15069170	pmid-15069170.ann	T2	Disease	119	139	síndrome de Gitelman
+15069170	pmid-15069170.ann	T3	Disease	169	189	síndrome de Gitelman
+15069170	pmid-15069170.ann	T4	Disease	191	193	GS
+15069170	pmid-15069170.ann	T5	Disease	201	230	trastorno autosómico recesivo
+15069170	pmid-15069170.ann	T6	Gene	284	305	cotransportador Na-Cl
+15069170	pmid-15069170.ann	T7	Gene	327	331	NCCT
+15069170	pmid-15069170.ann	T8	Gene	524	528	NCCT
+15069170	pmid-15069170.ann	T9	Gene	739	743	NCCT
+15069170	pmid-15069170.ann	T10	DNAMutation	1043	1051	c.185C>T
+15069170	pmid-15069170.ann	T11	DNAMutation	1064	1073	c.1712C>T
+15069170	pmid-15069170.ann	T12	DNAMutation	1087	1096	c.1930C>T
+15069170	pmid-15069170.ann	T13	DNAMutation	1110	1119	c.2552T>A
+15069170	pmid-15069170.ann	T14	DNAMutation	1134	1144	c.1932delC
+15069170	pmid-15069170.ann	T15	DNAMutation	1273	1279	c.7A>T
+15069170	pmid-15069170.ann	T16	DNAMutation	1291	1310	c.1181_1186+20del26
+15069170	pmid-15069170.ann	T17	DNAMutation	1312	1328	c.1811_1812delAT
+15069170	pmid-15069170.ann	T18	DNAMutation	1331	1341	IVS16+1G>A
+15069170	pmid-15069170.ann	T19	DNAMutation	1394	1413	c.1181_1186+20del26
+15069170	pmid-15069170.ann	T20	DNAMutation	1528	1538	IVS16+1G>A
+15069170	pmid-15069170.ann	T22	Gene	1783	1787	NCCT
+15069170	pmid-15069170.ann	T23	Gene	1901	1905	NCCT
+15069170	pmid-15069170.ann	T24	OtherMutation	1555	1608	inserción adicional de 96 pb entre los exones 16 y 17
+15069170	pmid-15069170.ann	T21	Disease	562	564	GS
+15069170	pmid-15069170.ann	T25	Disease	647	649	GS
+15069170	pmid-15069170.ann	T26	Disease	1821	1823	GS
+15069170	pmid-15069170.ann	T27	Disease	1933	1935	GS
+15461822	pmid-15461822.ann	T1	Disease	93	99	dengue
+15461822	pmid-15461822.ann	T2	OtherMutation	430	437	Delta30
+15461822	pmid-15461822.ann	T3	Disease	726	734	hepatoma
+15461822	pmid-15461822.ann	T4	Disease	1317	1324	viremia
+15461822	pmid-15461822.ann	T5	Gene	1524	1527	NS3
+15461822	pmid-15461822.ann	T6	Disease	169	175	dengue
+15464247	pmid-15464247.ann	T1	Gene	46	62	interleucina 12B
+15464247	pmid-15464247.ann	T2	Gene	64	69	IL12B
+15464247	pmid-15464247.ann	T3	Disease	134	171	infección por virus de la hepatitis C
+15464247	pmid-15464247.ann	T4	Gene	211	226	Interleucina-12
+15464247	pmid-15464247.ann	T5	Gene	228	233	IL-12
+15464247	pmid-15464247.ann	T6	Disease	344	361	infección por VHC
+15464247	pmid-15464247.ann	T7	Gene	400	405	IL12B
+15464247	pmid-15464247.ann	T8	OtherMutation	430	456	inserción/deleción de 4 pb
+15464247	pmid-15464247.ann	T9	DNAMutation	481	489	1188-A/C
+15464247	pmid-15464247.ann	T10	Gene	552	557	IL-12
+15464247	pmid-15464247.ann	T11	Disease	598	615	infección por VHC
+15464247	pmid-15464247.ann	T12	Disease	710	728	infectados con VHC
+15464247	pmid-15464247.ann	T13	Gene	775	780	IL12B
+15464247	pmid-15464247.ann	T14	Gene	1029	1034	IL12B
+15464247	pmid-15464247.ann	T15	Disease	1155	1188	infectados con VHC del genotipo 1
+15464247	pmid-15464247.ann	T16	Disease	1198	1205	viremia
+15464247	pmid-15464247.ann	T17	Gene	1239	1244	IL12B
+15464247	pmid-15464247.ann	T18	Gene	1524	1529	IL12B
+15464247	pmid-15464247.ann	T19	Gene	1750	1755	IL12B
+15481887	pmid-15481887.ann	T5	Disease	477	500	Anomalías hematológicas
+15481887	pmid-15481887.ann	T6	Disease	540	552	Microcitosis
+15481887	pmid-15481887.ann	T7	Disease	555	565	Hipocromía
+15481887	pmid-15481887.ann	T8	Disease	736	759	Anomalías hematológicas
+15481887	pmid-15481887.ann	T9	Disease	774	780	Anemia
+15481887	pmid-15481887.ann	T10	NucleotideChange-BaseChange	218	227	GAG-->GCG
+15481887	pmid-15481887.ann	T11	NucleotideChange-BaseChange	277	286	GGC-->AGC
+15485686	pmid-15485686.ann	T1	Gene	30	35	SCN5A
+15485686	pmid-15485686.ann	T2	Disease	77	97	síndrome de QT largo
+15485686	pmid-15485686.ann	T3	Disease	122	133	taquicardia
+15485686	pmid-15485686.ann	T4	Disease	134	145	bradicardia
+15485686	pmid-15485686.ann	T5	Disease	171	201	síndrome de QT largo congénito
+15485686	pmid-15485686.ann	T6	Disease	203	207	LQTS
+15485686	pmid-15485686.ann	T7	Disease	354	371	bradicardia fetal
+15485686	pmid-15485686.ann	T8	Disease	373	400	bloqueo auriculoventricular
+15485686	pmid-15485686.ann	T9	Disease	407	430	taquicardia ventricular
+15485686	pmid-15485686.ann	T10	Disease	552	579	bloqueo auriculoventricular
+15485686	pmid-15485686.ann	T11	Disease	717	740	taquicardia ventricular
+15485686	pmid-15485686.ann	T13	Disease	798	804	LQTS-3
+15485686	pmid-15485686.ann	T14	Gene	879	887	Na(v)1.5
+15485686	pmid-15485686.ann	T15	DNAMutation	897	931	sustitución G-->A en el codón 1763
+15485686	pmid-15485686.ann	T16	Gene	1713	1721	Na(v)1.5
+15485686	pmid-15485686.ann	T17	Disease	1916	1925	arritmias
+15485686	pmid-15485686.ann	T12	Disease	1864	1868	LQTS
+15517085	pmid-15517085.ann	T1	Gene	70	76	CDKN2A
+15517085	pmid-15517085.ann	T3	Gene	83	89	CDKN2B
+15517085	pmid-15517085.ann	T5	Disease	122	135	neuroblastoma
+15517085	pmid-15517085.ann	T6	Disease	151	164	neuroblastoma
+15517085	pmid-15517085.ann	T8	Disease	169	187	tumor extracraneal
+15517085	pmid-15517085.ann	T10	Gene	440	446	CDKN2B
+15517085	pmid-15517085.ann	T12	Gene	453	459	CDKN2A
+15517085	pmid-15517085.ann	T14	Gene	465	521	inhibidores de quinasas dependientes de ciclinas 2B y 2A
+15517085	pmid-15517085.ann	T15	Gene	697	703	CDKN2B
+15517085	pmid-15517085.ann	T17	Gene	710	716	CDKN2A
+15517085	pmid-15517085.ann	T19	Disease	849	854	tumor
+15517085	pmid-15517085.ann	T20	Gene	1321	1327	CDKN2B
+15517085	pmid-15517085.ann	T22	Gene	1487	1493	CDKN2B
+15517085	pmid-15517085.ann	T24	Gene	1500	1506	CDKN2A
+15517085	pmid-15517085.ann	T2	Disease	1517	1530	neuroblastoma
+15517085	pmid-15517085.ann	T4	Disease	1947	1975	enfermedad del neuroblastoma
+15834874	pmid-15834874.ann	T1	Gene	69	97	antígeno de la hepatitis B e
+15834874	pmid-15834874.ann	T2	Disease	141	160	hepatitis B crónica
+15834874	pmid-15834874.ann	T3	Gene	229	257	antígeno de la hepatitis B e
+15834874	pmid-15834874.ann	T4	Gene	259	264	HBeAg
+15834874	pmid-15834874.ann	T5	Disease	369	409	infección por el virus de la hepatitis B
+15834874	pmid-15834874.ann	T6	Gene	606	611	HBeAg
+15834874	pmid-15834874.ann	T7	Gene	788	793	HBeAg
+15834874	pmid-15834874.ann	T8	DNAMutation	989	994	G529A
+15834874	pmid-15834874.ann	T9	DNAMutation	1010	1015	C934A
+15834874	pmid-15834874.ann	T10	DNAMutation	1031	1037	A1053G
+15834874	pmid-15834874.ann	T11	DNAMutation	1053	1061	G1915T/A
+15834874	pmid-15834874.ann	T12	DNAMutation	1077	1085	T2005C/A
+15834874	pmid-15834874.ann	T13	DNAMutation	1102	1108	C3026T
+15834874	pmid-15834874.ann	T14	Gene	1325	1330	HBeAg
+15834874	pmid-15834874.ann	T15	Gene	1844	1849	HBeAg
+16419642	pmid-16419642.ann	T1	Gene	61	88	receptor mineralocorticoide
+16419642	pmid-16419642.ann	T2	Disease	92	103	hipertensos
+16419642	pmid-16419642.ann	T3	Gene	294	321	receptor mineralocorticoide
+16419642	pmid-16419642.ann	T4	Gene	323	325	MR
+16419642	pmid-16419642.ann	T5	Gene	344	349	NR3C2
+16419642	pmid-16419642.ann	T6	Disease	372	384	hipertensión
+16419642	pmid-16419642.ann	T7	Disease	583	595	hipertensión
+16419642	pmid-16419642.ann	T8	Disease	657	669	hipertensión
+16419642	pmid-16419642.ann	T9	Gene	712	714	MR
+16419642	pmid-16419642.ann	T11	Disease	865	886	hipertensión esencial
+16419642	pmid-16419642.ann	T12	Gene	1170	1172	MR
+16419642	pmid-16419642.ann	T13	Disease	1275	1286	hipertensos
+16419642	pmid-16419642.ann	T14	Disease	1479	1491	hipertensivo
+16419642	pmid-16419642.ann	T15	Gene	1781	1808	receptor mineralocorticoide
+16419642	pmid-16419642.ann	T16	Gene	1927	1929	MR
+16419642	pmid-16419642.ann	T10	Disease	1662	1674	hipertensión
+16822828	pmid-16822828.ann	T1	Disease	58	91	deficiencia de 17alfa-hidroxilasa
+16822828	pmid-16822828.ann	T2	Gene	233	238	CYP17
+16822828	pmid-16822828.ann	T3	Disease	264	297	deficiencia de 17alfa-hidroxilasa
+16822828	pmid-16822828.ann	T4	Disease	319	352	hiperplasia suprarrenal congénita
+16822828	pmid-16822828.ann	T5	Gene	386	391	CYP17
+16822828	pmid-16822828.ann	T6	Disease	449	482	deficiencia de 17alfa-hidroxilasa
+16822828	pmid-16822828.ann	T7	Disease	609	642	deficiencia de 17alfa-hidroxilasa
+16822828	pmid-16822828.ann	T8	Gene	818	823	CYP17
+16822828	pmid-16822828.ann	T9	OtherMutation	933	985	deleción de 8 pares de bases (TTAAATGG) en el exón 5
+16822828	pmid-16822828.ann	T10	Disease	1382	1415	deficiencia de 17alfa-hidroxilasa
+16822828	pmid-16822828.ann	T11	Gene	1669	1674	CYP17
+16822828	pmid-16822828.ann	T12	Gene	1865	1870	CYP17
+16822828	pmid-16822828.ann	T13	Disease	2068	2101	deficiencia de 17alfa-hidroxilasa
+16838170	pmid-16838170.ann	T1	Gene	55	64	HNF4alpha
+16838170	pmid-16838170.ann	T3	Disease	101	125	diabetes mellitus tipo 2
+16838170	pmid-16838170.ann	T4	Gene	214	223	HNF4alpha
+16838170	pmid-16838170.ann	T5	Gene	372	377	HNF4A
+16838170	pmid-16838170.ann	T6	Gene	392	401	HNF4alpha
+16838170	pmid-16838170.ann	T7	Disease	435	467	tolerancia a la glucosa alterada
+16838170	pmid-16838170.ann	T8	Disease	469	472	TGA
+16838170	pmid-16838170.ann	T9	Disease	476	500	diabetes mellitus tipo 2
+16838170	pmid-16838170.ann	T10	Disease	629	653	diabetes mellitus tipo 2
+16838170	pmid-16838170.ann	T11	Gene	749	754	HNF4A
+16838170	pmid-16838170.ann	T12	SNP	872	881	rs4810424
+16838170	pmid-16838170.ann	T13	SNP	883	892	rs1884614
+16838170	pmid-16838170.ann	T14	SNP	895	904	rs2144908
+16838170	pmid-16838170.ann	T15	SNP	997	1006	rs4810424
+16838170	pmid-16838170.ann	T16	SNP	1078	1087	rs4810424
+16838170	pmid-16838170.ann	T17	SNP	1460	1469	rs4810424
+16838170	pmid-16838170.ann	T18	SNP	1471	1480	rs2071197
+16838170	pmid-16838170.ann	T19	SNP	1483	1492	rs3818247
+16838170	pmid-16838170.ann	T20	Disease	1612	1636	diabetes mellitus tipo 2
+16838170	pmid-16838170.ann	T21	Gene	1758	1763	HNF4A
+16838170	pmid-16838170.ann	T22	Disease	1798	1822	diabetes mellitus tipo 2
+16838170	pmid-16838170.ann	T2	Gene	163	212	factor de transcripción hepatocito nuclear 4alpha
+16838170	pmid-16838170.ann	T23	Disease	1201	1209	diabetes
+16838170	pmid-16838170.ann	T24	Disease	1335	1345	tabaquismo
+16840830	pmid-16840830.ann	T1	Gene	43	47	MEN1
+16840830	pmid-16840830.ann	T2	Disease	63	98	neoplasia endocrina múltiple tipo 1
+16840830	pmid-16840830.ann	T3	Disease	151	155	MEN1
+16840830	pmid-16840830.ann	T5	Gene	290	294	MEN1
+16840830	pmid-16840830.ann	T6	Disease	323	327	MEN1
+16840830	pmid-16840830.ann	T7	Gene	360	364	MEN1
+16840830	pmid-16840830.ann	T8	Disease	426	454	hiperparatiroidismo primario
+16840830	pmid-16840830.ann	T9	Disease	456	460	HPTP
+16840830	pmid-16840830.ann	T10	Disease	467	479	prolactinoma
+16840830	pmid-16840830.ann	T11	Disease	641	658	dolor epigástrico
+16840830	pmid-16840830.ann	T13	Disease	778	822	tumor de células de los islotes pancreáticos
+16840830	pmid-16840830.ann	T14	Disease	860	872	prolactinoma
+16840830	pmid-16840830.ann	T15	Gene	907	911	MEN1
+16840830	pmid-16840830.ann	T16	Gene	1142	1146	MEN1
+16840830	pmid-16840830.ann	T19	Gene	1465	1469	MEN1
+16840830	pmid-16840830.ann	T20	Disease	114	149	neoplasia endocrina múltiple tipo 1
+16840830	pmid-16840830.ann	T4	Disease	176	243	adenomas paratiroideos, endocrinos enteropancreáticos y pituitarios
+16840830	pmid-16840830.ann	T21	Disease	509	513	HPTP
+16840830	pmid-16840830.ann	T12	Disease	661	675	diarrea acuosa
+16840830	pmid-16840830.ann	T22	NucleotideChange-BaseChange	1116	1125	AAG-->GAG
+16840830	pmid-16840830.ann	T17	NucleotideChange-BaseChange	1317	1326	GAC-->TAT
+16843501	pmid-16843501.ann	T2	Disease	43	58	cáncer gástrico
+16843501	pmid-16843501.ann	T3	Gene	108	113	hOGG1
+16843501	pmid-16843501.ann	T4	Gene	116	121	RAD51
+16843501	pmid-16843501.ann	T5	Gene	487	492	hOGG1
+16843501	pmid-16843501.ann	T6	Gene	555	560	RAD51
+16843501	pmid-16843501.ann	T7	Disease	742	760	cáncer de estómago
+16843501	pmid-16843501.ann	T8	Disease	977	992	cáncer gástrico
+16843501	pmid-16843501.ann	T9	Gene	1149	1154	hOGG1
+16843501	pmid-16843501.ann	T10	Gene	1157	1162	RAD51
+16843501	pmid-16843501.ann	T11	Gene	1215	1220	hOGG1
+16843501	pmid-16843501.ann	T12	Gene	1380	1385	RAD51
+16843501	pmid-16843501.ann	T13	DNAMutation	1403	1408	G135C
+16843501	pmid-16843501.ann	T17	Disease	1878	1893	cáncer gástrico
+16843501	pmid-16843501.ann	T18	DNAMutation	1992	1997	G135C
+16843501	pmid-16843501.ann	T19	Gene	2006	2011	RAD51
+16843501	pmid-16843501.ann	T20	Disease	2086	2104	cáncer de estómago
+16843501	pmid-16843501.ann	T21	Gene	2236	2241	hOGG1
+16843501	pmid-16843501.ann	T22	Disease	2247	2262	cáncer gástrico
+16843501	pmid-16843501.ann	T23	DNAMutation	2444	2449	G135C
+16843501	pmid-16843501.ann	T24	Gene	2458	2463	RAD51
+16843501	pmid-16843501.ann	T25	Disease	2495	2510	cáncer gástrico
+16843501	pmid-16843501.ann	T1	Disease	292	298	cáncer
+16843501	pmid-16843501.ann	T26	DNAMutation	1168	1206	transversión G → C en la posición 1245
+16843501	pmid-16843501.ann	T27	DNAMutation	1309	1345	sustitución G → C en la posición 135
+16849419	pmid-16849419.ann	T1	Gene	43	50	SLC34A3
+16849419	pmid-16849419.ann	T3	Disease	58	115	raquitismo hipofosfatémico hereditario con hipercalciuria
+16849419	pmid-16849419.ann	T5	Disease	200	204	HHRH
+16849419	pmid-16849419.ann	T6	Disease	212	232	trastorno metabólico
+16849419	pmid-16849419.ann	T7	Disease	257	271	hipofosfatemia
+16849419	pmid-16849419.ann	T8	Disease	285	297	osteomalacia
+16849419	pmid-16849419.ann	T9	Gene	482	489	SLC34A3
+16849419	pmid-16849419.ann	T11	Disease	586	590	HHRH
+16849419	pmid-16849419.ann	T12	Gene	676	683	SLC34A3
+16849419	pmid-16849419.ann	T13	Disease	835	839	HHRH
+16849419	pmid-16849419.ann	T14	OtherMutation	946	964	deleción de 101 pb
+16849419	pmid-16849419.ann	T15	Gene	1017	1024	SLC34A3
+16849419	pmid-16849419.ann	T16	Disease	1133	1137	HHRH
+16849419	pmid-16849419.ann	T17	OtherMutation	1177	1194	deleción de 85 pb
+16849419	pmid-16849419.ann	T18	NucleotideChange-BaseChange	1229	1234	G-a-A
+16849419	pmid-16849419.ann	T19	Disease	1536	1540	HHRH
+16849419	pmid-16849419.ann	T20	Gene	1588	1595	SLC34A3
+16849419	pmid-16849419.ann	T21	Disease	141	198	raquitismo hipofosfatémico hereditario con hipercalciuria
+16849419	pmid-16849419.ann	T22	Disease	274	284	raquitismo
+16849419	pmid-16849419.ann	T23	Disease	396	410	hipercalciuria
+16849419	pmid-16849419.ann	T10	Gene	1795	1802	SLC34A3
+16911351	pmid-16911351.ann	T1	Gene	56	60	DYT1
+16911351	pmid-16911351.ann	T2	Disease	85	102	distonía primaria
+16911351	pmid-16911351.ann	T3	Disease	261	278	distonía primaria
+16911351	pmid-16911351.ann	T4	Gene	314	318	DYT1
+16911351	pmid-16911351.ann	T5	Gene	546	550	DYT1
+16911351	pmid-16911351.ann	T6	DNAMutation	957	967	c.646G > C
+16911351	pmid-16911351.ann	T7	OtherMutation	1117	1133	deleción de 3 pb
+16911351	pmid-16911351.ann	T8	DNAMutation	1135	1148	904-906delGAG
+16911351	pmid-16911351.ann	T9	Gene	1224	1228	DYT1
+16911351	pmid-16911351.ann	T10	Disease	129	137	distonía
+16911351	pmid-16911351.ann	T11	Disease	144	168	trastorno del movimiento
+16911351	pmid-16911351.ann	T12	Disease	390	407	distonía primaria
+16911351	pmid-16911351.ann	T13	Disease	733	738	dolor
+16911351	pmid-16911351.ann	T14	Disease	743	750	temblor
+16911351	pmid-16911351.ann	T15	Disease	1282	1290	distonía
+16953235	pmid-16953235.ann	T1	Gene	49	80	receptor de péptido N-formilado
+16953235	pmid-16953235.ann	T2	Gene	118	132	beta-arrestina
+16953235	pmid-16953235.ann	T3	Disease	173	184	inflamación
+16953235	pmid-16953235.ann	T4	Gene	208	226	Formil-Met-Leu-Phe
+16953235	pmid-16953235.ann	T5	Gene	228	232	fMLP
+16953235	pmid-16953235.ann	T6	Gene	346	361	receptores fMLP
+16953235	pmid-16953235.ann	T7	Gene	363	366	FPR
+16953235	pmid-16953235.ann	T8	Gene	517	521	FPR1
+16953235	pmid-16953235.ann	T9	DNAMutation	546	553	c.32C>T
+16953235	pmid-16953235.ann	T10	Gene	641	645	FPR1
+16953235	pmid-16953235.ann	T11	DNAAllele	681	686	c.32T
+16953235	pmid-16953235.ann	T12	Gene	918	937	proteína C-reactiva
+16953235	pmid-16953235.ann	T13	Gene	1148	1152	FPR1
+16953235	pmid-16953235.ann	T14	Gene	1252	1256	FPR1
+16953235	pmid-16953235.ann	T15	Gene	1277	1281	FPR1
+16953235	pmid-16953235.ann	T16	Gene	1328	1343	beta-arrestina2
+16953235	pmid-16953235.ann	T17	Gene	1519	1523	FPR1
+16953235	pmid-16953235.ann	T18	Disease	1637	1650	inflamatorios
+16953235	pmid-16953235.ann	T19	Gene	1393	1419	N-acetil-D-glucosaminidasa
+17065190	pmid-17065190.ann	T1	Disease	11	23	Polimiositis
+17065190	pmid-17065190.ann	T2	Disease	24	39	dermatomiositis
+17065190	pmid-17065190.ann	T3	Gene	136	173	proteína quimiotáctica de monocitos-1
+17065190	pmid-17065190.ann	T5	Disease	229	241	polimiositis
+17065190	pmid-17065190.ann	T6	Disease	243	245	PM
+17065190	pmid-17065190.ann	T7	Disease	252	267	dermatomiositis
+17065190	pmid-17065190.ann	T8	Disease	269	271	DM
+17065190	pmid-17065190.ann	T9	Disease	293	328	miopatías inflamatorias idiopáticas
+17065190	pmid-17065190.ann	T10	Disease	330	333	IIM
+17065190	pmid-17065190.ann	T11	Gene	389	394	MCP-1
+17065190	pmid-17065190.ann	T12	Disease	434	446	inflamatoria
+17065190	pmid-17065190.ann	T13	Gene	537	542	MCP-1
+17065190	pmid-17065190.ann	T14	Disease	607	609	PM
+17065190	pmid-17065190.ann	T15	Disease	612	614	DM
+17065190	pmid-17065190.ann	T16	Disease	740	742	PM
+17065190	pmid-17065190.ann	T17	Disease	748	750	DM
+17065190	pmid-17065190.ann	T18	Gene	994	999	MCP-1
+17065190	pmid-17065190.ann	T19	SNP	1051	1060	rs2857657
+17065190	pmid-17065190.ann	T20	NucleotideChange-BaseChange	1062	1065	C/G
+17065190	pmid-17065190.ann	T21	SNP	1079	1085	rs4586
+17065190	pmid-17065190.ann	T22	NucleotideChange-BaseChange	1087	1090	A/G
+17065190	pmid-17065190.ann	T23	SNP	1122	1129	rs13900
+17065190	pmid-17065190.ann	T24	NucleotideChange-BaseChange	1131	1134	C/T
+17065190	pmid-17065190.ann	T25	SNP	1202	1211	rs3917887
+17065190	pmid-17065190.ann	T26	Disease	1686	1688	PM
+17065190	pmid-17065190.ann	T27	Disease	1691	1693	DM
+17065190	pmid-17065190.ann	T28	Disease	1736	1738	PM
+17065190	pmid-17065190.ann	T29	Disease	1741	1743	DM
+17065190	pmid-17065190.ann	T30	Gene	1803	1808	MCP-1
+17065190	pmid-17065190.ann	T31	Disease	1890	1892	PM
+17065190	pmid-17065190.ann	T32	Disease	1896	1898	DM
+17065190	pmid-17065190.ann	T34	Disease	467	470	IIM
+17065190	pmid-17065190.ann	T35	Disease	715	718	IIM
+17372760	pmid-17372760.ann	T1	Disease	11	39	Síndrome de Rothmund-Thomson
+17372760	pmid-17372760.ann	T2	Gene	113	119	RECQL4
+17372760	pmid-17372760.ann	T3	Gene	167	173	RECQL4
+17372760	pmid-17372760.ann	T4	Disease	231	236	RTSII
+17372760	pmid-17372760.ann	T5	Disease	271	319	retraso del crecimiento intrauterino y postnatal
+17372760	pmid-17372760.ann	T6	Disease	321	344	fallo en el crecimiento
+17372760	pmid-17372760.ann	T7	Disease	347	354	diarrea
+17372760	pmid-17372760.ann	T9	Disease	531	548	lesiones cutáneas
+17372760	pmid-17372760.ann	T10	Disease	630	652	manchas café con leche
+17372760	pmid-17372760.ann	T11	Disease	711	720	cataratas
+17372760	pmid-17372760.ann	T12	Disease	772	803	ausencia de anomalía del pulgar
+17372760	pmid-17372760.ann	T13	Disease	806	834	luxación de la cabeza radial
+17372760	pmid-17372760.ann	T14	Disease	840	858	hipoplasia patelar
+17372760	pmid-17372760.ann	T15	Gene	1069	1075	RECQL4
+17372760	pmid-17372760.ann	T16	Disease	1103	1132	síndromes de Rothmund-Thomson
+17372760	pmid-17372760.ann	T17	Disease	1134	1144	RAPADILINO
+17372760	pmid-17372760.ann	T18	DNAMutation	1211	1221	IVS10-1G>A
+17372760	pmid-17372760.ann	T19	Gene	1481	1487	RECQL4
+17372760	pmid-17372760.ann	T20	Disease	1657	1667	RAPADILINO
+17372760	pmid-17372760.ann	T21	Gene	1872	1878	RECQL4
+17372760	pmid-17372760.ann	T8	Disease	1147	1160	Baller-Gerold
+17372760	pmid-17372760.ann	T22	OtherMutation	1229	1269	sustitución de nucleótidos en el exón 12
+17372760	pmid-17372760.ann	T23	Disease	1670	1686	Rothmund-Thomson
+17372760	pmid-17372760.ann	T24	Gene	2024	2030	RECQL4
+17635946	pmid-17635946.ann	T1	Gene	98	126	receptor de glucocorticoides
+17635946	pmid-17635946.ann	T2	Disease	613	647	resistencia a los glucocorticoides
+17635946	pmid-17635946.ann	T3	Gene	691	719	receptor de glucocorticoides
+17635946	pmid-17635946.ann	T4	Gene	728	731	hGR
+17635946	pmid-17635946.ann	T5	Gene	1025	1028	hGR
+17635946	pmid-17635946.ann	T6	Gene	1649	1705	proteína coactivadora 1 del receptor de glucocorticoides
+17635946	pmid-17635946.ann	T7	Gene	1816	1823	hGRalfa
+17635946	pmid-17635946.ann	T8	Gene	2137	2193	proteína coactivadora 1 del receptor de glucocorticoides
+17635946	pmid-17635946.ann	T9	Disease	144	191	resistencia generalizada a los glucocorticoides
+17635946	pmid-17635946.ann	T10	Disease	221	268	resistencia generalizada a los glucocorticoides
+17635946	pmid-17635946.ann	T11	Gene	416	444	hormona adrenocorticotrópica
+17635946	pmid-17635946.ann	T12	Disease	1951	1998	resistencia generalizada a los glucocorticoides
+17635946	pmid-17635946.ann	T13	DNAMutation	926	1003	sustitución de nucleótidos (T --> C) heterocigota, única, en la posición 2209
+17641158	pmid-17641158.ann	T1	Gene	59	64	BMPR2
+17641158	pmid-17641158.ann	T3	Disease	140	179	hipertensión arterial pulmonar familiar
+17641158	pmid-17641158.ann	T4	Gene	237	242	BMPR2
+17641158	pmid-17641158.ann	T5	Gene	609	614	BMPR2
+17641158	pmid-17641158.ann	T6	Gene	1219	1224	BMPR2
+17641158	pmid-17641158.ann	T7	Gene	1950	1955	BMPR2
+17641158	pmid-17641158.ann	T8	Gene	2097	2102	BMPR2
+17641158	pmid-17641158.ann	T9	Disease	2178	2208	hipertensión arterial pulmonar
+17641158	pmid-17641158.ann	T10	Disease	89	110	hipertensión pulmonar
+17671735	pmid-17671735.ann	T1	Gene	128	132	GJB2
+17671735	pmid-17671735.ann	T3	Disease	162	216	pérdida auditiva sensorioneural hereditaria prelingual
+17671735	pmid-17671735.ann	T4	Disease	471	487	pérdida auditiva
+17671735	pmid-17671735.ann	T5	Gene	557	561	GJB2
+17671735	pmid-17671735.ann	T6	Gene	607	611	GJB2
+17671735	pmid-17671735.ann	T7	Disease	617	633	pérdida auditiva
+17671735	pmid-17671735.ann	T8	Gene	704	708	GJB6
+17671735	pmid-17671735.ann	T9	Gene	711	715	GJB3
+17671735	pmid-17671735.ann	T10	Gene	753	757	GJB2
+17671735	pmid-17671735.ann	T11	Gene	836	840	GJB2
+17671735	pmid-17671735.ann	T12	Gene	925	929	GJB2
+17671735	pmid-17671735.ann	T13	Gene	1052	1056	GJB2
+17671735	pmid-17671735.ann	T14	Gene	1092	1096	GJB6
+17671735	pmid-17671735.ann	T16	Gene	1175	1179	GJB3
+17671735	pmid-17671735.ann	T17	DNAMutation	1181	1189	c.357C>T
+17671735	pmid-17671735.ann	T18	DNAMutation	1191	1199	c.798C>T
+17671735	pmid-17671735.ann	T19	DNAMutation	1202	1209	c.94C>T
+17671735	pmid-17671735.ann	T20	DNAMutation	1387	1395	c.35delG
+17671735	pmid-17671735.ann	T2	DNAMutation	894	902	-3170G>A
+17671735	pmid-17671735.ann	T21	DNAMutation	987	995	-3170G>A
+17671735	pmid-17671735.ann	T15	DNAMutation	1348	1356	-3170G>A
+17671968	pmid-17671968.ann	T1	Disease	42	75	síndrome de Gilles de la Tourette
+17671968	pmid-17671968.ann	T2	Gene	98	102	Robo
+17671968	pmid-17671968.ann	T3	Gene	103	107	Slit
+17671968	pmid-17671968.ann	T4	Disease	183	216	síndrome de Gilles de la Tourette
+17671968	pmid-17671968.ann	T5	Disease	218	221	GTS
+17671968	pmid-17671968.ann	T6	Disease	229	268	trastorno neuropsiquiátrico hereditario
+17671968	pmid-17671968.ann	T7	Disease	303	325	tics motores y fónicos
+17671968	pmid-17671968.ann	T8	Disease	406	409	GTS
+17671968	pmid-17671968.ann	T9	Disease	517	520	GTS
+17671968	pmid-17671968.ann	T10	Gene	554	559	ROBO3
+17671968	pmid-17671968.ann	T11	Gene	562	567	ROBO4
+17671968	pmid-17671968.ann	T12	Gene	645	652	SLITRK1
+17671968	pmid-17671968.ann	T13	Disease	697	700	GTS
+17671968	pmid-17671968.ann	T14	Gene	800	807	SLITRK1
+17671968	pmid-17671968.ann	T15	Disease	830	833	GTS
+17671968	pmid-17671968.ann	T16	Gene	862	869	SLITRK1
+17671968	pmid-17671968.ann	T17	Disease	908	911	GTS
+17671968	pmid-17671968.ann	T18	Disease	1007	1010	GTS
+17671968	pmid-17671968.ann	T19	Gene	1063	1067	Slit
+17671968	pmid-17671968.ann	T20	Gene	1068	1072	Robo
+17671968	pmid-17671968.ann	T21	Disease	1262	1265	GTS
+17671968	pmid-17671968.ann	T22	Gene	1362	1367	ROBO3
+17671968	pmid-17671968.ann	T23	Gene	1382	1387	ROBO4
+17671968	pmid-17671968.ann	T24	Disease	1475	1478	GTS
+17671968	pmid-17671968.ann	T25	Disease	1587	1590	GTS
+17671968	pmid-17671968.ann	T26	Gene	1603	1608	ROBO3
+17671968	pmid-17671968.ann	T27	Gene	1611	1616	ROBO4
+17671968	pmid-17671968.ann	T28	Disease	1721	1724	GTS
+17683901	pmid-17683901.ann	T1	Gene	84	89	FGFR3
+17683901	pmid-17683901.ann	T3	Disease	114	127	acondroplasia
+17683901	pmid-17683901.ann	T4	Disease	182	190	enanismo
+17683901	pmid-17683901.ann	T5	DNAMutation	306	364	sustitución G a A o G a C en la posición nucleotídica 1138
+17683901	pmid-17683901.ann	T6	Gene	387	439	receptor 3 del factor de crecimiento de fibroblastos
+17683901	pmid-17683901.ann	T7	Gene	441	446	FGFR3
+17683901	pmid-17683901.ann	T8	DNAMutation	558	567	c.1138G>A
+17683901	pmid-17683901.ann	T9	DNAMutation	573	582	c.1138G>C
+17683901	pmid-17683901.ann	T10	DNAMutation	681	690	c.1138G>A
+17683901	pmid-17683901.ann	T11	DNAMutation	1080	1089	c.1138G>A
+17683901	pmid-17683901.ann	T12	Gene	1272	1277	FGFR3
+17683901	pmid-17683901.ann	T13	Disease	143	156	acondroplasia
+17683901	pmid-17683901.ann	T14	Disease	925	938	acondroplasia
+17683901	pmid-17683901.ann	T15	Disease	984	997	acondroplasia
+17710578	pmid-17710578.ann	T1	Gene	97	100	ACE
+17710578	pmid-17710578.ann	T2	Gene	148	152	AT1R
+17710578	pmid-17710578.ann	T3	Disease	174	186	preeclampsia
+17710578	pmid-17710578.ann	T4	Gene	310	313	ACE
+17710578	pmid-17710578.ann	T5	Gene	365	369	AT1R
+17710578	pmid-17710578.ann	T6	Disease	410	422	preeclampsia
+17710578	pmid-17710578.ann	T7	Disease	457	469	preeclampsia
+17710578	pmid-17710578.ann	T9	Disease	537	549	preeclampsia
+17710578	pmid-17710578.ann	T10	Gene	611	614	ACE
+17710578	pmid-17710578.ann	T11	DNAMutation	689	695	A1166C
+17710578	pmid-17710578.ann	T12	Gene	704	708	AT1R
+17710578	pmid-17710578.ann	T14	Gene	893	896	ACE
+17710578	pmid-17710578.ann	T15	Gene	899	903	AT1R
+17710578	pmid-17710578.ann	T16	Gene	952	955	ACE
+17710578	pmid-17710578.ann	T17	Gene	966	970	AT1R
+17710578	pmid-17710578.ann	T18	Disease	1076	1087	proteinuria
+17710578	pmid-17710578.ann	T19	Disease	1281	1292	proteinuria
+17710578	pmid-17710578.ann	T20	Gene	1375	1379	AT1R
+17710578	pmid-17710578.ann	T21	Disease	1418	1434	disfunción renal
+17710578	pmid-17710578.ann	T22	Gene	1483	1486	ACE
+17710578	pmid-17710578.ann	T23	Disease	1519	1535	disfunción renal
+17710578	pmid-17710578.ann	T24	Gene	1729	1732	ACE
+17710578	pmid-17710578.ann	T25	Disease	1761	1772	proteinuria
+17710578	pmid-17710578.ann	T26	Disease	1784	1800	disfunción renal
+17710578	pmid-17710578.ann	T27	Disease	1913	1929	disfunción renal
+17710578	pmid-17710578.ann	T28	Gene	50	95	gen de la enzima convertidora de angiotensina
+17710578	pmid-17710578.ann	T29	Gene	263	308	gen de la enzima convertidora de angiotensina
+17710578	pmid-17710578.ann	T30	Gene	321	363	gen del receptor tipo 1 de angiotensina II
+17710578	pmid-17710578.ann	T13	Disease	989	1001	preeclampsia
+17710578	pmid-17710578.ann	T31	Disease	788	799	proteinuria
+17710578	pmid-17710578.ann	T32	Gene	1586	1590	AT1R
+17710578	pmid-17710578.ann	T33	Disease	1817	1829	preeclampsia
+17710578	pmid-17710578.ann	T34	Disease	1849	1861	preeclampsia
+17868390	pmid-17868390.ann	T1	Gene	30	35	DFNA5
+17868390	pmid-17868390.ann	T2	DNAMutation	37	47	IVS8+4 A>G
+17868390	pmid-17868390.ann	T4	Disease	100	133	pérdida de audición no sindrómica
+17868390	pmid-17868390.ann	T6	Disease	289	322	pérdida de audición sensorineural
+17868390	pmid-17868390.ann	T7	Disease	428	447	pérdida de audición
+17868390	pmid-17868390.ann	T8	Gene	606	611	DFNA5
+17868390	pmid-17868390.ann	T9	Gene	734	739	DFNA5
+17868390	pmid-17868390.ann	T10	DNAMutation	782	792	IVS8+4 A>G
+17868390	pmid-17868390.ann	T11	DNAMutation	1176	1186	IVS8+4 A>G
+17868390	pmid-17868390.ann	T12	Gene	1307	1312	DFNA5
+17868390	pmid-17868390.ann	T13	Gene	1404	1409	DFNA5
+17868390	pmid-17868390.ann	T14	Gene	1610	1615	DFNA5
+17876530	pmid-17876530.ann	T2	Gene	402	406	CCR5
+17876530	pmid-17876530.ann	T3	OtherMutation	411	428	deleción de 32 pb
+17876530	pmid-17876530.ann	T6	Gene	530	537	DC-SIGN
+17876530	pmid-17876530.ann	T7	Gene	587	595	DC-SIGNR
+17876530	pmid-17876530.ann	T8	Disease	766	775	infección
+17876530	pmid-17876530.ann	T9	Gene	889	896	DC-SIGN
+17876530	pmid-17876530.ann	T10	Gene	899	907	DC-SIGNR
+17876530	pmid-17876530.ann	T11	Disease	923	942	infección por VIH-1
+17876530	pmid-17876530.ann	T12	Disease	1227	1247	infectados con VIH-1
+17876530	pmid-17876530.ann	T13	Gene	1317	1324	DC-SIGN
+17876530	pmid-17876530.ann	T14	Gene	1327	1335	DC-SIGNR
+17876530	pmid-17876530.ann	T15	Gene	1354	1361	DC-SIGN
+17876530	pmid-17876530.ann	T16	Gene	1364	1372	DC-SIGNR
+17876530	pmid-17876530.ann	T17	Gene	1642	1649	DC-SIGN
+17876530	pmid-17876530.ann	T18	Gene	1877	1884	DC-SIGN
+17876530	pmid-17876530.ann	T19	Gene	1995	2003	DC-SIGNR
+17876530	pmid-17876530.ann	T20	Disease	2104	2123	infección por VIH-1
+17876530	pmid-17876530.ann	T1	Gene	69	77	DC-SIGNR
+17994380	pmid-17994380.ann	T1	Disease	32	43	talasémicas
+17994380	pmid-17994380.ann	T2	Disease	152	155	tal
+17994380	pmid-17994380.ann	T3	Gene	103	115	beta-globina
+17994380	pmid-17994380.ann	T4	Disease	131	150	deltabeta-talasemia
+17994380	pmid-17994380.ann	T5	Gene	343	355	beta-globina
+17994380	pmid-17994380.ann	T6	Disease	402	415	deltabeta-tal
+17994380	pmid-17994380.ann	T7	Disease	1779	1792	deltabeta-tal
+18036257	pmid-18036257.ann	T1	Disease	196	208	osteoporosis
+18036257	pmid-18036257.ann	T3	Disease	591	603	osteoporosis
+18036257	pmid-18036257.ann	T4	Disease	875	887	osteoporosis
+18036257	pmid-18036257.ann	T5	Disease	277	292	fragilidad ósea
+18036257	pmid-18036257.ann	T6	Disease	490	512	fractura osteoporótica
+18036257	pmid-18036257.ann	T7	Disease	2575	2587	osteoporosis
+18166824	pmid-18166824.ann	T1	Disease	75	98	fallo ovárico prematuro
+18166824	pmid-18166824.ann	T2	Gene	252	256	DMC1
+18166824	pmid-18166824.ann	T3	Gene	271	275	MutS
+18166824	pmid-18166824.ann	T4	Gene	277	281	MSH4
+18166824	pmid-18166824.ann	T5	Gene	284	288	MSH5
+18166824	pmid-18166824.ann	T6	Gene	318	323	SPO11
+18166824	pmid-18166824.ann	T7	Disease	351	374	fallo ovárico prematuro
+18166824	pmid-18166824.ann	T8	Disease	376	379	FOP
+18166824	pmid-18166824.ann	T9	Disease	696	699	FOP
+18166824	pmid-18166824.ann	T10	Gene	867	871	MSH5
+18166824	pmid-18166824.ann	T11	Disease	924	927	FOP
+18166824	pmid-18166824.ann	T12	Gene	1293	1297	DMC1
+18166824	pmid-18166824.ann	T13	Gene	1480	1484	DMC1
+18166824	pmid-18166824.ann	T14	Gene	1560	1564	MSH5
+18166824	pmid-18166824.ann	T15	Gene	1721	1725	MSH5
+18166824	pmid-18166824.ann	T16	Gene	1728	1732	DMC1
+18166824	pmid-18166824.ann	T17	Disease	1150	1153	FOP
+18166824	pmid-18166824.ann	T18	Disease	1227	1230	FOP
+18166824	pmid-18166824.ann	T19	Disease	1768	1771	FOP
+18827003	pmid-18827003.ann	T1	Gene	79	107	receptor de glucocorticoides
+18827003	pmid-18827003.ann	T2	Gene	116	119	hGR
+18827003	pmid-18827003.ann	T3	Gene	165	168	hGR
+18827003	pmid-18827003.ann	T4	Gene	400	428	receptor de glucocorticoides
+18827003	pmid-18827003.ann	T5	Gene	437	440	hGR
+18827003	pmid-18827003.ann	T6	Disease	525	542	hipersensibilidad
+18827003	pmid-18827003.ann	T7	Gene	693	696	hGR
+18827003	pmid-18827003.ann	T8	Gene	1711	1749	genes sensibles a los glucocorticoides
+18827003	pmid-18827003.ann	T9	Disease	1822	1830	obesidad
+18827003	pmid-18827003.ann	T10	Disease	1835	1847	hipertensión
+18827003	pmid-18827003.ann	T11	Disease	1876	1895	síndrome metabólico
+18827003	pmid-18827003.ann	T12	DNAMutation	609	675	sustitución de nucleótido heterocigota (G → C) en la posición 1201
+18827003	pmid-18827003.ann	T13	Gene	812	816	hGRα
+18827003	pmid-18827003.ann	T14	Gene	950	954	hGRα
+18827003	pmid-18827003.ann	T15	Gene	1595	1623	receptor de glucocorticoides
+18838613	pmid-18838613.ann	T1	Gene	42	48	CDKN2A
+18838613	pmid-18838613.ann	T3	Gene	283	289	CDKN2A
+18838613	pmid-18838613.ann	T4	Disease	391	419	leucemia linfoblástica aguda
+18838613	pmid-18838613.ann	T5	Gene	1242	1246	ETV6
+18838613	pmid-18838613.ann	T6	Gene	1247	1252	RUNX1
+18838613	pmid-18838613.ann	T7	Gene	1277	1280	MLL
+18838613	pmid-18838613.ann	T8	Gene	1396	1400	TLX3
+18838613	pmid-18838613.ann	T9	Gene	1403	1407	TLX1
+18838613	pmid-18838613.ann	T10	Gene	1492	1498	CDKN2A
+18838613	pmid-18838613.ann	T11	Gene	1667	1673	CDKN2A
+18838613	pmid-18838613.ann	T12	Gene	1848	1854	CDKN2A
+18838613	pmid-18838613.ann	T13	Disease	55	92	leucemia linfoblástica aguda infantil
+18838613	pmid-18838613.ann	T2	Disease	421	424	LLA
+18838613	pmid-18838613.ann	T14	Disease	599	602	LLA
+18838613	pmid-18838613.ann	T15	Disease	664	667	LLA
+18838613	pmid-18838613.ann	T16	Disease	1549	1552	LLA
+18945288	pmid-18945288.ann	T1	Gene	36	39	HGD
+18945288	pmid-18945288.ann	T2	Disease	59	71	alcaptonuria
+18945288	pmid-18945288.ann	T3	Disease	176	188	alcaptonuria
+18945288	pmid-18945288.ann	T4	Gene	859	862	HGD
+18945288	pmid-18945288.ann	T5	Disease	1310	1325	dolor articular
+18945288	pmid-18945288.ann	T6	DNAMutation	1458	1467	c.342delA
+18945288	pmid-18945288.ann	T7	Disease	1584	1596	alcaptonuria
+19012332	pmid-19012332.ann	T1	Gene	43	47	TP53
+19012332	pmid-19012332.ann	T2	Disease	67	90	síndrome de Li-Fraumeni
+19012332	pmid-19012332.ann	T3	Disease	152	174	adenoma adrenocortical
+19012332	pmid-19012332.ann	T4	Disease	199	211	osteosarcoma
+19012332	pmid-19012332.ann	T5	Disease	251	257	cáncer
+19012332	pmid-19012332.ann	T6	Disease	338	361	síndrome de Li-Fraumeni
+19012332	pmid-19012332.ann	T7	Disease	363	366	LFS
+19012332	pmid-19012332.ann	T8	Gene	444	448	TP53
+19012332	pmid-19012332.ann	T9	Gene	1682	1686	TP53
+19012332	pmid-19012332.ann	T10	Gene	1789	1793	TP53
+19012332	pmid-19012332.ann	T11	Disease	1797	1800	LFS
+19012332	pmid-19012332.ann	T12	Disease	313	320	tumores
+19012332	pmid-19012332.ann	T13	Disease	1545	1574	tumores de origen mesodérmico
+19037252	pmid-19037252.ann	T2	Disease	87	114	esclerosis mesangial difusa
+19037252	pmid-19037252.ann	T3	Disease	130	157	esclerosis mesangial difusa
+19037252	pmid-19037252.ann	T5	Gene	308	313	PLCE1
+19037252	pmid-19037252.ann	T6	Disease	470	497	esclerosis mesangial difusa
+19037252	pmid-19037252.ann	T7	Disease	514	553	síndrome nefrótico congénito o infantil
+19037252	pmid-19037252.ann	T8	Gene	598	603	PLCE1
+19037252	pmid-19037252.ann	T9	Gene	627	635	KIAA1516
+19037252	pmid-19037252.ann	T10	Gene	637	641	PLCE
+19037252	pmid-19037252.ann	T11	Gene	644	649	NPHS3
+19037252	pmid-19037252.ann	T12	OtherMutation	768	801	deleción de cuatro pares de bases
+19037252	pmid-19037252.ann	T13	Gene	1110	1115	PLCE1
+19037252	pmid-19037252.ann	T1	Disease	1153	1180	esclerosis mesangial difusa
+19047089	pmid-19047089.ann	T2	Gene	95	102	BRCA1/2
+19047089	pmid-19047089.ann	T3	Gene	184	188	BRCA
+19047089	pmid-19047089.ann	T4	Disease	268	320	cánceres ováricos asociados a BRCA y los esporádicos
+19047089	pmid-19047089.ann	T9	Disease	960	998	tumores asociados a BRCA y esporádicos
+19047089	pmid-19047089.ann	T13	Gene	1500	1504	BRCA
+19047089	pmid-19047089.ann	T18	Disease	1937	1989	cánceres ováricos asociados a BRCA y los esporádicos
+19047089	pmid-19047089.ann	T20	Disease	63	82	carcinomas ováricos
+19047089	pmid-19047089.ann	T1	Disease	1060	1109	carcinomas ováricos serosos papilares esporádicos
+19047089	pmid-19047089.ann	T7	Disease	510	546	cáncer ovárico seroso papilar fresco
+19047089	pmid-19047089.ann	T6	Disease	1279	1298	tumores esporádicos
+19047089	pmid-19047089.ann	T8	Disease	1871	1885	cáncer ovárico
+19047089	pmid-19047089.ann	T14	Disease	2016	2041	tumores serosos papilares
+19047089	pmid-19047089.ann	T5	Disease	815	834	disomía uniparental
+19047089	pmid-19047089.ann	T10	Disease	836	839	UPD
+19047089	pmid-19047089.ann	T15	Disease	1601	1604	UPD
+19047089	pmid-19047089.ann	T17	Disease	934	953	anomalías genómicas
+19047089	pmid-19047089.ann	T19	Disease	1028	1052	tumores asociados a BRCA
+19047089	pmid-19047089.ann	T11	Disease	1210	1234	tumores asociados a BRCA
+19047089	pmid-19047089.ann	T12	Disease	1639	1642	UPD
+19047089	pmid-19047089.ann	T21	Disease	1661	1685	tumores asociados a BRCA
+19047089	pmid-19047089.ann	T16	Disease	1705	1724	tumores esporádicos
+19047089	pmid-19047089.ann	T22	Disease	1826	1829	UPD
+19047089	pmid-19047089.ann	T23	Disease	40	59	disomía uniparental
+19048115	pmid-19048115.ann	T1	Gene	41	44	NF1
+19048115	pmid-19048115.ann	T2	Disease	61	88	carcinomas serosos ováricos
+19048115	pmid-19048115.ann	T3	Gene	128	132	TP53
+19048115	pmid-19048115.ann	T4	Disease	174	177	OSC
+19048115	pmid-19048115.ann	T5	Disease	223	251	malignidad epitelial ovárica
+19048115	pmid-19048115.ann	T6	Gene	267	271	TP53
+19048115	pmid-19048115.ann	T8	Gene	322	327	Brca1
+19048115	pmid-19048115.ann	T9	Gene	332	337	Brca2
+19048115	pmid-19048115.ann	T10	Disease	410	414	OSCs
+19048115	pmid-19048115.ann	T12	Disease	618	622	OSCs
+19048115	pmid-19048115.ann	T13	Gene	709	712	NF1
+19048115	pmid-19048115.ann	T15	Disease	776	793	carcinoma ovárico
+19048115	pmid-19048115.ann	T16	Disease	799	803	OSCs
+19048115	pmid-19048115.ann	T17	Gene	835	838	NF1
+19048115	pmid-19048115.ann	T18	Gene	899	902	Nf1
+19048115	pmid-19048115.ann	T19	Gene	1053	1056	NF1
+19048115	pmid-19048115.ann	T20	Disease	1341	1345	OSCs
+19048115	pmid-19048115.ann	T21	Gene	1456	1460	KRAS
+19048115	pmid-19048115.ann	T22	Gene	1463	1467	BRAF
+19048115	pmid-19048115.ann	T26	Gene	1675	1679	TP53
+19048115	pmid-19048115.ann	T27	Disease	1707	1711	OSCs
+19048115	pmid-19048115.ann	T29	Gene	23	39	neurofibromina 1
+19048115	pmid-19048115.ann	T30	Disease	148	172	carcinoma seroso ovárico
+19048115	pmid-19048115.ann	T7	Gene	1139	1142	NF1
+19048115	pmid-19048115.ann	T11	Gene	1202	1205	NF1
+19048115	pmid-19048115.ann	T31	Gene	1259	1262	NF1
+19048115	pmid-19048115.ann	T32	Gene	1426	1429	NF1
+19048115	pmid-19048115.ann	T23	Gene	1740	1743	NF1
+19048115	pmid-19048115.ann	T24	Disease	1865	1910	carcinomas ováricos con diferenciación serosa
+19067809	pmid-19067809.ann	T5	Gene	321	348	transportador de serotonina
+19067809	pmid-19067809.ann	T7	Disease	489	506	síncope vasovagal
+19067809	pmid-19067809.ann	T8	Gene	719	753	enzima convertidor de angiotensina
+19067809	pmid-19067809.ann	T9	Gene	759	762	ACE
+19067809	pmid-19067809.ann	T10	Gene	792	808	angiotensinógeno
+19067809	pmid-19067809.ann	T11	Gene	835	869	receptor tipo 1 de angiotensina II
+19067809	pmid-19067809.ann	T12	Gene	871	875	ATR1
+19067809	pmid-19067809.ann	T13	DNAMutation	878	886	A 11666C
+19067809	pmid-19067809.ann	T14	Gene	907	934	transportador de serotonina
+19067809	pmid-19067809.ann	T15	Gene	936	943	5HTTLPR
+19067809	pmid-19067809.ann	T16	DNAMutation	1276	1283	A 1166C
+19067809	pmid-19067809.ann	T17	DNAMutation	1981	1988	A 1166C
+19067809	pmid-19067809.ann	T18	Gene	1999	2003	ATR1
+19067809	pmid-19067809.ann	T19	Disease	2170	2187	síncope vasovagal
+19067809	pmid-19067809.ann	T1	OtherMutation	755	758	I/D
+19067809	pmid-19067809.ann	T2	DNAAllele	1247	1258	genotipo AA
+19067809	pmid-19067809.ann	T3	DNAAllele	1611	1622	genotipo AA
+19067809	pmid-19067809.ann	T4	DNAAllele	1952	1963	genotipo AA
+19218574	pmid-19218574.ann	T1	Gene	69	76	p85alfa
+19218574	pmid-19218574.ann	T2	Gene	83	111	Fosfatidilinositol 3-quinasa
+19218574	pmid-19218574.ann	T3	Disease	127	158	síndrome de ovario poliquístico
+19218574	pmid-19218574.ann	T4	Disease	188	213	Resistencia a la insulina
+19218574	pmid-19218574.ann	T6	Disease	248	279	síndrome de ovario poliquístico
+19218574	pmid-19218574.ann	T7	Disease	281	284	SOP
+19218574	pmid-19218574.ann	T8	Gene	290	323	Fosfatidilinositol (PI) 3-quinasa
+19218574	pmid-19218574.ann	T10	Gene	511	518	p85alfa
+19218574	pmid-19218574.ann	T11	Gene	669	676	p85alfa
+19218574	pmid-19218574.ann	T12	Gene	682	693	PI3-quinasa
+19218574	pmid-19218574.ann	T13	Disease	799	802	SOP
+19218574	pmid-19218574.ann	T14	Disease	981	984	SOP
+19218574	pmid-19218574.ann	T15	Disease	1139	1142	SOP
+19218574	pmid-19218574.ann	T16	Disease	1194	1197	SOP
+19218574	pmid-19218574.ann	T17	Gene	1921	1932	PI3-quinasa
+19218574	pmid-19218574.ann	T18	Disease	1996	1999	SOP
+19218574	pmid-19218574.ann	T19	Disease	2095	2098	SOP
+20143913	pmid-20143913.ann	T1	Gene	53	78	gen de la arilsulfatasa B
+20143913	pmid-20143913.ann	T2	Disease	125	152	mucopolisacaridosis tipo VI
+20143913	pmid-20143913.ann	T3	Gene	268	293	gen de la arilsulfatasa B
+20143913	pmid-20143913.ann	T4	Gene	295	299	ARSB
+20143913	pmid-20143913.ann	T5	Disease	320	347	mucopolisacaridosis tipo VI
+20143913	pmid-20143913.ann	T6	Gene	470	474	ARSB
+20143913	pmid-20143913.ann	T7	DNAMutation	515	528	c.899-1142del
+20143913	pmid-20143913.ann	T8	Gene	755	759	ARSB
+20143913	pmid-20143913.ann	T9	DNAMutation	829	846	g.99367-102002del
+20854438	pmid-20854438.ann	T1	Gene	23	29	SLURP1
+20854438	pmid-20854438.ann	T2	Disease	87	100	mal de Meleda
+20854438	pmid-20854438.ann	T4	Disease	145	148	MDM
+20854438	pmid-20854438.ann	T5	Disease	157	189	eritroqueratodermia palmoplantar
+20854438	pmid-20854438.ann	T13	Gene	734	740	SLURP1
+20854438	pmid-20854438.ann	T14	Disease	808	816	melanoma
+20854438	pmid-20854438.ann	T15	Disease	821	840	infecciones virales
+20854438	pmid-20854438.ann	T16	Gene	1022	1028	SLURP1
+20854438	pmid-20854438.ann	T17	Disease	1089	1092	MDM
+20854438	pmid-20854438.ann	T19	Disease	1258	1261	MDM
+20854438	pmid-20854438.ann	T20	DNAMutation	1277	1317	sustitución G por A en el nucleótido 256
+20854438	pmid-20854438.ann	T21	Gene	1326	1332	SLURP1
+20854438	pmid-20854438.ann	T22	Gene	1437	1444	SLURP-1
+20854438	pmid-20854438.ann	T27	Disease	1883	1886	MDM
+20854438	pmid-20854438.ann	T28	Gene	1917	1924	SLURP-1
+20854438	pmid-20854438.ann	T29	Gene	1999	2006	SLURP-1
+20854438	pmid-20854438.ann	T30	Disease	130	143	mal de Meleda
+20854438	pmid-20854438.ann	T6	Disease	923	961	trastorno de la homeostasis epidérmica
+20854438	pmid-20854438.ann	T7	Gene	1700	1707	SLURP-1
+20854438	pmid-20854438.ann	T8	Gene	1842	1849	SLURP-1
+20854438	pmid-20854438.ann	T9	Gene	281	288	SLURP-1
+20854438	pmid-20854438.ann	T10	Gene	1105	1112	SLURP-1
+20884631	pmid-20884631.ann	T1	Gene	36	44	TNFRSF14
+20884631	pmid-20884631.ann	T2	Disease	48	65	linfoma folicular
+20884631	pmid-20884631.ann	T3	Disease	210	227	linfoma folicular
+20884631	pmid-20884631.ann	T4	Disease	229	231	LF
+20884631	pmid-20884631.ann	T5	Disease	404	406	LF
+20884631	pmid-20884631.ann	T6	Gene	862	870	TNFRSF14
+20884631	pmid-20884631.ann	T7	Gene	1041	1049	TNFRSF14
+20884631	pmid-20884631.ann	T8	Gene	1175	1183	TNFRSF14
+20884631	pmid-20884631.ann	T9	Disease	1334	1342	linfomas
+20884631	pmid-20884631.ann	T10	Gene	1370	1378	TNFRSF14
+20884631	pmid-20884631.ann	T11	Gene	1659	1667	TNFRSF14
+20884631	pmid-20884631.ann	T12	Disease	1721	1723	LF
+20884631	pmid-20884631.ann	T13	OtherMutation	454	477	97 kb dentro de 1p36.32
+20887110	pmid-20887110.ann	T2	Disease	94	118	defectos del tubo neural
+20887110	pmid-20887110.ann	T3	Disease	145	169	defectos del tubo neural
+20887110	pmid-20887110.ann	T4	Disease	191	216	malformaciones congénitas
+20887110	pmid-20887110.ann	T6	Gene	538	543	MTHFR
+20887110	pmid-20887110.ann	T7	Gene	883	888	MTHFR
+20887110	pmid-20887110.ann	T8	Gene	1283	1288	MTHFR
+20887110	pmid-20887110.ann	T9	DNAMutation	1289	1294	C677T
+20887110	pmid-20887110.ann	T10	Gene	1614	1619	MTHFR
+20887110	pmid-20887110.ann	T11	Gene	2001	2006	MTHFR
+20887110	pmid-20887110.ann	T12	DNAAllele	2007	2012	677TT
+20887110	pmid-20887110.ann	T13	Gene	2251	2256	MTHFR
+20887110	pmid-20887110.ann	T14	Gene	42	85	gen de la metilentetrahidrofolato reductasa
+20887110	pmid-20887110.ann	T1	Disease	171	174	DTN
+20887110	pmid-20887110.ann	T15	Gene	493	536	gen de la metilentetrahidrofolato reductasa
+20887110	pmid-20887110.ann	T5	DNAMutation	551	589	transición C -> T en el nucleótido 677
+20887110	pmid-20887110.ann	T16	Disease	787	790	DTN
+20887110	pmid-20887110.ann	T17	DNAMutation	889	899	677 C -> T
+20887110	pmid-20887110.ann	T18	Disease	927	930	DTN
+20887110	pmid-20887110.ann	T19	Disease	1172	1175	DTN
+20887110	pmid-20887110.ann	T20	DNAMutation	1620	1630	677 C -> T
+20887110	pmid-20887110.ann	T21	Disease	2079	2082	DTN
+20887110	pmid-20887110.ann	T22	Disease	2231	2234	DTN
+20949073	pmid-20949073.ann	T1	Disease	617	634	fibrosis quística
+20949073	pmid-20949073.ann	T2	DNAMutation	671	678	2623G>T
+20949073	pmid-20949073.ann	T3	Gene	690	694	CFTR
+21030903	pmid-21030903.ann	T1	Disease	65	80	Citomegalovirus
+21030903	pmid-21030903.ann	T3	Disease	248	263	citomegalovirus
+21030903	pmid-21030903.ann	T4	Gene	1024	1028	UL97
+21030903	pmid-21030903.ann	T5	Gene	1065	1069	UL54
+21030903	pmid-21030903.ann	T6	Gene	1384	1388	UL97
+21030903	pmid-21030903.ann	T7	Gene	1397	1401	UL54
+21030903	pmid-21030903.ann	T8	Gene	1926	1930	UL54
+21030903	pmid-21030903.ann	T2	Gene	1007	1023	gen de la cinasa
+21030903	pmid-21030903.ann	T9	Gene	1037	1064	gen de la polimerasa de ADN
+21042587	pmid-21042587.ann	T1	Gene	47	75	receptor de glucocorticoides
+21042587	pmid-21042587.ann	T2	Disease	131	154	hiperplasia suprarrenal
+21042587	pmid-21042587.ann	T3	Disease	157	191	aparente exceso mineralocorticoide
+21042587	pmid-21042587.ann	T4	Disease	252	263	OMIM 138040
+21042587	pmid-21042587.ann	T5	Disease	272	294	enfermedad hereditaria
+21042587	pmid-21042587.ann	T6	Gene	423	451	receptor de glucocorticoides
+21042587	pmid-21042587.ann	T7	Gene	453	455	GR
+21042587	pmid-21042587.ann	T8	Disease	478	506	incidentalomas suprarrenales
+21042587	pmid-21042587.ann	T9	Disease	619	642	resistencia al cortisol
+21042587	pmid-21042587.ann	T10	Disease	644	677	hiperplasia suprarrenal bilateral
+21042587	pmid-21042587.ann	T11	Disease	679	691	hipertensión
+21042587	pmid-21042587.ann	T12	Disease	703	714	hipocalemia
+21042587	pmid-21042587.ann	T13	Gene	864	866	GR
+21042587	pmid-21042587.ann	T14	Gene	1045	1047	GR
+21042587	pmid-21042587.ann	T15	Gene	1347	1349	GR
+21042587	pmid-21042587.ann	T16	Gene	1441	1443	GR
+21042587	pmid-21042587.ann	T17	Gene	1495	1497	GR
+21042587	pmid-21042587.ann	T18	Gene	1616	1621	FKBP5
+21042587	pmid-21042587.ann	T19	Gene	1773	1775	GR
+21042587	pmid-21042587.ann	T20	Gene	1826	1828	GR
+21042587	pmid-21042587.ann	T21	Gene	2007	2009	GR
+21042587	pmid-21042587.ann	T22	Disease	2020	2032	hipertensión
+21042587	pmid-21042587.ann	T23	Gene	2067	2094	receptor mineralocorticoide
+21042587	pmid-21042587.ann	T24	Disease	2267	2301	aparente exceso mineralocorticoide
+21042587	pmid-21042587.ann	T25	Gene	2500	2542	11b-hidroxiesteroide deshidrogenasa tipo 2
+21042587	pmid-21042587.ann	T26	Gene	2564	2566	GR
+21042587	pmid-21042587.ann	T27	Gene	2612	2614	GR
+21042587	pmid-21042587.ann	T28	Disease	2713	2730	hipercortisolismo
+21042587	pmid-21042587.ann	T29	Disease	2743	2776	hiperplasia suprarrenal bilateral
+21042587	pmid-21042587.ann	T30	Disease	2804	2816	hipertensión
+21042587	pmid-21042587.ann	T31	NucleotideChange-BaseChange	869	917	eemplazando una arginina (CGA) por un stop (TGA)
+21054465	pmid-21054465.ann	T1	Gene	34	40	CYP2C8
+21054465	pmid-21054465.ann	T2	Disease	54	65	hipertensos
+21054465	pmid-21054465.ann	T3	Gene	177	183	CYP2C8
+21054465	pmid-21054465.ann	T4	Gene	233	247	citocromo P450
+21054465	pmid-21054465.ann	T5	Gene	249	252	CYP
+21054465	pmid-21054465.ann	T6	Disease	413	425	hipertensión
+21054465	pmid-21054465.ann	T7	Gene	555	561	CYP2C8
+21054465	pmid-21054465.ann	T8	Disease	705	716	hipertensos
+21054465	pmid-21054465.ann	T9	Gene	758	764	CYP2C8
+21054465	pmid-21054465.ann	T10	Gene	841	847	CYP2C8
+21054465	pmid-21054465.ann	T11	Disease	894	906	hipertensión
+21054465	pmid-21054465.ann	T12	DNAMutation	985	1009	eliminación de T en 5063
+21054465	pmid-21054465.ann	T13	DNAMutation	1015	1046	sustitución de C por T en 33468
+21054465	pmid-21054465.ann	T14	Disease	1159	1170	hipertensos
+21054465	pmid-21054465.ann	T15	DNAMutation	1237	1244	C35322C
+21054465	pmid-21054465.ann	T16	DNAMutation	1361	1368	C35322C
+21054465	pmid-21054465.ann	T17	Disease	1408	1420	hipertensión
+21054465	pmid-21054465.ann	T18	DNAMutation	1631	1638	C35322T
+21054465	pmid-21054465.ann	T19	Disease	1659	1670	hipertensos
+21059483	pmid-21059483.ann	T2	Gene	101	105	GALT
+21059483	pmid-21059483.ann	T4	Disease	147	167	galactosemia clásica
+21059483	pmid-21059483.ann	T5	Disease	174	235	trastorno autosómico recesivo del metabolismo de la galactosa
+21059483	pmid-21059483.ann	T6	Disease	449	470	déficits neurológicos
+21059483	pmid-21059483.ann	T7	Disease	473	486	fallo ovárico
+21059483	pmid-21059483.ann	T8	Gene	552	556	GALT
+21059483	pmid-21059483.ann	T9	Disease	573	585	galactosemia
+21059483	pmid-21059483.ann	T10	OtherMutation	652	670	deleción de 5,5 kb
+21059483	pmid-21059483.ann	T11	Gene	1270	1274	GALT
+21059483	pmid-21059483.ann	T12	Disease	14	25	fiebre GALT
+21059483	pmid-21059483.ann	T3	Disease	1577	1589	galactosemia
+21757944	pmid-21757944.ann	T1	OtherMutation	15	32	deleción de 13 pb
+21757944	pmid-21757944.ann	T2	Gene	76	88	globina beta
+21757944	pmid-21757944.ann	T4	Disease	95	115	beta-talasemia mayor
+21757944	pmid-21757944.ann	T5	OtherMutation	159	166	IVSII-1
+21757944	pmid-21757944.ann	T6	OtherMutation	254	271	deleción de 13 pb
+21757944	pmid-21757944.ann	T7	Gene	324	336	globina beta
+21757944	pmid-21757944.ann	T8	Gene	746	758	globina beta
+21757944	pmid-21757944.ann	T9	OtherMutation	823	840	deleción de 13 pb
+21757944	pmid-21757944.ann	T10	Gene	868	880	globina beta
+21757944	pmid-21757944.ann	T11	Gene	1071	1083	globina beta
+21757944	pmid-21757944.ann	T13	DNAMutation	1118	1192	deleción de 13 pb en el nucleótido 90 aguas abajo del codón de terminación
+21757944	pmid-21757944.ann	T14	DNAMutation	1194	1210	CD +90 del 13 pb
+21757944	pmid-21757944.ann	T15	Disease	1308	1331	anomalías hematológicas
+21757944	pmid-21757944.ann	T16	OtherMutation	1382	1399	deleción de 13 pb
+21757944	pmid-21757944.ann	T3	Disease	906	920	beta-talasemia
+21757944	pmid-21757944.ann	T17	OtherMutation	952	959	IVSII-1
+21757944	pmid-21757944.ann	T18	NucleotideChange-BaseChange	961	966	G > A
+21757944	pmid-21757944.ann	T19	OtherMutation	1008	1015	IVSII-1
+21757944	pmid-21757944.ann	T20	NucleotideChange-BaseChange	1017	1022	G > A
+21757944	pmid-21757944.ann	T12	OtherMutation	1570	1587	deleción de 13 pb
+22028770	pmid-22028770.ann	T1	Gene	45	49	APOE
+22028770	pmid-22028770.ann	T2	Disease	167	182	diabetes tipo 2
+22028770	pmid-22028770.ann	T3	Gene	258	262	APOE
+22028770	pmid-22028770.ann	T4	Disease	288	311	enfermedad de Alzheimer
+22028770	pmid-22028770.ann	T5	Disease	313	328	diabetes tipo 2
+22028770	pmid-22028770.ann	T6	Disease	331	351	enfermedad coronaria
+22028770	pmid-22028770.ann	T7	Gene	444	448	APOE
+22028770	pmid-22028770.ann	T8	Disease	479	502	enfermedad de Alzheimer
+22028770	pmid-22028770.ann	T9	Gene	631	635	APOE
+22028770	pmid-22028770.ann	T10	Disease	739	754	diabetes tipo 2
+22028770	pmid-22028770.ann	T11	SNP	831	839	rs449647
+22028770	pmid-22028770.ann	T12	Gene	844	848	APOE
+22028770	pmid-22028770.ann	T13	Gene	997	1001	APOE
+22028770	pmid-22028770.ann	T14	Gene	1085	1089	APOE
+22028770	pmid-22028770.ann	T15	Gene	1216	1220	ATF4
+22028770	pmid-22028770.ann	T16	Gene	1475	1479	ATF4
+22028770	pmid-22028770.ann	T17	Gene	1497	1501	APOE
+22028770	pmid-22028770.ann	T18	Gene	1524	1528	ATF4
+22028770	pmid-22028770.ann	T19	Gene	1554	1558	APOE
+22028770	pmid-22028770.ann	T20	Gene	1589	1593	ATF4
+22028770	pmid-22028770.ann	T21	Gene	1674	1678	APOE
+22028770	pmid-22028770.ann	T22	Gene	1681	1685	ATF4
+22028770	pmid-22028770.ann	T23	Gene	1810	1814	APOE
+22028770	pmid-22028770.ann	T24	Disease	1821	1836	diabetes tipo 2
+22028770	pmid-22028770.ann	T25	Gene	1909	1913	APOE
+22028770	pmid-22028770.ann	T26	SNP	1932	1940	rs405509
+22028770	pmid-22028770.ann	T27	SNP	1953	1961	rs440446
+22028770	pmid-22028770.ann	T28	Disease	1997	2012	diabetes tipo 2
+22028770	pmid-22028770.ann	T29	Disease	2096	2111	diabetes tipo 2
+22028770	pmid-22028770.ann	T30	Gene	2184	2188	ATF4
+22028770	pmid-22028770.ann	T31	Gene	2246	2250	APOE
+22028770	pmid-22028770.ann	T32	Gene	2353	2357	APOE
+22028770	pmid-22028770.ann	T33	Disease	2374	2389	diabetes tipo 2
+22028770	pmid-22028770.ann	T34	DNAAllele	822	829	-491A/T
+22028770	pmid-22028770.ann	T35	DNAAllele	97	105	-491 A/T
+22028770	pmid-22028770.ann	T36	DNAAllele	930	940	-491 A a T
+22028770	pmid-22028770.ann	T37	DNAAllele	1914	1921	-491A/T
+22028770	pmid-22028770.ann	T38	DNAAllele	1923	1930	-219G/T
+22028770	pmid-22028770.ann	T39	DNAAllele	1944	1951	+113G/C
+22028770	pmid-22028770.ann	T40	DNAAllele	2174	2181	-491A/T
+22125978	pmid-22125978.ann	T1	Gene	52	56	LIPH
+22125978	pmid-22125978.ann	T7	Gene	924	928	LIPH
+22125978	pmid-22125978.ann	T8	DNAMutation	969	983	c.659_660delTA
+22125978	pmid-22125978.ann	T9	DNAMutation	1086	1100	c.659_660delTA
+22125978	pmid-22125978.ann	T10	Gene	1111	1115	LIPH
+22125978	pmid-22125978.ann	T11	Gene	1326	1330	LIPH
+22125978	pmid-22125978.ann	T3	Disease	610	624	cabello lanoso
+22125978	pmid-22125978.ann	T4	Disease	625	637	hipotricosis
+22125978	pmid-22125978.ann	T2	Disease	113	127	cabello lanoso
+22125978	pmid-22125978.ann	T5	Disease	128	140	hipotricosis
+22125978	pmid-22125978.ann	T6	Disease	336	348	hipotricosis
+22125978	pmid-22125978.ann	T12	Disease	321	335	cabello lanoso
+22125978	pmid-22125978.ann	T13	Disease	1137	1151	cabello lanoso
+22125978	pmid-22125978.ann	T14	Disease	1152	1164	hipotricosis
+22129472	pmid-22129472.ann	T1	Gene	159	163	LDLR
+22129472	pmid-22129472.ann	T2	Gene	204	208	LDLR
+22129472	pmid-22129472.ann	T3	Disease	252	280	hipercolesterolemia familiar
+22129472	pmid-22129472.ann	T4	Disease	336	366	trastorno autosómico dominante
+22129472	pmid-22129472.ann	T5	Gene	402	406	LDLR
+22129472	pmid-22129472.ann	T6	Gene	496	500	LDLR
+22129472	pmid-22129472.ann	T7	DNAMutation	701	713	c.1706-2 A>T
+22129472	pmid-22129472.ann	T8	Gene	770	774	LDLR
+22129472	pmid-22129472.ann	T9	OtherMutation	965	985	deleción de 10 bases
+22129472	pmid-22129472.ann	T10	DNAMutation	1018	1043	c.1706-1715del.ATCTCCTCAG
+22129472	pmid-22129472.ann	T11	Gene	1306	1310	LDLR
+22129472	pmid-22129472.ann	T12	Gene	1478	1482	LDLR
+22129472	pmid-22129472.ann	T13	Gene	1772	1776	LDLR
+22129472	pmid-22129472.ann	T14	Disease	296	324	hipercolesterolemia familiar
+22129472	pmid-22129472.ann	T15	Disease	326	328	HF
+22129472	pmid-22129472.ann	T16	Disease	447	449	HF
+22129472	pmid-22129472.ann	T17	DNAMutation	1244	1255	c.1991-1993
+22129472	pmid-22129472.ann	T18	Disease	1679	1681	HF
+22174939	pmid-22174939.ann	T1	Gene	31	34	RET
+22174939	pmid-22174939.ann	T2	Disease	41	67	enfermedad de Hirschsprung
+22174939	pmid-22174939.ann	T4	Gene	159	162	RET
+22174939	pmid-22174939.ann	T5	Disease	180	206	enfermedad de Hirschsprung
+22174939	pmid-22174939.ann	T6	Disease	208	212	HSCR
+22174939	pmid-22174939.ann	T7	Disease	214	237	aganglionosis congénita
+22174939	pmid-22174939.ann	T8	Gene	278	281	RET
+22174939	pmid-22174939.ann	T9	Disease	368	399	aganglionosis de segmento corto
+22174939	pmid-22174939.ann	T10	Disease	566	588	aganglionosis colónica
+22174939	pmid-22174939.ann	T13	Gene	662	665	RET
+22174939	pmid-22174939.ann	T14	Disease	723	727	HSCR
+22174939	pmid-22174939.ann	T16	OtherMutation	1090	1107	deleción de 22 pb
+22174939	pmid-22174939.ann	T17	Gene	1284	1287	RET
+22174939	pmid-22174939.ann	T19	Gene	1300	1303	RET
+22174939	pmid-22174939.ann	T20	Disease	1388	1392	HSCR
+22174939	pmid-22174939.ann	T21	Disease	1428	1431	RVs
+22174939	pmid-22174939.ann	T22	Disease	1460	1464	HSCR
+22174939	pmid-22174939.ann	T23	Disease	1488	1491	RVs
+22174939	pmid-22174939.ann	T3	OtherMutation	1054	1083	4 sustituciones nucleotídicas
+22174939	pmid-22174939.ann	T11	OtherMutation	1141	1200	sustitución de nucleótido único en la región no traducida 5
+22174939	pmid-22174939.ann	T12	OtherMutation	901	925	14 variantes silenciosas
+22174939	pmid-22174939.ann	T15	OtherMutation	927	938	29 missense
+22174939	pmid-22174939.ann	T18	OtherMutation	940	950	5 nonsense
+22174939	pmid-22174939.ann	T24	OtherMutation	952	965	4 frameshifts
+22174939	pmid-22174939.ann	T25	OtherMutation	968	1014	una deleción de aminoácidos in-frame en el CDS
+22174939	pmid-22174939.ann	T26	OtherMutation	1016	1052	dos deleciones de sitios de splicing
+22180037	pmid-22180037.ann	T1	Gene	75	80	GSTP1
+22180037	pmid-22180037.ann	T2	Disease	103	121	cáncer de próstata
+22180037	pmid-22180037.ann	T3	Gene	194	199	GSTP1
+22180037	pmid-22180037.ann	T4	Gene	312	317	GSTP1
+22180037	pmid-22180037.ann	T5	DNAMutation	321	347	A > G en el nucleótido 313
+22180037	pmid-22180037.ann	T6	Gene	447	452	GSTP1
+22180037	pmid-22180037.ann	T7	Gene	489	494	GSTP1
+22180037	pmid-22180037.ann	T8	Gene	539	544	GSTP1
+22180037	pmid-22180037.ann	T9	Disease	567	585	cáncer de próstata
+22180037	pmid-22180037.ann	T10	Disease	695	713	cáncer de próstata
+22180037	pmid-22180037.ann	T11	Disease	728	758	hiperplasia prostática benigna
+22180037	pmid-22180037.ann	T12	Gene	780	785	GSTP1
+22180037	pmid-22180037.ann	T13	Gene	959	964	GSTP1
+22180037	pmid-22180037.ann	T15	Disease	1103	1121	cáncer de próstata
+22180037	pmid-22180037.ann	T16	Disease	1165	1195	hiperplasia prostática benigna
+22180037	pmid-22180037.ann	T17	Gene	1317	1322	GSTP1
+22180037	pmid-22180037.ann	T19	Gene	1407	1412	GSTP1
+22180037	pmid-22180037.ann	T20	Disease	1468	1486	cáncer de próstata
+22188495	pmid-22188495.ann	T3	Disease	130	148	síndrome de Werner
+22188495	pmid-22188495.ann	T4	Disease	150	152	SW
+22188495	pmid-22188495.ann	T5	Disease	160	200	trastorno progeroide autosómico recesivo
+22188495	pmid-22188495.ann	T6	Gene	246	249	WRN
+22188495	pmid-22188495.ann	T7	Disease	866	868	SW
+22188495	pmid-22188495.ann	T8	Gene	1099	1102	WRN
+22188495	pmid-22188495.ann	T9	DNAMutation	1151	1158	3190C>T
+22188495	pmid-22188495.ann	T10	Gene	1325	1328	WRN
+22188495	pmid-22188495.ann	T11	Disease	1414	1416	SW
+22188495	pmid-22188495.ann	T12	Disease	1607	1609	SW
+22188495	pmid-22188495.ann	T13	Disease	1627	1649	anormalidad metabólica
+22188495	pmid-22188495.ann	T14	Disease	1663	1688	resistencia a la insulina
+22188495	pmid-22188495.ann	T15	Disease	1723	1725	SW
+22188495	pmid-22188495.ann	T16	Disease	1901	1903	SW
+22188495	pmid-22188495.ann	T17	Disease	22	67	síndrome de Werner sin anormalidad metabólica
+22188495	pmid-22188495.ann	T1	Disease	273	308	encanecimiento y pérdida de cabello
+22188495	pmid-22188495.ann	T2	Disease	310	329	cataratas juveniles
+22188495	pmid-22188495.ann	T18	Disease	331	341	esclerosis
+22188495	pmid-22188495.ann	T19	Disease	344	365	ulceración de la piel
+22188495	pmid-22188495.ann	T20	Disease	367	409	diabetes mellitus resistente a la insulina
+22188495	pmid-22188495.ann	T21	Disease	411	423	dislipidemia
+22188495	pmid-22188495.ann	T22	Disease	425	445	adiposidad abdominal
+22188495	pmid-22188495.ann	T23	Disease	447	459	osteoporosis
+22188495	pmid-22188495.ann	T24	Disease	461	475	aterosclerosis
+22188495	pmid-22188495.ann	T25	Disease	478	495	neoplasia maligna
+22188495	pmid-22188495.ann	T26	Disease	699	708	cataratas
+22188495	pmid-22188495.ann	T27	Disease	710	736	encanecimiento del cabello
+22188495	pmid-22188495.ann	T28	Disease	739	759	calcinosis tendinosa
+22188495	pmid-22188495.ann	T29	Disease	882	907	intolerancia a la glucosa
+22188495	pmid-22188495.ann	T30	Disease	912	924	dislipidemia
+22188495	pmid-22188495.ann	T31	Disease	930	959	acumulación de grasa visceral
+22295085	pmid-22295085.ann	T1	Gene	57	60	NF2
+22295085	pmid-22295085.ann	T3	Disease	64	88	schwannomas vestibulares
+22295085	pmid-22295085.ann	T4	Gene	214	217	NF2
+22295085	pmid-22295085.ann	T5	Gene	255	258	NF2
+22295085	pmid-22295085.ann	T6	Disease	276	300	schwannomas vestibulares
+22295085	pmid-22295085.ann	T7	Disease	508	513	tumor
+22295085	pmid-22295085.ann	T8	Gene	586	589	NF2
+22295085	pmid-22295085.ann	T9	Disease	880	885	tumor
+22295085	pmid-22295085.ann	T10	Disease	1432	1437	tumor
+22295085	pmid-22295085.ann	T11	Disease	1810	1815	tumor
+22295085	pmid-22295085.ann	T12	Disease	302	304	SV
+22295085	pmid-22295085.ann	T13	Disease	1518	1532	SV esporádicos
+22295085	pmid-22295085.ann	T14	Gene	1336	1339	NF2
+22295085	pmid-22295085.ann	T15	Gene	848	851	NF2
+22295085	pmid-22295085.ann	T16	Gene	1404	1407	NF2
+22295085	pmid-22295085.ann	T17	Gene	1646	1649	NF2
+22295085	pmid-22295085.ann	T2	Gene	188	212	neurofibromatosis tipo 2
+22295085	pmid-22295085.ann	T18	Disease	230	237	tumores
+22295085	pmid-22295085.ann	T19	Disease	387	394	tumores
+22295085	pmid-22295085.ann	T20	Disease	433	447	SV esporádicos
+22295085	pmid-22295085.ann	T21	Disease	1036	1047	schwannomas
+22303603	pmid-22303603.ann	T1	Disease	197	207	trastornos
+22303603	pmid-22303603.ann	T2	Disease	238	246	diabetes
+22303603	pmid-22303603.ann	T3	Disease	252	260	obesidad
+22303603	pmid-22303603.ann	T4	Transcript	1176	1187	NG_008724.1
+22303603	pmid-22303603.ann	T5	Disease	1621	1643	trastornos metabólicos
+22337303	pmid-22337303.ann	T1	Gene	62	66	LMP1
+22337303	pmid-22337303.ann	T2	Gene	316	320	LMP1
+22337303	pmid-22337303.ann	T3	Gene	561	565	LMP1
+22337303	pmid-22337303.ann	T4	Gene	641	645	LMP1
+22337303	pmid-22337303.ann	T5	Gene	940	944	LMP1
+22337303	pmid-22337303.ann	T6	Gene	1013	1017	LMP1
+22337303	pmid-22337303.ann	T7	Gene	1655	1659	LMP1
+22337303	pmid-22337303.ann	T8	Gene	1881	1886	EBNA2
+22337303	pmid-22337303.ann	T9	Gene	2036	2040	LMP1
+22337303	pmid-22337303.ann	T10	Disease	123	130	tumores
+22337303	pmid-22337303.ann	T11	OtherMutation	1541	1558	deleción de 69 pb
+22337303	pmid-22337303.ann	T12	OtherMutation	1410	1437	cinco repeticiones de 33 pb
+22337303	pmid-22337303.ann	T13	OtherMutation	1125	1184	deleciones de 30 pb, raras de 69 pb o de 27 pb desconocidas
+22337303	pmid-22337303.ann	T14	OtherMutation	369	386	deleción de 30 pb
+22337303	pmid-22337303.ann	T15	OtherMutation	1314	1331	deleción de 69 pb
